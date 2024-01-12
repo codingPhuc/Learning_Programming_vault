@@ -18,6 +18,16 @@
 - clone repository into a new directory 
 - `git version`
 - check the version of git 
+- `git diff`
+- the command to see the different to in file in git 
+- `git restore <filename>`
+- git restore you can restore previous version of a file 
+- `git mv "<filename change >"`
+- this is to change the file name of git 
+- `git log`
+- this is to change the log of the commit you can also add in `--oneline` to make it look more complax 
+- `git log -` 
+- is to see the change in the commit 
 # intermediate command  
 - git config --global user.name "coding phuc"
 - git config --global user.email "phucnguyenhoang3839@gmail.com"

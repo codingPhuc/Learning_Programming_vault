@@ -1,0 +1,14 @@
+D:\obsidient C# vault\Covariance and Contravariance\Covariance and Contravariance code\bin\Debug\net7.0\Covariance and Contravariance code.exe
+D:\obsidient C# vault\Covariance and Contravariance\Covariance and Contravariance code\bin\Debug\net7.0\Covariance and Contravariance code.deps.json
+D:\obsidient C# vault\Covariance and Contravariance\Covariance and Contravariance code\bin\Debug\net7.0\Covariance and Contravariance code.runtimeconfig.json
+D:\obsidient C# vault\Covariance and Contravariance\Covariance and Contravariance code\bin\Debug\net7.0\Covariance and Contravariance code.dll
+D:\obsidient C# vault\Covariance and Contravariance\Covariance and Contravariance code\bin\Debug\net7.0\Covariance and Contravariance code.pdb
+D:\obsidient C# vault\Covariance and Contravariance\Covariance and Contravariance code\obj\Debug\net7.0\Covariance and Contravariance code.GeneratedMSBuildEditorConfig.editorconfig
+D:\obsidient C# vault\Covariance and Contravariance\Covariance and Contravariance code\obj\Debug\net7.0\Covariance and Contravariance code.AssemblyInfoInputs.cache
+D:\obsidient C# vault\Covariance and Contravariance\Covariance and Contravariance code\obj\Debug\net7.0\Covariance and Contravariance code.AssemblyInfo.cs
+D:\obsidient C# vault\Covariance and Contravariance\Covariance and Contravariance code\obj\Debug\net7.0\Covariance and Contravariance code.csproj.CoreCompileInputs.cache
+D:\obsidient C# vault\Covariance and Contravariance\Covariance and Contravariance code\obj\Debug\net7.0\Covariance and Contravariance code.dll
+D:\obsidient C# vault\Covariance and Contravariance\Covariance and Contravariance code\obj\Debug\net7.0\refint\Covariance and Contravariance code.dll
+D:\obsidient C# vault\Covariance and Contravariance\Covariance and Contravariance code\obj\Debug\net7.0\Covariance and Contravariance code.pdb
+D:\obsidient C# vault\Covariance and Contravariance\Covariance and Contravariance code\obj\Debug\net7.0\Covariance and Contravariance code.genruntimeconfig.cache
+D:\obsidient C# vault\Covariance and Contravariance\Covariance and Contravariance code\obj\Debug\net7.0\ref\Covariance and Contravariance code.dll

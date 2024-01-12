@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Covariance and Contravariance code/1.0.0": {
+        "runtime": {
+          "Covariance and Contravariance code.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Covariance and Contravariance code/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
