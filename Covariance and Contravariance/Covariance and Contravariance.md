@@ -1,3 +1,9 @@
+
+# What is a Variance  ? 
+- Variance is how subtyping between more complex types relate to subtyping between their component , think of it like how a data structure or function  of a  type  derivative relate to a data structure of a base type 
+- an example of this is how a list of cat relate to a list of animal 
+- when a class is inherited form and form it own function it will overide the function of the base class so the base class function will be a subtype of the deride class function   so it will be Contravariance 
+- when a base data structure is being inherited on the other hand it will create a Covariance because the base data structure is prioritize  over the inherited class data structure 
 # Covariance and Contravariance Concept  
 - if shrinking the cause the consequence to shrink as well then those are Covariance they are changing in the same direction 
 - if scaling down the cause make the effect  go larger we are talking about Contravariance effect 
