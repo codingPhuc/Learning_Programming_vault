@@ -1,114 +1,225 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
-
-Base x = new Base(); // this is legal 
-Base y = new Derived(); 
-
-// both object know which memeber to call  
-x.DoSomething(); 
-y.DoSomething();
-
-
-// but you cannot access the derived class 
-//y.DoMore(); 
-
-// you much access the derive method thought the deride class 
-Derived   d  =  new Derived();   
-
-d.DoSomething(); 
-d.DoMore();
-
-
-
-
-// you can have also a consumer and a producer of the bases type 
-
-
-IProducer<Base> prodOfBase = null!;
-Base a = prodOfBase.Product();
-// it is illegal to assign a Covariance interface to a Derived class 
-//Derived f = prodOfBase.Product(); 
-
-
-// it is allow to add a  product of derived to a Base b and Derived c object 
-IProducer<Derived> prodOfDerived = null!;
-Base b = prodOfDerived.Product();
-Derived C = prodOfDerived.Product();  
-
-
-// IConsumer of bases allow for the consumsion of Base and Derived object 
-IConsumer<Base>  consOfBase = null!;
-
-consOfBase.Consume(new Base()); 
-consOfBase.Consume(new Derived());
-
-
-
-IConsumer<Derived> consOfDerived = null!;
-
-consOfDerived.Consume(new Derived());
-
-
-
-
-//
-// the producer of base can be assign to producer of derive and the producer of base 
-// producer of derived cannot have the producer of bases becuase if the product is return it will return base which is illegal 
-
-
-IProducer<Base> p = prodOfBase;
-IProducer<Base>  q = prodOfDerived;
-IProducer<Derived> r = prodOfDerived;
-
-// xIProducer<Derived> s = prodOfBase;
-
-// the consumer of base can be assign to consumer  of base  it cannot be assign to derive because the value it consume will include both bases and derive 
-// 
-
-
-IConsumer<Base> t = consOfBase;
-
-IConsumer<Derived> v = consOfBase;
-IConsumer<Derived> w= consOfBase;
-
-// xIConsumer<Base> u = consOfDerived;
-
-
-
-
-
-
-
-// the out variance enable used of more derived type
-// the more used mean that it is used ful for class that  derived from other class to used this interface 
-interface IProducer<out T>
+class Program
 {
-    T Product(); 
+    static void Main()
+    {
+        // Instance creation moved to a method or constructor
+        CatProcessor catProcessor = new CatProcessor();
 
-}
+        // Using Cat
+        catProcessor.DoSomething<Cat>();
 
-// the in variance enable used of less derivde type  
-// the more used mean that it is used ful for class that do not derived from other class to used this interface 
-interface IConsumer<in T>
-{
-    void Consume(T obj);  
-}
+        Console.WriteLine("\\\\\\\\\\\\\\\\\\\\\\\\");
+
+        Lifeform life = new Lifeform();
+        var delegatePuppy = life.delegatePuppy;
+        var delegateLifeForm = life.delegateLifeForm;
+
+        // we can assign the ImAction<Puppy> to the ImAction<Lifeform> due to the in key word 
+        // it is due to its contravariance nature 
+        delegatePuppy = delegateLifeForm;
+
+        delegatePuppy(new Puppy());
+        // Compiler error if you try to use Dog:
+        // catProcessor.DoSomething<Dog>();
+
+        // when to use variance  
+        var PersonCompare = new PersonComparer();
+
+        // this is invalid because PersoncCompare and EmployeeCompare is an invariance 
+        // EmployeeCompare = PersonCompare;
+
+        List<Employee> employees = new List<Employee>
+        {
+            new Employee() {FirstName = "Michael", LastName = "Alexander"},
+            new Employee() {FirstName = "Jeff", LastName = "Price"}
+        };
+
+        // it because it is an Person contravarion T generic type allow it to accpect all derivative type of Person 
+        IEnumerable<Employee> noduplicates =
+            employees.Distinct<Employee>(new PersonComparer());
+
+        foreach (var employee in noduplicates)
+        {
+            Console.WriteLine(employee.FirstName + " " + employee.LastName);
+        }
+        // we created a list of employee 
+        employees = new List<Employee>();
+
+        // You can pass IEnumerable<Employee>,
+        // although the method expects IEnumerable<Person>.  
+
+        PrintFullName(employees);
 
 
+    }
 
+    interface IProducer<out T>
+    {
+        T Product();
+    }
 
+    interface IConsumer<in T>
+    {
+        void Consume(T obj);
+    }
 
+    class Base
+    {
+        public void DoSomething() => Console.WriteLine($"Doing from {this.GetType().Name}");
+    }
 
+    class Derived : Base
+    {
+        public void DoMore() => Console.WriteLine($"Doing more from {this.GetType().Name}  ");
+    }
 
+    interface ICovariant<out R>
+    {
+        // Commented out as it generates a compiler error
+        // void DoSomething<T>() where T : R;
+    }
 
+    class Animal
+    {
+        public string Name { get; set; }
+    }
 
+    class Cat : Animal
+    {
+        public void Purr()
+        {
+            Console.WriteLine("Purring...");
+        }
+    }
 
-class  Base
-{
-    public void DoSomething() => Console.WriteLine($"Doing from {this.GetType().Name}"); 
-}
+    class Dog : Animal
+    {
+        public void Bark()
+        {
+            Console.WriteLine("Barking...");
+        }
+    }
 
-class Derived : Base
-{
-    public void DoMore() => Console.WriteLine($"Doing more from {this.GetType().Name}  "); 
+    class Pets : IEnumerable<Cat>, IEnumerable<Dog>
+    {
+        public System.Collections.IEnumerator GetEnumerator()
+        {
+            throw new NotImplementedException();
+        }
+
+        IEnumerator<Cat> IEnumerable<Cat>.GetEnumerator()
+        {
+            Console.WriteLine("Cat");
+            // Some code.
+            return null;
+        }
+
+        IEnumerator<IEnumerable> IEnumerable.GetEnumerator()
+        {
+            // Some code.
+            return null;
+        }
+
+        IEnumerator<Dog> IEnumerable<Dog>.GetEnumerator()
+        {
+            Console.WriteLine("Dog");
+            // Some code.
+            return null;
+        }
+    }
+
+    // if you do not add the in key word it will not be a contravariant
+    // if it is not a contravariant it will cause the  delegatePuppy = delegateLifeForm;  out put an error 
+    public delegate void myAction<in T>(T obj);
+
+    class Lifeform
+    {
+        public string Name { get; set; } = "LifeForm";
+
+        public myAction<Lifeform> delegateLifeForm = (input) => Console.WriteLine("lifeForm Delegate - " + input.Name);
+
+        public myAction<Puppy> delegatePuppy = (input) => Console.WriteLine("Puppy Delegate - " + input.Name);
+
+    }
+
+    class Puppy : Lifeform
+    {
+        public Puppy()
+        {
+            Name = "Puppy";
+        }
+    }
+
+    class CatProcessor : ICovariant<Cat>
+    {
+        public void DoSomething<T>() where T : Cat
+        {
+            // Do something with T, assuming it's a Cat
+            T catInstance = Activator.CreateInstance<T>();
+            Console.WriteLine($"Processing {typeof(T)} named {catInstance.Name}");
+            catInstance.Purr();
+
+            IEnumerable<Animal> pets = new Pets();
+            pets.GetEnumerator();
+        }
+    }
+    // When to used Variance
+    // Simple hierarchy of classes.  
+    public class Person
+    {
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+    }
+
+    public class Employee : Person
+    {
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+    }
+
+    // The custom comparer for the Person type  
+    // with standard implementations of Equals()  
+    // and GetHashCode() methods.  
+
+    // when you implement a generic interface to a class it the class is invariance  
+    class PersonComparer : IEqualityComparer<Person>
+    {
+        public bool Equals(Person x, Person y)
+        {
+            if (Object.ReferenceEquals(x, y)) return true;
+            if (Object.ReferenceEquals(x, null) ||
+                Object.ReferenceEquals(y, null))
+                return false;
+            return x.FirstName == y.FirstName && x.LastName == y.LastName;
+        }
+
+        public int GetHashCode(Person person)
+        {
+            if (Object.ReferenceEquals(person, null)) return 0;
+            int hashFirstName = person.FirstName == null
+                ? 0 : person.FirstName.GetHashCode();
+            int hashLastName = person.LastName.GetHashCode();
+            return hashFirstName ^ hashLastName;
+        }
+    }
+
+    // print out the list of Person 
+    // if we change it to a normal list instead it will out put this error  Severity	Code	Description	Project	File	Line	Suppression State
+    // Error CS1503  Argument 1: cannot convert from 'System.Collections.Generic.List<Program.Employee>' to 'System.Collections.Generic.List<Program.Person>'	Covariance and Contravariance code  D:\obsidient C# vault\Covariance and Contravariance\Covariance and Contravariance code\Program.cs	56	Active
+
+    public static void PrintFullName(IEnumerable<Person> persons)
+    {   
+        // because the list of employee is a covariance is it allow to be assign to a list of person type 
+        foreach (Person person in persons)
+        {
+            Console.WriteLine("Name: {0} {1}",
+            person.FirstName, person.LastName);
+        }
+    }
 }

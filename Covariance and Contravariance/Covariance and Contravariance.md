@@ -13,4 +13,9 @@
 `static void SetObject(object o) { } Action<object> actObject = SetObject; // An object that is instantiated with a less derived type argument // is assigned to an object instantiated with a more derived type argument. // Assignment compatibility is reversed. Action<string> actString = actObject;`
 - when a method is consuming argument then usually it is a contravariance  type 
 - when a method is producing  argument then usually it is a covariance type 
+- think of the covariance is a parent can have child  but a child cannot be a parent  
+- think of contravariant as a child  can be an adult but an adult cannot be child 
 - observing the fundamental of object 
+[[Variance in Generic Interfaces]]
+[[Using Variance in Interfaces for Generic Collections]]
+[[Variance in Delegates]]

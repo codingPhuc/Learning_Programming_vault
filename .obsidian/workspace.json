@@ -4,59 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "89a491d6b2a06805",
+        "id": "a56b076b74bcfa6c",
         "type": "tabs",
         "children": [
           {
-            "id": "97606c68fd8c1ce6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning C sharp roadmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81fb959e0d40d509",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Https/HTTPS Protocols.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3731699793b7a1e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning C sharp roadmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b7779e7d430116e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c69adea99090b0f1",
+            "id": "38e55b277d944781",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,9 +18,28 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "47be06ec3b829e63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Variance in Delegates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6a4f15eb34b504f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,31 +166,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c69adea99090b0f1",
+  "active": "38e55b277d944781",
   "lastOpenFiles": [
-    "Covariance and Contravariance/Covariance and Contravariance code/pvm3qeva.pnv~",
-    "Covariance and Contravariance/Covariance and Contravariance code/obj/Debug/net7.0/Covariance and Contravariance code.csproj.FileListAbsolute.txt",
-    "Covariance and Contravariance/Covariance and Contravariance code/bin/Debug/net7.0/Covariance and Contravariance code.pdb",
-    "Covariance and Contravariance/Covariance and Contravariance code/obj/Debug/net7.0/ref/Covariance and Contravariance code.dll",
-    "Covariance and Contravariance/Covariance and Contravariance code/bin/Debug/net7.0/Covariance and Contravariance code.dll",
-    "Covariance and Contravariance/Covariance and Contravariance code/bin/Debug/net7.0/Covariance and Contravariance code.runtimeconfig.json",
-    "Covariance and Contravariance/Covariance and Contravariance code/obj/Debug/net7.0/Covariance and Contravariance code.genruntimeconfig.cache",
-    "Covariance and Contravariance/Covariance and Contravariance code/bin/Debug/net7.0/Covariance and Contravariance code.deps.json",
-    "Covariance and Contravariance/Covariance and Contravariance code/bin/Debug/net7.0/Covariance and Contravariance code.exe",
-    "Covariance and Contravariance/Covariance and Contravariance code/obj/Debug/net7.0/apphost.exe",
-    "Covariance and Contravariance/Covariance and Contravariance code/obj/Debug/net7.0/Covariance and Contravariance code.csproj.BuildWithSkipAnalyzers",
-    "Covariance and Contravariance/Untitled.md",
+    "Variance in Delegates.md",
     "Covariance and Contravariance/Covariance and Contravariance.md",
-    "Programming Concepts.md",
-    "Learning C sharp roadmap.md",
-    "Azure DevOps Servieces.md",
-    "Https/HTTPS Protocols.md",
-    "git learning valut/git command.md",
-    "picture folder/https data tranfer.jpg",
-    "SSL.md",
-    "picture folder/asymmetric key.png",
-    "picture folder/symmetric encryption.png",
+    "Using Variance in Interfaces for Generic Collections.md",
+    "Variance in Generic Interfaces.md",
     "git learning valut/Untitled.md",
-    "git learning valut/GIT.md"
+    "Covariance and Contravariance/Covariance and Contravariance code/av0myusk.i55~",
+    "Covariance and Contravariance/Covariance and Contravariance code/5zqs1x2f.as1~",
+    "Covariance and Contravariance/Covariance and Contravariance code/Program.cs~RF12933c35.TMP",
+    "Covariance and Contravariance/Covariance and Contravariance code/axwmwrpf.sus~",
+    "Covariance and Contravariance/Covariance and Contravariance code/31hhuslo.uok~",
+    "Covariance and Contravariance/Covariance and Contravariance code/022ce4ul.zsm~",
+    "Covariance and Contravariance/Covariance and Contravariance code/0nml2pfy.exq~",
+    "git learning valut/git command.md",
+    "Https/HTTPS Protocols.md",
+    "git learning valut/GIT.md",
+    "picture folder/symmetric encryption.png",
+    "Learning C sharp roadmap.md",
+    "Programming Concepts.md",
+    "SSL.md",
+    "Azure DevOps Servieces.md",
+    "Covariance and Contravariance/Covariance and Contravariance code/m55va030.5ob~",
+    "Covariance and Contravariance/Covariance and Contravariance code/ewhkw4xh.vjn~",
+    "Covariance and Contravariance/Covariance and Contravariance code/nxf1eaxs.wfm~",
+    "Covariance and Contravariance/Untitled.md",
+    "picture folder/https data tranfer.jpg",
+    "picture folder/asymmetric key.png"
   ]
 }
