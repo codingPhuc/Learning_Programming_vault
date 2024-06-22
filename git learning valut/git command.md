@@ -52,10 +52,16 @@
 - then if you want to ignore a folder name 
 - add `/<foldername>` into gitignore 
 
-# branch command 
+
+
+# branch command  
 - `git branch <branchname>`
 - create the branch with the name , but you do not move to the branch yet you need to used a diffrent command to switch 
 - `git checkout <branchname>`
 - go to a different branch in git 
 - `git merge <branchname>`
-- merge the a different branch with the main branch
+- merge the a different branch with the main branch 
+## remote command 
+`git fetch` 
+- we used git fetch to check is there is a new commit 
+- 

@@ -2,7 +2,7 @@
 # What is C# 
 
 # General Development Skill 
-- [[GIT]]
-- [[Azure DevOps Servieces]]
+- [[git learning valut/GIT]]
+- [[Azure DevOps Services]]
 - [[HTTPS Protocols]]
 - [[Programming Concepts]]

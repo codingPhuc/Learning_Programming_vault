@@ -26,6 +26,36 @@ hinh 2
 - 3xx Redirection 
 - 4xx Client Error : 
 - 5xx Server Error :
+
+### sending a message in HTTP protocol 
+
+![[Drawing 2024-06-19 10.45.34.excalidraw]]
+ in a HTTP protocol message there is mainly 4 part 
+- header which contain additional information about the message , contain token ...
+- address from which is the sender address , address which is the End Point / URL   
+- address too which is the receiver address 
+- and seal to verify the safety of the sender , usually a TSL protocol encryption 
+- the body which is the content of the send message , a json or raw file type 
+Both the HTTP which is receive and HTTP which is send is call request 
+
+
+### different method in HTTP 
+Get 
+- get value from a server 
+POST 
+- create value to a server 
+PUT 
+- Update value in a server require the entire object to be updated 
+PATCH 
+- update only part of an object 
+DELETE 
+- delete the object
+The browser can used the GET  API  but cannot do any other method 
+## different between put and patch method 
+![[PUT Patch operation 2024-06-20 13.34.28.excalidraw|1000]] 
+when PUT is call the original object is delete to insert in it a new object
+when PATCH is call the flied in the original object is updated with the patch body 
+
 ## Exercise 
 - open up fire fox 
 - go to a website 
@@ -54,3 +84,8 @@ picture 1
 - the start line can include the three different potion ,Method is how the request is being put togheter ,  Target the target of the request , the Version the version of the HTTP 
 - the Header information about the resource that the server send back 
 - the Body the resource requested  
+
+
+
+quiz 
+https://docs.google.com/forms/d/14bP1fefoMXgm_a-b4g5SuJyQOFMHaKaQ5ndar_GfaV8/edit#settings

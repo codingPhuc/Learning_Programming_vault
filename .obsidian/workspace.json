@@ -4,39 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a56b076b74bcfa6c",
+        "id": "952e1a11ff5d079b",
         "type": "tabs",
         "children": [
           {
-            "id": "38e55b277d944781",
+            "id": "942f1f724325dabd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Covariance and Contravariance/Covariance and Contravariance.md",
+                "file": "System Architecture Overview.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "47be06ec3b829e63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Variance in Delegates.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6a4f15eb34b504f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -89,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b3cff0b5294a90f3",
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Covariance and Contravariance/Covariance and Contravariance.md",
+                "file": "System Architecture Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Covariance and Contravariance/Covariance and Contravariance.md",
+                "file": "System Architecture Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Covariance and Contravariance/Covariance and Contravariance.md"
+                "file": "System Architecture Overview.md"
               }
             }
           }
@@ -163,36 +143,59 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "38e55b277d944781",
+  "active": "942f1f724325dabd",
   "lastOpenFiles": [
-    "Variance in Delegates.md",
-    "Covariance and Contravariance/Covariance and Contravariance.md",
-    "Using Variance in Interfaces for Generic Collections.md",
-    "Variance in Generic Interfaces.md",
-    "git learning valut/Untitled.md",
+    "DTO Data Transfer object.md",
+    "CSS(Cascading StyleSheet).md",
+    "Untitled.md",
+    "Https/HTTPS Protocols.md",
+    "System Architecture Overview.md",
+    "Excalidraw/PUT Patch operation 2024-06-20 13.34.28.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-20 13.33.30.excalidraw.md",
+    "HTTP protocol.md",
+    "HTTP  protocol.md",
+    "learning structure.md",
+    "Excalidraw/Drawing 2024-06-19 18.15.49.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-19 18.33.30.excalidraw.md",
+    "git learning valut/GIT.md",
+    "Pagination.md",
+    "Excalidraw/Drawing 2024-06-19 17.57.52.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-19 09.38.22.excalidraw.md",
+    "Excalidraw/Top 10 server 2024-06-19 17.48.50.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-19 10.45.34.excalidraw.md",
+    "Excalidraw/3 tier architect 2024-06-19 09.42.56.excalidraw.md",
+    "Excalidraw/machine understanding 2024-06-19 10.41.37.excalidraw.md",
+    "Dependency Injection.md",
+    "Untitled 2.md",
+    "Logging.md",
+    "DataBase.md",
+    "Untitled 1.md",
+    "Seeding.md",
+    "picture folder/Pasted image 20240613104034.png",
+    "picture folder/Pasted image 20240613104022.png",
+    "Untitled.canvas",
+    "picture folder/Pasted image 20240612131150.png",
+    "Untitled 1.canvas",
+    "picture folder/Pasted image 20240605165024.png",
+    "picture folder/Pasted image 20240605161414.png",
+    "picture folder/Pasted image 20240605161351.png",
+    "picture folder/Pasted image 20240602100849.png",
+    "Untitled",
+    "picture folder/Pasted image 20240604231505.png",
+    "picture folder/Pasted Image 20240604230457_971.png",
+    "picture folder/Pasted image 20240604230430.png",
+    "Excalidraw",
+    "Program Structure",
     "Covariance and Contravariance/Covariance and Contravariance code/av0myusk.i55~",
     "Covariance and Contravariance/Covariance and Contravariance code/5zqs1x2f.as1~",
     "Covariance and Contravariance/Covariance and Contravariance code/Program.cs~RF12933c35.TMP",
     "Covariance and Contravariance/Covariance and Contravariance code/axwmwrpf.sus~",
     "Covariance and Contravariance/Covariance and Contravariance code/31hhuslo.uok~",
     "Covariance and Contravariance/Covariance and Contravariance code/022ce4ul.zsm~",
-    "Covariance and Contravariance/Covariance and Contravariance code/0nml2pfy.exq~",
-    "git learning valut/git command.md",
-    "Https/HTTPS Protocols.md",
-    "git learning valut/GIT.md",
-    "picture folder/symmetric encryption.png",
-    "Learning C sharp roadmap.md",
-    "Programming Concepts.md",
-    "SSL.md",
-    "Azure DevOps Servieces.md",
-    "Covariance and Contravariance/Covariance and Contravariance code/m55va030.5ob~",
-    "Covariance and Contravariance/Covariance and Contravariance code/ewhkw4xh.vjn~",
-    "Covariance and Contravariance/Covariance and Contravariance code/nxf1eaxs.wfm~",
-    "Covariance and Contravariance/Untitled.md",
-    "picture folder/https data tranfer.jpg",
-    "picture folder/asymmetric key.png"
+    "Covariance and Contravariance/Covariance and Contravariance code/0nml2pfy.exq~"
   ]
 }
