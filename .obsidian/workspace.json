@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Architecture Overview.md",
+                "file": "CSS(Cascading StyleSheet).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09f694073bce128b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Model.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Architecture Overview.md",
+                "file": "Design Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Architecture Overview.md",
+                "file": "Design Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Architecture Overview.md"
+                "file": "Design Model.md"
               }
             }
           }
@@ -147,13 +160,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "942f1f724325dabd",
+  "active": "09f694073bce128b",
   "lastOpenFiles": [
-    "DTO Data Transfer object.md",
+    "picture folder/Pasted image 20240622174855.png",
+    "picture folder/Pasted image 20240622174848.png",
+    "picture folder/Pasted image 20240622173955.png",
     "CSS(Cascading StyleSheet).md",
-    "Untitled.md",
-    "Https/HTTPS Protocols.md",
+    "Design Model.md",
     "System Architecture Overview.md",
+    "DTO Data Transfer object.md",
+    "Https/HTTPS Protocols.md",
     "Excalidraw/PUT Patch operation 2024-06-20 13.34.28.excalidraw.md",
     "Excalidraw/Drawing 2024-06-20 13.33.30.excalidraw.md",
     "HTTP protocol.md",
@@ -174,7 +190,6 @@
     "Logging.md",
     "DataBase.md",
     "Untitled 1.md",
-    "Seeding.md",
     "picture folder/Pasted image 20240613104034.png",
     "picture folder/Pasted image 20240613104022.png",
     "Untitled.canvas",
@@ -186,8 +201,6 @@
     "picture folder/Pasted image 20240602100849.png",
     "Untitled",
     "picture folder/Pasted image 20240604231505.png",
-    "picture folder/Pasted Image 20240604230457_971.png",
-    "picture folder/Pasted image 20240604230430.png",
     "Excalidraw",
     "Program Structure",
     "Covariance and Contravariance/Covariance and Contravariance code/av0myusk.i55~",
