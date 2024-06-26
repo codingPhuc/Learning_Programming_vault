@@ -32,3 +32,6 @@ M - Modifier
 B block is the block tag of all element in html example : <html> , <p>
 E is element that define this block usually used with class or id example : <html class = "title">
 M is the modifier that change the structure or UI of the class or block in some way like highlight 
+
+
+

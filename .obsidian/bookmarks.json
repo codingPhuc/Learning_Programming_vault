@@ -1,0 +1,30 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1719288082863,
+      "items": [],
+      "title": "Untitled group"
+    },
+    {
+      "type": "file",
+      "ctime": 1719288096885,
+      "path": "SAP Learning.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1719288111597,
+      "path": "ASP API.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1719288120157,
+      "path": "Study German.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1719288131755,
+      "path": "System Architecture Overview.md"
+    }
+  ]
+}
