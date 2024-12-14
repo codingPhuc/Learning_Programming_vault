@@ -36,7 +36,7 @@
 ## Bloom’s Taxonomy
 
 **Understanding the Steps:**
-![[Drawing 2024-06-04 22.53.36.excalidraw]]
+![[Drawing 2024-06-04 22.53.36.excalidraw|1000]]
 
 - **Revisiting Previous Steps:** If you encounter difficulties at any stage, it’s beneficial to review earlier steps to reinforce your understanding.
 - **Importance of Remembering:** The foundational step in Bloom’s Taxonomy is to remember the information, which is crucial before moving forward.

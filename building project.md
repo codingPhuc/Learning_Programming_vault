@@ -19,4 +19,9 @@
     
     - Create a calculator that performs basic arithmetic operations (+, -, *, /).
     - Use a loop to allow continuous calculations.
-    - Switch cases can handle different operations.
+    - Switch cases can handle different operations. 
+
+
+
+
+

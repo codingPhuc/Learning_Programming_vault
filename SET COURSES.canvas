@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"adc73e2b643e26cb","type":"group","x":-720,"y":-320,"width":1760,"height":960,"label":"GIT FUNDAMENTAL"},
+		{"id":"6cdd57f1518cfc79","type":"group","x":-720,"y":880,"width":1760,"height":680,"label":"HTML + CSS"},
+		{"id":"e0f627d3945729d3","type":"file","file":"git learning valut/GIT.md","x":-400,"y":-32,"width":400,"height":400},
+		{"id":"a783a89206551185","type":"file","file":"git learning valut/git command.md","x":400,"y":-32,"width":400,"height":400},
+		{"id":"0f2336e08ac4d566","type":"file","file":"learning structure.md","x":0,"y":-1120,"width":400,"height":400},
+		{"id":"a9bead5fd99c1a1a","type":"file","file":"CSS(Cascading StyleSheet).md","x":-700,"y":1060,"width":400,"height":400},
+		{"id":"905c6d9fdc3e71b6","type":"file","file":"HTML link design.md","x":600,"y":1040,"width":420,"height":420},
+		{"id":"ddb2c315eb15c189","x":0,"y":1760,"width":400,"height":400,"type":"file","file":"System Architecture Overview.md"}
+	],
+	"edges":[
+		{"id":"e2389cf32acd1456","fromNode":"0f2336e08ac4d566","fromSide":"bottom","toNode":"adc73e2b643e26cb","toSide":"top"},
+		{"id":"d98a9a00ace4710a","fromNode":"adc73e2b643e26cb","fromSide":"bottom","toNode":"6cdd57f1518cfc79","toSide":"top"},
+		{"id":"52f40d1c950adeef","fromNode":"6cdd57f1518cfc79","fromSide":"bottom","toNode":"ddb2c315eb15c189","toSide":"top"}
+	]
+}
