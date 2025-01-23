@@ -54,7 +54,7 @@ Check out this website for driving in California: [Driver's Licenses - Californi
 
 ## Preparing for the CA DMV Written Test
 1. Review the California Driver License Handbook prior to taking the written test at the DMV.
-   - [English Version](http://dmv.ca.gov/pubs/dl600.pdf)
+   - [English Version](https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf)
    - [Handbook Versions in other languages](http://dmv.ca.gov/pubs/pubs.htm)
 2. Practice taking one or all of the Class C sample written tests. At the DMV, the written test is available in English and many other languages. Click “sample written tests” for examples.
 ## the test format 
