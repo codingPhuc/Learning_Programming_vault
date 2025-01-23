@@ -65,7 +65,7 @@ First is the road signs portion, which you must get 10 questions right out of 10
   - [Free DMV Permit Practice Tests: Driving Test & License Prep](https://driving-tests.org/) (for Indiana)
 
 
-## Tips with Driving Licenses
+## Tips with  CA DMV Written Test
 - Just reading your state's driver's handbook one or more times
 - Taking your state's practice tests one or more times
 - You will get a driving handbook and skill
@@ -87,7 +87,7 @@ Preparing for the CA DMV Driving Test:
 - You have three chances to pass the driving test. If you fail, you may practice for a while, then make another appointment. There is no waiting period, but you must make an appointment. If you fail to successfully complete the driving test on the first attempt, you must pay a fee for each additional driving test that is administered under an application for an original or renewal driver license.
 - You may drive on your interim license (up to 60 days only) until you receive your new photo license in the mail.
 
-### Tips with Driving Licenses
+### Tips with CA DMV Driving Test
 - When you're out riding with someone, take note of signs and if you cannot recall what they mean, look it up. Same with specific events - think through what you're supposed to do if you see a school bus, if two cars come to a stop sign at the same time, etc. If you were driving, do you know what you're supposed to do? If not, or if you're unsure, look it up.
 - Use the vehicle you used to practice
 - Proof of insurance and registration is needed for your vehicle
@@ -111,3 +111,4 @@ Preparing for the CA DMV Driving Test:
   - [ ] Test yourself on the knowledge
 - [ ] Complete the requirement for driving practice
 - [ ] Go and drive
+
