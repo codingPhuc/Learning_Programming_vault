@@ -12,7 +12,7 @@ what I have learn :
 2. do not trust the guide 100% 
 3. need to do your own research if more than an hour then  you need to seek help 
 
-Jdjajajajaj
+Dussjsjsjsj
 # why does the code  setState  will act different when place before the try catch block 
 ```
   if (isVaild) {
