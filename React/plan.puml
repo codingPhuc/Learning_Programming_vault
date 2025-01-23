@@ -1,0 +1,13 @@
+@startuml
+left to right direction
+actor "User" as fc
+rectangle Restaurant {
+  usecase "Login/SignUp" as UC1
+  usecase "CRUD Task" as UC2
+  usecase "Logout" as UC3
+
+}
+fc --> UC1
+fc --> UC2
+fc --> UC3
+@enduml

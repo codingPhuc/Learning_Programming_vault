@@ -59,6 +59,10 @@ vagrant is used to help configure a new bare metal  configure bases on a past co
 # vagrant provision 
 
 # error
+
+# why does my vagrant 3 file when reload will have an error 
+
+
 ##  `vagrant ssh` locks against other `vagrant ssh` tasks
 https://github.com/hashicorp/vagrant/issues/4933
 

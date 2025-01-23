@@ -27,109 +27,44 @@ A Component is a reusable  independent  piece of UI interface
 The idea of a component is like a lego brick you need to classify the smallest brick to then build a bigger compartment 
 then used that compartment to build the whole set
 ## prop  
-passing prop to a component require the used of the JSX syntax ,  the passing method is like those build in to React like  but this time we define our own way of passing
-```
+passing prop to a component require the used of the JSX syntax ,  the passing method is like those build in to React like  but this time we define our own way of passing 
+
+### Passing Props as an Object
+```jsx
 export default function Profile() {  
-
-return (  
-
-<Avatar  
-
-person={{ name: 'Lin Lanying', imageId: '1bX5QH6' }}  
-
-size={100}  
-
-/>  
-
-);  
-
+  return (  
+    <Avatar  
+      person={{ name: 'Lin Lanying', imageId: '1bX5QH6' }}  
+      size={100}  
+    />  
+  );  
 }
 ```
-here we are passing the prop of name an imageId to the Avatar component 
-This is call a one way data flow in which the parrent component pass data value to the child  component   
+In this example, we're passing:
+1. An object prop called `person` that contains multiple values (name and imageId)
+2. A single value prop called `size`
 
-## state  
-State is value that store poperties of a component it is used to help component 'Remember something' between render
-when you want to change a value in a component without it being create again and do not have value updated you used useState 
-an example 
+The double curly braces `{{ }}` in `person` prop means:
+- Outer `{ }`: JSX expression syntax
+- Inner `{ }`: JavaScript object literal
+
+### Passing Props as Individual Properties 
+```jsx
+<CoreConcept
+  title="Components"
+  description="the core UI building block"
+  img={someImageVariable}
+/>
 ```
-import { sculptureList } from './data.js';
+In this approach:
+1. Each prop is passed separately as an individual property
+2. Props are more straightforward and easier to read
+3. Useful when you have independent values that don't need to be grouped
 
-export default function Gallery() {
-  let index = 0;
+The main difference is:
+- Object props (`person={{ }}`) are useful when you need to group related data together
+- Individual props are better for independent, single values
 
-  function handleClick() {
-    index = index + 1;
-  }
-
-  let sculpture = sculptureList[index];
-  return (
-    <>
-      <button onClick={handleClick}>
-        Next
-      </button>
-      <h2>
-        <i>{sculpture.name} </i> 
-        by {sculpture.artist}
-      </h2>
-      <h3>  
-        ({index + 1} of {sculptureList.length})
-      </h3>
-      <img 
-        src={sculpture.url} 
-        alt={sculpture.alt}
-      />
-      <p>
-        {sculpture.description}
-      </p>
-    </>
-  );
-}
-
-```
-if we used this code it will move to the next image whenever the button is click but it is useless now because there is not state value . 
-when the button is click 2 thing happen : 
-- the component does not know if the value need to be render
-- value is not updated due to it being initalize again 
-### solution 
-we will declare the index state value as hook that will  help in changing the index 
-```
-import { useState } from 'react';
-import { sculptureList } from './data.js';
-
-export default function Gallery() {
-  const [index, setIndex] = useState(0);
-
-  function handleClick() {
-    setIndex(index + 1);
-  }
-
-  let sculpture = sculptureList[index];
-  return (
-    <>
-      <button onClick={handleClick}>
-        Next
-      </button>
-      <h2>
-        <i>{sculpture.name} </i> 
-        by {sculpture.artist}
-      </h2>
-      <h3>  
-        ({index + 1} of {sculptureList.length})
-      </h3>
-      <img 
-        src={sculpture.url} 
-        alt={sculpture.alt}
-      />
-      <p>
-        {sculpture.description}
-      </p>
-    </>
-  );
-}
-
-```
-this will finally change our image
 ### thing to note
 each state is independent to it component 
 a state is used to remember information on each render of the component
@@ -237,4 +172,3 @@ JSX was create for the reason of seperation of  different object to save to
 
 - the first reason for why JSX is need is because of the load nature of the program   if we split the file into seperate order and the file B is dependent on the execution of file C then there will be an error 
 - JSX fix this in a sense that an algorithm will be used to handle and order the javascript file for us 
-

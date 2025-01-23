@@ -1,53 +1,50 @@
-
 # different type of learning 
 ## learning by cooperation 
 ## learning by  reading 
 
 ### why you read a book  
-you want to be able to learn something from it  to extract the thought and idea into your brain and transform it into knowledge  
+you want to be able to learn something from it to extract the thought and idea into your brain and transform it into knowledge. See [[book learning/How to read a book and Actually learn from it|detailed reading guide]].
+
 ### how you read a book 
-let say that you have a picture of a fish you need to be able to go deeper and deeper into the picture to see it detail and shape you need to see the complexity 
+let say that you have a picture of a fish you need to be able to go deeper and deeper into the picture to see it detail and shape you need to see the complexity. [[book learning/How To Get The Most Out of A Book - Analytical Reading|Learn more about analytical reading]].
 
 ## repetition for deep drive  
 so just like with a picture you need to drive deeper and deeper into a book knowledge this can be archive by reading the book again and again   
-- learning is like going to the gym , you start with the small weight  then up the intensity 
+- learning is like going to the gym, you start with the small weight then up the intensity 
 - initially you do not need to understand the books you just need to read it by continually reading you will get the main idea  
-- start small 1 page a day 7 page a week  ect , just thing you have book with 500 page you will finish it in like 500 day or more if you continue the intensity 
+- start small 1 page a day 7 page a week ect, just thing you have book with 500 page you will finish it in like 500 day or more if you continue the intensity 
 - remember "you cannot connect the dot looking forward you can only do so backward" 
+- Use [[Self Testing|spaced repetition]] to reinforce learning
 
 ## reflection 
+you need to relate the book condition to your own life let say that you have problem with how to structure your learning you apply the principle of the book to boost your learning efficiency and make the book your own. [[book learning/How to read technical books|See technical reading tips]].
 
-you need to relate the book condition to your own life let say that you have problem with how to structure your learning you apply the principle of the book to boost your learning efficiency  and make the book your own
-you need to eat with reflection  thing reading without reflection like eating without digesting 
+you need to eat with reflection thing reading without reflection like eating without digesting 
 prioritize the change that are the most impact this can be a chapter that you can apply to your work the most  
- you need to eat with reflection  thing reading without reflection like eating without digesting 
-remember to summarize the book  by summarizing you get to understand the book better 
+remember to summarize the book by summarizing you get to understand the book better 
 remember to keep an analog of the book understanding in your second brain  
 
 ## action plans 
-you should used sign posting to get the overall structure of a chapter that mean that having the big idea to connect to so you can group them if needed , for example if the chapter read by sign posting have 3  main idea then when you skim read you will be able  to group each section to the idea 
- you need an action plan  ready aim and fire 
+you should used sign posting to get the overall structure of a chapter that mean that having the big idea to connect to so you can group them if needed, for example if the chapter read by sign posting have 3 main idea then when you skim read you will be able to group each section to the idea. See [[thing you need to do|action items]].
+
+you need an action plan ready aim and fire 
 	- the reason why many people do not have a six pact is due to them not taking action take action and have a six pact 
 	- the result you will be archive will only now remain on time 
 	- you need to be patient and not give up 
 	- adjustment when the action cannot be completed  
+
 ### making the book your own  
-the book need scar of war or scar of learning in order to be made your own so , so highlight the important detail of the book add in sticky note and what not 
+the book need scar of war or scar of learning in order to be made your own so, so highlight the important detail of the book add in sticky note and what not. [[Asking question|Ask critical questions]] while reading.
 the idea is to like have a conversation with the author of the books on his theory and subject
 
-
-
-
 ### learning the process 
-1. introduction   you are introduce to the subject and if you have enough enthusiasm  you can keep learning more 
-2. analyze the information to the new topic to avoid false nagative 
-3. accept or reject : decide  if you want to learn more about the information 
-4. information processing  : learn new information and make it a part of your knowledge 
-5. repetition  repeated learning 
+1. introduction - you are introduce to the subject and if you have enough enthusiasm you can keep learning more 
+2. analyze the information to the new topic to avoid false negative 
+3. accept or reject: decide if you want to learn more about the information 
+4. information processing: learn new information and make it a part of your knowledge 
+5. repetition - repeated learning. See [[How I Ranked 1st at Cambridge University - 20 Study Tips|effective study methods]]
 6. growth continue to learn about the subject in different topic 
 7. 
-
-
 
 ## learning by video  
 # tree diagram  
@@ -107,5 +104,42 @@ share focus mode in devices
 ## take break when you needed it 
 - live pomodoro timer 
 
+## Types of Learning
+- [[Learning with Chat GPT]]
+- [[How to be Productive]]
+- Learning by cooperation
+- Learning by reading
 
+### Reading Strategies
+You want to extract thoughts and ideas to transform them into knowledge. Think of it like examining a picture of a fish - you need to go deeper to see details and complexity.
 
+### Deep Learning Through Repetition
+- Learning is like going to the gym - start small and increase intensity
+- Start with 1 page a day, 7 pages a week
+- Connect with [[Why You Are Always Distracted]]
+
+### Reflection and Implementation
+- Relate book concepts to your life
+- Reading without reflection is like eating without digesting
+- Use [[Self Testing]] for review
+
+### Action Plans
+1. Use signposting for chapter structure
+2. Ready, aim, fire approach:
+   - Take action ([[Thing You Need To Do]])
+   - Be patient
+   - Adjust when needed
+
+### Learning Process
+1. Introduction
+2. Analysis
+3. Acceptance/Rejection
+4. Information Processing
+5. [[How to be Productive]]
+6. Growth
+
+## Study Enhancement Methods
+- [[How to be Productive|study with friend]]
+- Active Recall
+- Interleaving
+- Take strategic breaks

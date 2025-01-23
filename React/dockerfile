@@ -1,0 +1,47 @@
+ 
+Vagrant.configure("2") do |config|
+    config.vm.box = "hashicorp/bionic64"
+      # Forward port 3000 (frontend) và 3001 (backend) từ VPS ra máy thật
+      config.vm.network "forwarded_port", guest: 3000, host: 3000
+      config.vm.network "forwarded_port", guest: 3001, host: 3001
+
+      # Cài đặt Docker
+      config.vm.provision "shell", inline: <<-SHELL
+        # Cập nhật hệ thống
+        sudo apt-get update -y
+        sudo apt-get upgrade -y
+        # Cài đặt Docker
+        sudo apt-get install -y apt-transport-https ca-certificates curl software-properties-common
+        curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+        sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
+        sudo apt-get update -y
+        sudo apt-get install -y docker-ce
+    
+        # Thêm user 'vagrant' vào nhóm Docker
+        sudo usermod -aG docker vagrant
+    
+        # Kiểm tra Docker
+        sudo systemctl start docker
+        sudo systemctl enable docker
+        docker --version
+      SHELL
+    
+      # Chạy frontend và backend containers
+      config.vm.provision "shell", inline: <<-SHELL
+        # Pull Docker images
+        docker pull huysupercool333/backend-todoapp:latest
+        docker pull huysupercool333/frontend-to-do-app:latest
+    
+        # Chạy frontend container (port 3000)
+        docker run -d --name frontend-todoapp -p 3000:3000 --restart unless-stopped huysupercool333/frontend-to-do-app:latest
+    
+        # Chạy backend container (port 3001)
+        docker run -d --name backend-todoapp -p 3001:3001 --restart unless-stopped huysupercool333/backend-todoapp:latest
+      SHELL
+    
+      # Thông báo hoàn thành
+      config.vm.provision "shell", inline: <<-SHELL
+        echo "Frontend Todo App: http://localhost:3000"
+        echo "Backend Todo App: http://localhost:3001"
+      SHELL
+end

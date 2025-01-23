@@ -4,24 +4,117 @@
     "type": "split",
     "children": [
       {
-        "id": "26dfc1548e9a9298",
+        "id": "853ab9d15e975d10",
         "type": "tabs",
         "children": [
           {
-            "id": "17620f888c731436",
+            "id": "dc048b62ff103b18",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "e1b70232ac933611",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vagrant exercise.md",
+                "file": "big project/big project report.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vagrant exercise"
+              "title": "big project report"
+            }
+          },
+          {
+            "id": "d335748dbf5e4a06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks to do.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tasks to do"
+            }
+          },
+          {
+            "id": "d4cffcc44d314e18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Driving.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Driving"
+            }
+          },
+          {
+            "id": "4fc2a5c67b59a004",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Driving.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Driving"
+            }
+          },
+          {
+            "id": "197db7337fb280c1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "picture folder/Pasted image 20250119090404.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250119090404"
+            }
+          },
+          {
+            "id": "e1fa9b093d541b11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Learning technique.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Learning technique"
+            }
+          },
+          {
+            "id": "1c44ee95e0fa2dda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "big picture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "big picture"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -52,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Learning technique",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 517.5
   },
   "right": {
     "id": "b3cff0b5294a90f3",
@@ -163,54 +256,60 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec2bbee667482424",
+  "active": "d4cffcc44d314e18",
   "lastOpenFiles": [
-    "Vagrant -  Hashicrop.md",
-    "picture folder/Pasted image 20241213201737.png",
-    "todo/research.md",
-    "todo",
-    "Learning/learning with Chat gpt.md",
-    "Learning/Asking question.md",
-    "Learning/book learning/How To Get The Most Out of A Book - Analytical Reading.md",
-    "Learning/book learning/How to read technical books.md",
+    "Learning/Learning With Chat gpt.md",
     "Learning/Learning technique.md",
-    "Learning/Untitled.md",
-    "Learning/Anki creating type in card.md",
-    "Learning/thing you need to do.md",
+    "Learning/Self Testing.md",
+    "Dependency Injection.md",
+    "Application Idea.md",
+    "ASP API.md",
+    "Driving.md",
+    "Tasks to do.md",
+    "big project/big project report.md",
+    "picture folder/Pasted image 20250119185358.png",
+    "picture folder/Pasted image 20250119185345.png",
+    "picture folder/Pasted image 20250119185329.png",
+    "picture folder/Pasted image 20250119184659.png",
+    "picture folder/Pasted image 20250119145620.png",
+    "picture folder/Pasted image 20250119143632.png",
+    "picture folder/Pasted image 20250119143526.png",
+    "picture folder/Pasted image 20250119121638.png",
+    "picture folder/Pasted image 20250119121635.png",
+    "picture folder/Pasted image 20250119090404.png",
+    "big project/ERD diagram.md",
+    "big project/big project requirement analysis.md",
+    "big picture.md",
+    "Learning/4 layer of learning.md",
+    "Learning/How to be Productive.md",
+    "Learning/Asking question.md",
+    "Learning technique.md",
+    "Learning/scoring for  principle.md",
+    "Learning/practice learning skill/studying courses that need to be study.md",
+    "Chemistry-Study-Guide 1.pdf",
     "Learning/How I Ranked 1st at Cambridge University - 20 Study Tips.md",
-    "Learning/Problem with learning.md",
-    "Learning/how to be productive.md",
-    "Learning/why you are always distracted.md",
-    "Learning/what_do_I_like_to_do/how to choose a career that you want to regret.md",
-    "Learning/what_do_I_like_to_do/what is a proof.md",
-    "Learning/what_do_I_like_to_do/what is computer engineering.md",
-    "Learning/what_do_I_like_to_do/find a good  career.md",
-    "Learning/what_do_I_like_to_do/how to in find a good career.md",
-    "Edge computing.md",
-    "people skill/people who are good with people.md",
-    "people skill",
-    "Docker.md",
-    "Error.md",
-    "orchestrated service.md",
-    "Excalidraw/Drawing 2024-12-04 20.56.53.excalidraw.md",
-    "Learning/book learning",
-    "templates",
-    "SET COURSES.canvas",
-    "big project",
-    "picture folder/Pasted image 20241201143623.png",
-    "picture folder/Pasted image 20241201143457.png",
-    "picture folder/Pasted image 20241201142406.png",
-    "picture folder/Pasted image 20241129224535.png",
-    "picture folder/Pasted image 20241123112906.png",
-    "picture folder/symmetric encryption.png",
-    "company_sponsor_h1b",
-    "Learning/what_do_I_like_to_do",
-    "Learning",
+    "Learning/book learning/How to read technical books.md",
+    "React Native/00-Framework.md",
+    "Learning/practice learning skill",
+    "Study German.md",
+    "System Architecture Overview.md",
+    "thing to do.md",
+    "punishment.md",
+    "Learning/thing you need to do.md",
+    "Untitled.canvas",
+    "Improving Communication Skill",
     "book/Fundamentals of Data Engineering Plan and Build Robust Data Systems (Joe Reis, Matt Housley) (Z-Library) (1).pdf",
-    "picture folder/Pasted image 20241002131904.png",
-    "picture folder/6c4ce092-e716-43c3-98c2-dbd1f4488d7b.jpg",
-    "Untitled 1.canvas",
-    "React",
-    "picture folder/Pasted image 20240908105759.png"
+    "Figma",
+    "React/sequenceFilter.puml",
+    "React/sequenceRegister.puml",
+    "React/sequenceLogin.puml",
+    "React/sequenceLogin",
+    "React/plan.puml",
+    "Learning/Canvas/Learning-System-Flow.canvas",
+    "Learning/Canvas/system_connections.canvas",
+    "Canvas/Master-System-Flow.canvas",
+    "React Native/Canvas/React-Native-Flow.canvas",
+    "SET COURSES.canvas",
+    "Untitled 1.canvas"
   ]
 }

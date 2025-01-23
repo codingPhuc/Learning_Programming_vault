@@ -108,3 +108,8 @@ Now, with **Network Functions Virtualization (NFV)** and **Software-Defined Netw
 - **SDN** gives operators more control by allowing them to manage networks through software, making them more flexible and easier to adjust.
 
 Network operators no longer rely on one-purpose machines. Instead, they use software running on general computers and servers, which simplifies the system and speeds up the launch of new services.
+
+
+
+# package a docker image to a file 
+https://www.reddit.com/r/docker/comments/15p9hlb/where_exactly_is_the_image_file_located_after_you/
