@@ -27,7 +27,7 @@ Basic Requirements to Receive a CA Driver’s License:
 - **Option Two:** Schedule an appointment by calling 1-800-777-0133
 
 
-sfsadfds
+
 ### Required Documents
 Bring the following original documents (no photocopies) to your written test appointment (You may wish to arrive earlier):
 - Passport/F-1 Visa/I-94
