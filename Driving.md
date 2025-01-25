@@ -118,4 +118,7 @@ Preparing for the CA DMV Driving Test:
 
 ## test 1 
 - [ ] 21
-- [ ] 24 
+- [ ] 24  page 60 
+- [ ] 30  page 60 (when skit the person will abandon  the brake and used the steering wheel instead ) 
+- [ ] 31 page 50   
+- [ ] 34 page 44
