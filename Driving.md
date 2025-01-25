@@ -111,3 +111,20 @@ Preparing for the CA DMV Driving Test:
   - [ ] Test yourself on the knowledge
 - [ ] Complete the requirement for driving practice
 - [ ] Go and drive
+
+
+
+# practice test 
+
+## test 1 
+- [ ] 21
+- [ ] 24  page 60 
+- [ ] 30  page 60 (when skit the person will abandon  the brake and used the steering wheel instead ) 
+- [ ] 31 page 50   
+- [ ] 34 page 44
+- [ ] 36 page 40  
+- [ ] 39 page  69 
+
+# test 2 
+- [ ] 4 page 67 
+- [ ] 5 page 67
