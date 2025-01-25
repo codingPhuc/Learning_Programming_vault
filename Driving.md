@@ -128,3 +128,5 @@ Preparing for the CA DMV Driving Test:
 # test 2 
 - [ ] 4 page 67 
 - [ ] 5 page 67
+- [ ] 8 
+- [ ] 
