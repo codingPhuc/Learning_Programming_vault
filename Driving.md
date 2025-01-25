@@ -111,3 +111,11 @@ Preparing for the CA DMV Driving Test:
   - [ ] Test yourself on the knowledge
 - [ ] Complete the requirement for driving practice
 - [ ] Go and drive
+
+
+
+# practice test 
+
+## test 1 
+- [ ] 21
+- [ ] 24 
