@@ -145,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Learning technique",
+                "query": "page ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,7 +166,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -256,15 +257,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4cffcc44d314e18",
+  "active": "6f3dc8e193c9e75e",
   "lastOpenFiles": [
+    "Learning/Learning With Chat gpt.md",
+    "Driving.md",
     "Learning/Learning technique.md",
     "Learning/How to be Productive.md",
-    "Learning/Learning With Chat gpt.md",
     "Learning/4 layer of learning.md",
     "Learning/book learning/How To Get The Most Out of A Book - Analytical Reading.md",
     "Learning/book learning/How to read technical books.md",
-    "Driving.md",
     "Learning/Self Testing.md",
     "Dependency Injection.md",
     "Application Idea.md",
