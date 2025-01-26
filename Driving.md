@@ -169,3 +169,7 @@ Preparing for the CA DMV Driving Test:
 
 ## https://www.dmv-written-test.com/california/practice-test-1.html?page=6
 - [ ] 36 page 27 
+
+
+# https://www.dmv-written-test.com/california/practice-test-2.html?page=4
+- [ ] 19 page 33
