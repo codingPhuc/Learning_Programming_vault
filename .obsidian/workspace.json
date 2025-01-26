@@ -166,8 +166,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -257,10 +256,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6f3dc8e193c9e75e",
+  "active": "d4cffcc44d314e18",
   "lastOpenFiles": [
-    "Learning/Learning With Chat gpt.md",
+    "big project/big project report.md",
+    "big picture.md",
     "Driving.md",
+    "Learning/Learning With Chat gpt.md",
     "Learning/Learning technique.md",
     "Learning/How to be Productive.md",
     "Learning/4 layer of learning.md",
@@ -271,7 +272,6 @@
     "Application Idea.md",
     "ASP API.md",
     "Tasks to do.md",
-    "big project/big project report.md",
     "picture folder/Pasted image 20250119185358.png",
     "picture folder/Pasted image 20250119185345.png",
     "picture folder/Pasted image 20250119185329.png",
@@ -284,7 +284,6 @@
     "picture folder/Pasted image 20250119090404.png",
     "big project/ERD diagram.md",
     "big project/big project requirement analysis.md",
-    "big picture.md",
     "Learning/Asking question.md",
     "Learning technique.md",
     "Learning/scoring for  principle.md",
