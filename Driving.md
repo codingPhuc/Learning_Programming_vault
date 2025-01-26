@@ -184,8 +184,9 @@ Preparing for the CA DMV Driving Test:
 - [ ] 22 page 43 
 - [ ] 33 page 51  
 - [ ] 36 page 51  
+# https://www.dmv-written-test.com/california/practice-test-4.html?page=2 
 
-
+- [ ] 12 page  79
 
 
 
