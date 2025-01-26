@@ -141,4 +141,6 @@ Preparing for the CA DMV Driving Test:
 - [ ] 25 page 11 
 # test 11  
 - [ ] toc do tren xa lo  hai lan khong co giai phan cach 
-- [ ] 
+- [ ] 16 page 73 
+- [ ] 17 page 52 
+- [ ] 23 
