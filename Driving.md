@@ -181,4 +181,6 @@ Preparing for the CA DMV Driving Test:
 - [ ] 5 page 62 
 - [ ] 7 page 27 
 - [ ] 11 page  28  
-- [ ] 22 page 43
+- [ ] 22 page 43 
+- [ ] 33 page 51  
+- [ ] 36 page 51  
