@@ -9,3 +9,4 @@
 - [ ] [ ] Bánh ú: 2 bịch dì phượng 
 - [ ] Cá: 1 bịch 
 - [ ] 1 bịch khô mực của dì Phượng
+- [ ] Bánh bột lộc 1 bịch 
