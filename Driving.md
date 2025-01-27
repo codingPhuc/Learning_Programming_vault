@@ -190,6 +190,10 @@ Preparing for the CA DMV Driving Test:
 
 
 
+# https://www.dmv-written-test.com/california/practice-test-12.html?page=4 
+
+- [ ] page 36 
+
 
 Here’s the updated and properly reorganized content based on grouping by 5-page ranges:
 
