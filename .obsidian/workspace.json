@@ -60,6 +60,20 @@
             }
           },
           {
+            "id": "2a715b3370cb48cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning block.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "learning block"
+            }
+          },
+          {
             "id": "4fc2a5c67b59a004",
             "type": "leaf",
             "state": {
@@ -114,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -166,7 +180,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -256,10 +271,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d05728d6f0e77a14",
+  "active": "2a715b3370cb48cf",
   "lastOpenFiles": [
-    "Driving.md",
     "programming language/C++.md",
+    "learning block.md",
+    "Driving.md",
     "programming language",
     "Tasks to do.md",
     "gift for American.md",
@@ -295,7 +311,6 @@
     "Learning/Asking question.md",
     "Learning technique.md",
     "Learning/scoring for  principle.md",
-    "Learning/practice learning skill/studying courses that need to be study.md",
     "Chemistry-Study-Guide 1.pdf",
     "Learning/practice learning skill",
     "Improving Communication Skill",
