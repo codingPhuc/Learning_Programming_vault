@@ -382,4 +382,10 @@ Overall, the conversation underscores that examples are not just tools for pract
 
 
 ## repetition in math   
-1. is the repetition in anki repetition by proof and structure  
+
+there are two area  in mathematic  
+main idea base on a recursive  list out the main idea of a  theorem this practice is too proof an equation and see if the equation make sense 
+### proof  
+is the part to proof a formula 
+### practice  
+is the part for solving an equation 
