@@ -386,6 +386,14 @@ Overall, the conversation underscores that examples are not just tools for pract
 there are two area  in mathematic  
 main idea base on a recursive  list out the main idea of a  theorem this practice is too proof an equation and see if the equation make sense  , and if other equation can be used to proof another equation or theorem 
 ### proof  
-is the foundation of mathematic read the proof  section in the obsidian  vault for future clarification 
+is the foundation of mathematic read the proof  section in the obsidian  vault for future clarification  
+to repetition a proof in mathematic  I should 
+1. repetition by providing the name of proof then let the user of the proof solve it themself  
+2. repetition by  filling in the gap the proof equation 
+3. repetition by specify using what formula for the proof it self  
+4. the proof  should be separated   into different section of  a courses . For  an example ,  Algebra should there is Preliminaries 
 ### practice  
-is the part for solving an equation 
+is the part for solving an equation  practice is the used of the proof to solve an equation 
+1. repetition practice I should give equation to solve 
+	1. each equation belong to a specific section like this section is  about  Preliminaries 
+	2. then for a singl
