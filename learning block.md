@@ -238,7 +238,7 @@ Here’s a summary of the key advice and tips from the comments:
 
 - Even if a topic feels insurmountable (e.g., Representation Theory, Real Analysis), persistence and time often lead to improvement.
 - Accept that setbacks are part of the learning process in math.
-## repetition in math  
+
 
 Here’s a refined version of your summary, optimized for Obsidian with a clean structure and clear hierarchy:
 
@@ -348,6 +348,7 @@ This structure should work seamlessly in Obsidian, with headers and bullet point
 
 ## http://youtube.com/watch?v=YnTf0xGKWOU
 
+
 **Persistence in Mathematics** is a key concept that highlights the importance of perseverance, continuous effort, and a problem-solving mindset in learning and mastering mathematics. Here's a summary of the key points on this topic:
 
 1. **Overcoming Challenges:** Mathematics often involves complex problems that require sustained effort. Persistence enables students to push through difficult concepts, ensuring they don't give up when faced with challenging problems or concepts.
@@ -377,3 +378,8 @@ In the topic of **Examples in Mathematics**, the conversation emphasizes the cru
     
 
 Overall, the conversation underscores that examples are not just tools for practice but essential for truly grasping and applying mathematical concepts.
+
+
+
+## repetition in math   
+1. is the repetition in anki repetition by proof and structure  
