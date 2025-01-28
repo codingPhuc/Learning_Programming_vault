@@ -318,3 +318,34 @@ page 33
 page 33 
 page 52 
 page  9 
+page 13 
+
+
+Here’s your ordered list with repetitions preserved:
+
+
+
+
+
+### From Practice Test 10:
+
+- Page 9
+- Page 13
+- Page 28
+- Page 39
+- Page 59
+
+### From Practice Test 14:
+
+- Page 9
+- Page 13
+- Page 27
+- Page 33
+- Page 33
+- Page 33
+- Page 33
+- Page 43
+- Page 52
+- Page 57
+- Page 68
+- Page 74
