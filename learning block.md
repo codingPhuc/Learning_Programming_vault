@@ -397,4 +397,89 @@ is the part for solving an equation  practice is the used of the proof to solve 
 1. repetition practice I should give equation to solve 
 	1. each equation belong to a specific section like this section is  about  Preliminaries 
 	2. then for a single day there will be 2 question from a section  in the Anki test like for today Anki  will give me 40 equation I will need to solve them  and  there is 5 Preliminaries equation in that 
-	3. there should be separation of test too if needed like for example  40 equation for the first test the second test will also be 40 equation but I know which test  I am currently doing
+	3. there should be separation of test too if needed like for example  40 equation for the first test the second test will also be 40 equation but I know which test  I am currently doing 
+
+
+
+To replicate this structure in Anki, you can create different types of cards tailored for proofs and practice:
+
+### **Proofs (Conceptual Understanding)**
+
+1. **Basic Recall Card:**
+    
+    - **Front:** "What is the proof of [Theorem Name]?"
+    - **Back:** Full proof.
+2. **Fill-in-the-Gaps Card:**
+    
+    - **Front:** Incomplete proof with blanks (e.g., missing steps, formulas).
+    - **Back:** Completed proof.
+3. **Formula-Based Card:**
+    
+    - **Front:** "Which formula is used in proving [Theorem Name]?"
+    - **Back:** Relevant formula and explanation.
+4. **Categorized by Topic:**
+    
+    - Use tags in Anki to separate proofs by subjects (e.g., Algebra → Preliminaries).
+
+---
+
+### **Practice (Equation Solving)**
+
+1. **Problem-Solving Cards:**
+    
+    - **Front:** "Solve: [Equation]"
+    - **Back:** Step-by-step solution.
+2. **Daily Practice Setup:**
+    
+    - Set up an Anki deck with 40 questions per day.
+    - Use tags to separate sections (e.g., Preliminaries, Algebra).
+    - Mix questions from different sections within the daily review.
+3. **Test Mode:**
+    
+    - Create separate decks for different test sessions.
+    - Label each test session clearly (e.g., "Test 1: Algebra Preliminaries").
+    - Ensure each test deck has 40 questions.
+
+Would you like a template for Anki card formatting to make adding these easier?
+
+
+### limit the amount of tag for a day 
+
+Anki doesn’t natively support limiting the number of questions from each tag within a deck, but you can achieve this in a few ways:
+
+### **Method 1: Custom Study (Manual Control)**
+
+1. **Create a deck** that contains all your questions.
+2. **Use tags** to categorize questions (e.g., `Preliminaries`, `Algebra`, etc.).
+3. **Custom Study Session:**
+    - Click on the deck → Click **Custom Study** → Select **"Limit to particular tags"**
+    - Choose the number of questions from each tag (e.g., 5 from `Preliminaries`, 10 from `Algebra`).
+    - This needs to be done manually each day.
+
+---
+
+### **Method 2: Using a Filtered Deck (Automated)**
+
+1. Create multiple **filtered decks** with a specific number of questions per tag.
+    
+2. Example query for a filtered deck:
+    
+    bash
+    
+    CopyEdit
+    
+    `tag:Preliminaries limit:5`
+    
+    This will create a deck with 5 questions from the `Preliminaries` tag.
+    
+3. Do the same for each category and merge them into your daily study.
+    
+
+---
+
+### **Method 3: Using Anki Add-ons for More Control**
+
+1. **"Filtered Decks with Tag and Limit"** (Custom add-ons allow setting specific numbers per tag).
+2. **"Advanced Review Scheduler"** (Some add-ons let you control how many questions appear from each tag).
+
+Would you like step-by-step guidance on setting up filtered decks?
