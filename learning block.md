@@ -240,5 +240,108 @@ Here’s a summary of the key advice and tips from the comments:
 - Accept that setbacks are part of the learning process in math.
 ## repetition in math  
 
+Here’s a refined version of your summary, optimized for Obsidian with a clean structure and clear hierarchy:
 
+---
+
+# Applying Spaced Repetition to Mathematics
+
+**Talk Summary by Paul Robert Shaw**  
+**Date:** February 20, 2021  
+**Event:** supermemory.wiki Discord
+
+## Introduction
+
+- The video summarizes Paul Robert Shaw's talk, as the original was not recorded.
+- Purpose: Share Paul's insights and encourage him to create his own article or video on the subject.
+- **About Paul:**
+    - French quantum physicist.
+    - 6 years of experience using spaced repetition systems (SRS), specifically **Memozyne**.
+    - Dedicates 2–3 hours daily to reviewing, reformulating cards, and making connections.
+    - Consistently uses SRS without breaks due to his passion for the process.
+    - Has theorems and proofs at his fingertips as a result of this method.
+
+---
+
+## Core Principles
+
+- **The 20 Rules of Knowledge Formulation** (by Piotr Wozniak):
+    - These rules **do apply to math**, contrary to common belief.
+    - Paul initially made formulation errors but improved over time.
+    - Key takeaway: Math knowledge **can be retained** effectively with SRS.
+
+---
+
+## Atomicity
+
+- **Definition:** Cards should represent single, simple concepts and avoid unnecessary information.
+- Paul’s approach:
+    - Proofs are short (6–8 lines max).
+    - **Closed cards:** Only one line of a proof is closed to maintain simplicity and focus.
+    - Time spent per card is comparable to vocabulary cards in language learning.
+
+---
+
+## Recursive Decomposition of Proofs
+
+- Based on **Leslie Lamport's "How to Write a Proof"**:
+    - Break down long proofs into **sub-proofs** and **sub-proofs of sub-proofs**.
+    - Reduces unnecessary information and improves comprehension.
+    - Enables reuse of sub-proofs, creating a **network of interconnected knowledge**.
+
+---
+
+## Abstraction
+
+- **Goal:** Maximize applicability of knowledge by climbing the ladder of abstraction.
+- Proofs should be incrementally reformulated over time to reflect increasing understanding.
+
+---
+
+## Software Recommendations
+
+- While Paul uses **SuperMemo** for other knowledge types, he recommends:
+    - **Anki** or **Memozyne** for math, due to their **LaTeX support**.
+    - **Benefits:**
+        - Incremental reformulation of cards.
+        - Parent-note edits propagate to child closes for efficient batch editing.
+
+---
+
+## Rewriting and Symbol Creation
+
+- **Rewrite proofs in your own terms** to build an interconnected network of knowledge.
+- Connections simplify knowledge over time.
+- **Create custom math symbols** for different branches to avoid overlap and interference.
+
+---
+
+## Refactoring Patterns
+
+- **Beginner errors:** Cards that are too long.
+- **Improved approach:**
+    - Keep cards short and semantic.
+    - Add new abstractions, connections, and conceptions through reformulation.
+
+---
+
+## Motivation and New Knowledge
+
+- **Paul's motivation:**
+    - Finding new connections, pure curiosity, and academic research.
+- 50% of new cards are **connections derived from old knowledge**, allowing the system to generate new insights.
+
+---
+
+## Advice for Beginners
+
+1. Study the **20 Rules of Item Formulation** by Piotr Wozniak.
+2. Read about **Lamport's recursive proof strategy**.
+3. Start with a branch of math that excites you and follow your curiosity.
+4. Fill gaps in your knowledge as you go.
+5. Use **Wikipedia** for its HTML links, which are often more flexible than books.
+
+---
+
+This structure should work seamlessly in Obsidian, with headers and bullet points ensuring clarity and organization. Let me know if you’d like further tweaks!
    

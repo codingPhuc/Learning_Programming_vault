@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming language/C++.md",
+                "file": "Anki.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C++"
+              "title": "Anki"
             }
           },
           {
@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "todo",
+                "query": "anki",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,7 +180,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -270,10 +271,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2a715b3370cb48cf",
+  "active": "d05728d6f0e77a14",
   "lastOpenFiles": [
     "programming language/C++.md",
     "learning block.md",
+    "Anki.md",
     "Driving.md",
     "programming language",
     "Tasks to do.md",
@@ -309,7 +311,6 @@
     "big project/big project requirement analysis.md",
     "Learning/Asking question.md",
     "Learning technique.md",
-    "Learning/scoring for  principle.md",
     "Chemistry-Study-Guide 1.pdf",
     "Learning/practice learning skill",
     "Improving Communication Skill",
