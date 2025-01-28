@@ -180,8 +180,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -271,7 +270,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2a715b3370cb48cf",
+  "active": "ec2bbee667482424",
   "lastOpenFiles": [
     "programming language/C++.md",
     "learning block.md",
