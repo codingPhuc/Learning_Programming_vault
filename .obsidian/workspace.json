@@ -184,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 517.5
+    "width": 200
   },
   "right": {
     "id": "b3cff0b5294a90f3",
@@ -270,7 +270,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec2bbee667482424",
+  "active": "2a715b3370cb48cf",
   "lastOpenFiles": [
     "programming language/C++.md",
     "learning block.md",

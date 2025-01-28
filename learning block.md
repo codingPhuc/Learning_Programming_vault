@@ -88,4 +88,64 @@ so bases on  this if I give  3 hour a day I will  become able to used the  basic
     
 - **Consistency:** Regular practice and consistent study habits are crucial for mastering algebraic topics.
     
-- **Individual Factors:** Prior mathematical background, learning style, and the complexity of topics influence the time needed to learn these subjects.
+- **Individual Factors:** Prior mathematical background, learning style, and the complexity of topics influence the time needed to learn these subjects. 
+
+The responses here reflect a variety of personal experiences when learning algebra, ranging from taking weeks to months, depending on background knowledge, dedication, and study methods. Here’s a summary of the key points:
+
+1. **Time Commitment**:
+    
+    - Beginners: 14-20 weeks (3 hours/day, 5 days/week).
+    - With some gaps: ~2 months.
+    - Intensive study: Some individuals completed algebra through precalculus in a month by dedicating a chapter per night.
+2. **Study Methods**:
+    
+    - Platforms like Khan Academy, Udemy, and textbooks are common.
+    - Regular problem-solving and practice are critical to grasp abstract concepts.
+3. **Learning Challenges**:
+    
+    - Struggling with abstraction is common, especially for those tied to concrete arithmetic concepts.
+    - Switching between topics (e.g., geometry) can help solidify understanding of algebra.
+4. **Encouragement**:
+    
+    - Returning learners or those with anxiety about math find optimism through daily practice and exposure to terminology.
+5. **Advice**:
+    
+    - Look into resources specific to College Algebra if that’s the goal.
+    - Worksheets, problem sets, and syllabi help guide focus.
+    - Breaks and gradual exposure build long-term understanding.
+
+Would you like tips on planning your study schedule or recommendations for resources?
+
+
+## studying math 
+1. Study outside of class regularly.
+    - Work on your Math homework or study your Math every day.
+    - Study your Math at least two hours for each hour in the classroom. For example, a four unit class will require at least 8 hours of study per week. 
+2. Read your textbooks. See [reading Math textbooks](https://missioncollege.edu/depts/math/math-help/how-to-study-math/reading-textbooks.html) for details. 
+3. Get good at taking notes class. See [note-taking](https://missioncollege.edu/depts/math/math-help/how-to-study-math/note-taking-for-college.html "taking notes") for more details. 
+4. Make summary sheets.
+    - Make a list of important theorems.
+    - Make a list of important properties and formulas.
+    - Make a list of important vocabulary words.
+    - Make a list of the important course objectives for each unit in the course (usually a section or chapter of the textbook).
+    - Review these lists every day. 
+5. Practice all problems until you have mastered the ability to solve and check them. 
+6. Be aware of what topics you know well, which topics need more practice and which topics you don't know at all. 
+7. Continually review: Review material from the beginning of the semester throughout the entire semester. 
+8. Do your Math homework before homework in other subjects. 
+    - You will be working when your mind is sharpest.
+    - If you get stuck on a problem, you can revisit it later.
+    - You have time to get help on problems that you have no idea about. 
+9. Take study breaks. 
+    - After a period of concentration, take a break for relaxation or to work on other subjects.
+    - Return to problems that you could not complete previously. 
+10. Make use of campus resources.
+    - The [Academic Support Center](https://missioncollege.edu/depts/academic-support/ "Academic Support Center") offers free Math tutoring (including online Math tutoring.)
+    - Get involved in STEM groups on campus. For example, [MESA](https://missioncollege.edu/student_services/mesa/index.html "MESA") and, [STEM Core](https://missioncollege.edu/student_services/stem/stem-core.html "STEM Core"), and the [STEM Learning Center](https://missioncollege.edu/student_services/stem/stem-learning-center.html "STEM Learning Center"). If you have a [learning or other type of disability, take advantage of the robust services offered by Mission.](https://missioncollege.edu/depts/disability-support-programs/ "DSPS")
+    - Use your instructor's office hours.
+    - Purchase _Winning At Math_ by Paul Nolting in the [Mission College Bookstore](https://missioncollege.edu/student_services/bookstore/index.html "Mission College Bookstore"). 
+11. Study in the right environment. 
+    - Quiet. You need to be able to think deeply to learn Mathematics. A noisey environment creates obstacles to your concentration and create distractions to focusing on the problems at hand.
+    - Well-supplied. Have plenty of scratch paper, graph paper, pencils and erasers handy. Colored pencils are also useful. A scientific calculator is also useful.
+    - Well-lit. Make sure there is good lighting while reading and studying. 
+    - Study groups. If you are the type of person who learns well in a social environment, try joining or forming a study group.
