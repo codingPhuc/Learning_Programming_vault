@@ -384,8 +384,8 @@ Overall, the conversation underscores that examples are not just tools for pract
 ## repetition in math   
 
 there are two area  in mathematic  
-main idea base on a recursive  list out the main idea of a  theorem this practice is too proof an equation and see if the equation make sense 
+main idea base on a recursive  list out the main idea of a  theorem this practice is too proof an equation and see if the equation make sense  , and if other equation can be used to proof another equation or theorem 
 ### proof  
-is the part to proof a formula 
+is the foundation of mathematic read the proof  section in the obsidian  vault for future clarification 
 ### practice  
 is the part for solving an equation 
