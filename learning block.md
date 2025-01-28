@@ -396,4 +396,5 @@ to repetition a proof in mathematic  I should
 is the part for solving an equation  practice is the used of the proof to solve an equation 
 1. repetition practice I should give equation to solve 
 	1. each equation belong to a specific section like this section is  about  Preliminaries 
-	2. then for a singl
+	2. then for a single day there will be 2 question from a section  in the Anki test like for today Anki  will give me 40 equation I will need to solve them  and  there is 5 Preliminaries equation in that 
+	3. there should be separation of test too if needed like for example  40 equation for the first test the second test will also be 40 equation but I know which test  I am currently doing
