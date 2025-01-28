@@ -148,4 +148,97 @@ Would you like tips on planning your study schedule or recommendations for resou
     - Quiet. You need to be able to think deeply to learn Mathematics. A noisey environment creates obstacles to your concentration and create distractions to focusing on the problems at hand.
     - Well-supplied. Have plenty of scratch paper, graph paper, pencils and erasers handy. Colored pencils are also useful. A scientific calculator is also useful.
     - Well-lit. Make sure there is good lighting while reading and studying. 
-    - Study groups. If you are the type of person who learns well in a social environment, try joining or forming a study group.
+    - Study groups. If you are the type of person who learns well in a social environment, try joining or forming a study group. 
+
+
+
+
+This thread captures a great discussion on balancing drills and conceptual understanding in higher-level mathematics. Here's a breakdown of advice shared:
+
+### Key Takeaways:
+
+1. **Transition from Algorithms to Reasoning:**
+    
+    - Early math education emphasizes repetitive drills to solidify computational skills.
+    - As math becomes abstract (college-level or beyond), focus shifts to creative reasoning and problem-solving.
+2. **Challenges of Forgetting:**
+    
+    - Forgetting foundational facts, like properties of orthogonality or matrices, is normal.
+    - Instead of relying heavily on drills, it’s better to review gaps as they arise and keep moving forward.
+3. **Drills as a Warm-Up:**
+    
+    - Short, repetitive exercises can help reinforce familiarity with basic tools (e.g., sets, matrices, random variables).
+    - Example: "Which pairs of vectors are orthogonal?" or "Find determinants of these matrices."
+4. **Flashcards and Fact Cards:**
+    
+    - Flashcards might help in the short term but aren't as effective for advanced mathematics because concepts are interrelated.
+    - Instead, focus on solving problems where facts are applied in context.
+5. **Integrating Learning Tools:**
+    
+    - For those learning new abstractions, combining exercises, lecture notes, and small proofs can improve familiarity.
+    - Online resources like [compscilib.com](https://www.compscilib.com/) provide curated practice problems for discrete math, statistics, etc.
+6. **Philosophy for Advanced Study:**
+    
+    - Everyone forgets! It’s okay to revisit old concepts, refresh briefly, and continue building understanding.
+    - Drills serve as foundational warm-ups, but deeper learning often comes from engaging with challenging problems and reasoning exercises.
+
+---
+
+### Additional Suggestions:
+
+- **Active Recall & Spaced Repetition:** Apps like Anki can help with retaining definitions and key theorems.
+- **Contextual Learning:** Engage with real-world problems or proofs that make use of the concepts you want to master.
+- **Collaborate or Discuss:** Explaining concepts to peers can solidify understanding and highlight gaps.
+- **Generative AI (if approached critically):** While it may produce errors, using AI tools to brainstorm or break down concepts can spark insight when used alongside verified resources.
+
+What resonates most with your learning style?
+
+
+## hitting the wall in math 
+
+Here’s a summary of the key advice and tips from the comments:
+
+### 1. **Proofs Require Practice**
+
+- Proofs are fundamentally creative and require a different approach compared to computational math.
+- Work on understanding the structure of mathematics, not just memorizing proofs.
+- Practice writing proofs regularly and seek feedback to improve clarity and conciseness.
+
+### 2. **Transition to Advanced Math Takes Time**
+
+- Moving from computation-based courses (e.g., Calculus) to proof-based courses (e.g., Linear Algebra) is challenging for everyone.
+- Be patient with yourself—it’s a new skill that improves with experience.
+
+### 3. **Seek Support**
+
+- Regularly attend office hours to understand what your proofs are missing.
+- Engage with professors or peers to clarify concepts and receive guidance.
+
+### 4. **Exposure to Proofs Helps**
+
+- Taking an introductory proof-writing or discrete mathematics course before proof-based Linear Algebra can be beneficial.
+- Revisit challenging topics later—concepts often feel easier when revisited.
+
+### 5. **Individual Strengths in Math Vary**
+
+- You might excel in computation-heavy courses (e.g., Calculus) but struggle with abstract courses (e.g., Linear Algebra), or vice versa.
+- Different people excel at different areas of mathematics.
+
+### 6. **Learning Curve is Normal**
+
+- Feeling like you’ve “hit a wall” is part of learning advanced math. This feeling often happens as concepts become more abstract.
+- Over time, you’ll look back and realize you’ve progressed further than you thought.
+
+### 7. **Choose the Right Resources**
+
+- The textbook and course design matter—some courses assume prior exposure to proofs.
+- Revisiting the material with a better foundation in analysis or algebra might help.
+
+### 8. **Be Persistent**
+
+- Even if a topic feels insurmountable (e.g., Representation Theory, Real Analysis), persistence and time often lead to improvement.
+- Accept that setbacks are part of the learning process in math.
+## repetition in math  
+
+
+ 
