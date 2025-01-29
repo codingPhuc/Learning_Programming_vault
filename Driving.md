@@ -304,4 +304,48 @@ page 16b
 # https://www.dmv-written-test.com/california/practice-test-10.html?page=4 
 page  39  
 page 59  
-page 28 
+page 28  
+
+https://www.dmv-written-test.com/california/practice-test-14.html?page=1 
+page 68 
+page 33 
+page 43 
+page 27 
+page 33 
+page 74 
+page 57
+page 33
+page 33 
+page 52 
+page  9 
+page 13 
+
+
+Here’s your ordered list with repetitions preserved:
+
+
+
+
+
+### From Practice Test 10:
+
+- Page 9
+- Page 13
+- Page 28
+- Page 39
+- Page 59
+
+### From Practice Test 14:
+
+- Page 9
+- Page 13
+- Page 27
+- Page 33
+- Page 33
+- Page 33
+- Page 33
+- Page 43
+- Page 52
+- Page 57
+- Page 68
+- Page 74

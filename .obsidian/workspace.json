@@ -51,12 +51,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Driving.md",
+                "file": "Anki.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Driving"
+              "title": "Anki"
+            }
+          },
+          {
+            "id": "2a715b3370cb48cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning block.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "learning block"
             }
           },
           {
@@ -114,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -145,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "todo",
+                "query": "anki",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,11 +180,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 517.5
+    "width": 200
   },
   "right": {
     "id": "b3cff0b5294a90f3",
@@ -256,14 +271,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d05728d6f0e77a14",
+  "active": "2a715b3370cb48cf",
   "lastOpenFiles": [
+    "Anki.md",
+    "programming language/C++.md",
+    "learning block.md",
+    "Driving.md",
+    "programming language",
     "Tasks to do.md",
     "gift for American.md",
     "React/Todo app project.md",
     "Vagrant -  Hashicrop.md",
     "testcases Todo app.md",
-    "Driving.md",
     "Untitled.canvas",
     "big picture.md",
     "Error.md",
@@ -292,10 +311,7 @@
     "big project/big project requirement analysis.md",
     "Learning/Asking question.md",
     "Learning technique.md",
-    "Learning/scoring for  principle.md",
-    "Learning/practice learning skill/studying courses that need to be study.md",
     "Chemistry-Study-Guide 1.pdf",
-    "Learning/How I Ranked 1st at Cambridge University - 20 Study Tips.md",
     "Learning/practice learning skill",
     "Improving Communication Skill",
     "book/Fundamentals of Data Engineering Plan and Build Robust Data Systems (Joe Reis, Matt Housley) (Z-Library) (1).pdf",
@@ -304,7 +320,6 @@
     "React/sequenceRegister.puml",
     "React/sequenceLogin.puml",
     "React/sequenceLogin",
-    "React/plan.puml",
     "Learning/Canvas/Learning-System-Flow.canvas",
     "Learning/Canvas/system_connections.canvas",
     "Canvas/Master-System-Flow.canvas",

@@ -6,3 +6,4 @@ find flash card repository on
 
 1. power point on one side and anki in the other 
 2. 
+## flash card creation  
