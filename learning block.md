@@ -34,7 +34,6 @@ As a tutorial [www.learncpp.com](http://www.learncpp.com/) is just better than
 I am going to learn it bases on my [[learning algebra road maps]] detailing thing like amount of time needed to learn, technique to learn the subject and how should I schedule my learning  
 
 
-
 using the  10  percentage rule to know the amount of time 
 ### amount  of time 
 The time it takes to learn C++ varies significantly depending on the individual's background, experience, and the depth of knowledge they aim to achieve. Here's a summary of the insights provided by various users:
