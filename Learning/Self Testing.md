@@ -3,11 +3,13 @@
 
 
 # outline  plan   
+
+## why : 
+- I need to do this  to improve on my own ability as a learner  plus learn skill that will help me greatly on the long run 
+
 ## what  : 
 - I need to be able to reflect upon myself  for effective studying to know the material  in a quick time slot   
 - this can be a courses work , or a skill that need to be learn and understand deeply 
-## why : 
-- I need to do this  to improve on my own ability as a learner  plus learn skill that will help me greatly on the long run 
 ## how : 
 - I will build an action plan that will enable  my reflection ability to the fullest  
 - this plan will be different for each skill and each courses  

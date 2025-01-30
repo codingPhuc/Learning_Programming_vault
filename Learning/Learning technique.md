@@ -47,6 +47,10 @@ the idea is to like have a conversation with the author of the books on his theo
 7. 
 
 ## learning by video  
+
+
+
+
 # tree diagram  
 # Having a plan for learning 
 If you do not have a plan and a clear small goal in mind your mind will wander off to look at social media thus making all your effort in vain 
@@ -95,7 +99,7 @@ you not testing your self enough lead to improvement of your score
 ## do more mock exam 
 - you  should study to get knowledge not to get exam  
 - you should add in a fair to your exam  look as a person that have a high mark  
-- make your easy more pearty 
+- make your easy more partly  
 
 ## do one thing at a time 
 share focus mode in devices 

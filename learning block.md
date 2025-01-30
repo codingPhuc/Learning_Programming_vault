@@ -57,6 +57,15 @@ In summary, while basic proficiency can be achieved in a few months to a couple 
 so bases on  this if I give  3 hour a day I will  become able to used the  basic in 4 month 
 ## Math [ALGEBRA](https://tutorial.math.lamar.edu/Problems/Alg/Alg.aspx)
 
+
+
+### Why I need to learn it 
+I need to have the basic understanding of  algebra in order to learn high level mathematic like  linear algebra 
+### what I need to learn  
+I need to learn all the subject outline in the link these subject include major area like [Preliminaries](https://tutorial.math.lamar.edu/Problems/Alg/Preliminaries.aspx) [Solving Equations and Inequalities](https://tutorial.math.lamar.edu/Problems/Alg/Solving.aspx) and ect. I need
+### How I am going to learn it 
+
+
 ## amount of time 
 **Formal Education Timeline:**
 
