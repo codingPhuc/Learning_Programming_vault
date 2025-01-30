@@ -15,7 +15,21 @@ I need to learn it because :
 2. I want to make VR game in unreal engine 
 3. I want to program edge computing giving me an edge in AI  , also most AI run on C++ optimize setting  
 ### what I need to learn  
+  
 
+## [www.learncpp.com](http://www.learncpp.com/)
+
+is the best free tutorial out there. ([reason](https://www.reddit.com/user/IyeOnline/comments/157f10z/c_youtube_video_tutorials/juvgjkc/)) It covers everything from the absolute basics to advanced topics. It follows modern and best practice guidelines.
+
+[www.studyplan.dev/cpp](http://www.studyplan.dev/cpp) is a (very) close second, even surpassing learncpp in the breath of topics covered. It covers quite a few things that learncpp does not, but does not have just as much detail/in depth explanations on the shared parts. Don't be fooled by the somewhat strange AI generated images. The author just had a little fun. Just ignore them.
+## [www.cppreference.com](http://www.cppreference.com/)
+
+is the best language reference out there. 
+Most youtube tutorials are of low quality, I would recommend to stay away from them as well. A notable exception are the [CppCon Back to Basics](https://www.youtube.com/user/CppCon/search?query=back%20to%20basics) videos. They are good, topic oriented and in depth explanations. However, they assume that you have _some_ knowledge of the language's basic features and syntax and as such aren't a good entry point into the language.
+
+If you _really_ insist on videos, then take a look at [this list](https://www.reddit.com/user/IyeOnline/comments/157f10z/c_youtube_video_tutorials/).
+
+As a tutorial [www.learncpp.com](http://www.learncpp.com/) is just better than any other resource.
 ### How I am going to learn it 
 I am going to learn it bases on my [[learning algebra road maps]] detailing thing like amount of time needed to learn, technique to learn the subject and how should I schedule my learning  
 
