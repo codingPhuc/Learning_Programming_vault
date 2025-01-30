@@ -61,9 +61,14 @@
 - **Consistency:** Regular practice and consistent study habits are crucial for mastering algebraic topics.
 - **Individual Factors:** Prior mathematical background, learning style, and the complexity of topics influence the time needed to learn these subjects.
 
-## Proof
+## Proof 
 
-Proof is the foundation of mathematics. Read the proof section in the Obsidian vault for future clarification. To repetition a proof in mathematics, I should:
+### definition 
+A mathematical proof is a way to demonstrate that a statement is verifiably true or false. It is important to have definitive truths in mathematics. Otherwise, there would be no knowing whether a statement is true or false. Proofs provide the very backbone of mathematics, and allow for mathematicians to build broader theories.
+
+There are 3 main types of mathematical proofs. These are direct proofs, proofs by contrapositive and contradiction, and proofs by induction. 
+
+Proof is the foundation of mathematics.  To repetition a proof in mathematics, I should:
 1. Repetition by providing the name of the proof then let the user of the proof solve it themselves.
 2. Repetition by filling in the gap in the proof equation.
 3. Repetition by specifying using what formula for the proof itself.
@@ -97,10 +102,10 @@ Proof is the foundation of mathematics. Read the proof section in the Obsidian v
 ## Practice
 
 Practice is the part for solving an equation. Practice is the use of the proof to solve an equation.
-1. Repetition practice: I should give equations to solve.
-    - Each equation belongs to a specific section like this section is about Preliminaries.
-    - Then for a single day, there will be 2 questions from a section in the Anki test. For example, today Anki will give me 40 equations I will need to solve, and there are 5 Preliminaries equations in that.
-    - There should be a separation of tests too if needed. For example, 40 equations for the first test, the second test will also be 40 equations but I know which test I am currently doing.
+Repetition practice: I should give equations to solve.
+- Each equation belongs to a specific section like this section is about Preliminaries.
+- Then for a single day, there will be 2 questions from a section in the Anki test. For example, today Anki will give me 40 equations I will need to solve, and there are 5 Preliminaries equations in that.
+- There should be a separation of tests too if needed. For example, 40 equations for the first test, the second test will also be 40 equations but I know which test I am currently doing.
 
 ### Problem-Solving Cards
 
