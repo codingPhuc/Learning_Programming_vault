@@ -13,7 +13,6 @@
 - [Amount of Time](#amount-of-time)
 - [Challenges in Learning](#challenges-in-learning)
 - [Key Resources](#key-resources)
-
 ## Motivation and New Knowledge
 
 - **Paul's motivation:**

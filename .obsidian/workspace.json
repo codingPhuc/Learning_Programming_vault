@@ -77,8 +77,7 @@
               "title": "Learning With Chat gpt"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,7 +219,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9edf9e6234d90ea9",
+  "active": "2a715b3370cb48cf",
   "lastOpenFiles": [
     "Learning/Self Testing.md",
     "learning algebra road maps.md",
