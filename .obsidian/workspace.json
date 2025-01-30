@@ -91,8 +91,7 @@
               "title": "Learning With Chat gpt"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,8 +143,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -236,8 +234,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f3dc8e193c9e75e",
+  "active": "2a715b3370cb48cf",
   "lastOpenFiles": [
+    "todo/research.md",
     "Untitled 3.md",
     "learning algebra road maps.md",
     "Learning/Self Testing.md",
@@ -269,7 +268,6 @@
     "Learning/How to be Productive.md",
     "Learning/4 layer of learning.md",
     "Learning/book learning/How To Get The Most Out of A Book - Analytical Reading.md",
-    "Dependency Injection.md",
     "picture folder/Pasted image 20250119185358.png",
     "picture folder/Pasted image 20250119185345.png",
     "picture folder/Pasted image 20250119185329.png",
