@@ -30,7 +30,7 @@ Most youtube tutorials are of low quality, I would recommend to stay away from t
 If you _really_ insist on videos, then take a look at [this list](https://www.reddit.com/user/IyeOnline/comments/157f10z/c_youtube_video_tutorials/).
 
 As a tutorial [www.learncpp.com](http://www.learncpp.com/) is just better than any other resource.
-### How I am going to learn it 
+### How I am going to learn it sdfsd
 I am going to learn it bases on my [[learning algebra road maps]] detailing thing like amount of time needed to learn, technique to learn the subject and how should I schedule my learning  
 
 
