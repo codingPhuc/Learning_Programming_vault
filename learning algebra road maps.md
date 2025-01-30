@@ -121,7 +121,6 @@ Practice is the part for solving an equation. Practice is the use of the proof t
 
 ## Repetition in Learning
 
-// ...existing code...
 
 ## Abstraction
 
