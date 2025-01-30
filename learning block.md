@@ -32,10 +32,10 @@ If you _really_ insist on videos, then take a look at [this list](https://www
 As a tutorial [www.learncpp.com](http://www.learncpp.com/) is just better than any other resource. 
 
 book I am going to read about C++ 
-
-
-
-
+this is a very complicated  book so it need a good understanding of C++ in order to read 
+[[Programming Principles and Practice Using C++, Third Edition (Bjarne Stroustrup) (Z-Library) (1).pdf]]
+C++ Primer : By: Stanley B. Lippman, Josée Lajoie, Barbara E. Moo this is a beginner book so I should also read this after i finish 
+[[C++ Primer, Fifth Edition (Stanley B. Lippman  Josée Lajoie  Barbara Moo) (Z-Library).pdf]]
 ### How I am going to learn it 
 I am going to learn it bases on my [[learning algebra road maps]] detailing thing like amount of time needed to learn, technique to learn the subject and how should I schedule my learning  
 
