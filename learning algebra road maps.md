@@ -5,13 +5,22 @@
 
 
 ## amount of time 
+1. **Time Commitment**:
+    
+    - Beginners: 14-20 weeks (3 hours/day, 5 days/week).
+    - With some gaps: ~2 months.
+    - Intensive study: Some individuals completed algebra through precalculus in a month by dedicating a chapter per night.  
+- **College Courses:** At the community college level, introductory algebra courses often run for about 18 weeks. These courses may progress more rapidly than high school classes.
+
+
+
 **Formal Education Timeline:**
 
 - **High School Curriculum:** In the United States, the sequence typically includes Algebra I, Geometry, Algebra II, and Pre-Calculus, each spanning an academic year. This sequence usually takes four years, starting with Algebra I in 8th or 9th grade and culminating with Pre-Calculus in 11th or 12th grade.
     
     [Mathematics Stack Exchange](https://math.stackexchange.com/questions/2375702/how-long-will-it-take-to-learn-algebra-1-2-geometry-and-pre-calculus?utm_source=chatgpt.com)
     
-- **College Courses:** At the community college level, introductory algebra courses often run for about 18 weeks. These courses may progress more rapidly than high school classes.
+
     
     [Physics Forums](https://www.physicsforums.com/threads/how-fast-should-i-teach-myself-algebra.951962/?utm_source=chatgpt.com)
     
@@ -39,11 +48,6 @@
 
 The responses here reflect a variety of personal experiences when learning algebra, ranging from taking weeks to months, depending on background knowledge, dedication, and study methods. Here’s a summary of the key points:
 
-1. **Time Commitment**:
-    
-    - Beginners: 14-20 weeks (3 hours/day, 5 days/week).
-    - With some gaps: ~2 months.
-    - Intensive study: Some individuals completed algebra through precalculus in a month by dedicating a chapter per night.
 2. **Study Methods**:
     
     - Platforms like Khan Academy, Udemy, and textbooks are common.
