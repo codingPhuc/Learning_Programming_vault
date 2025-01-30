@@ -1,74 +1,20 @@
 
 
 
+# what you need in order to learn 
 
-
-
-## amount of time 
-1. **Time Commitment**:
-    
-    - Beginners: 14-20 weeks (3 hours/day, 5 days/week).
-    - With some gaps: ~2 months.
-    - Intensive study: Some individuals completed algebra through precalculus in a month by dedicating a chapter per night.  
-- **College Courses:** At the community college level, introductory algebra courses often run for about 18 weeks. These courses may progress more rapidly than high school classes.
-
-
-
-**Formal Education Timeline:**
-
-- **High School Curriculum:** In the United States, the sequence typically includes Algebra I, Geometry, Algebra II, and Pre-Calculus, each spanning an academic year. This sequence usually takes four years, starting with Algebra I in 8th or 9th grade and culminating with Pre-Calculus in 11th or 12th grade.
-    
-    [Mathematics Stack Exchange](https://math.stackexchange.com/questions/2375702/how-long-will-it-take-to-learn-algebra-1-2-geometry-and-pre-calculus?utm_source=chatgpt.com)
-    
-
-    
-    [Physics Forums](https://www.physicsforums.com/threads/how-fast-should-i-teach-myself-algebra.951962/?utm_source=chatgpt.com)
-    
-
-**Self-Directed Learning:**
-
-- **Pacing:** Self-learners can adjust their study pace based on personal goals and available time. Some individuals have reported progressing from Algebra I to Calculus II within a year through dedicated self-study.
-    
-    [youtube.com](https://www.youtube.com/watch?v=1sm2U3vyL4w&utm_source=chatgpt.com)
-    
-- **Resources:** Utilizing comprehensive resources like Khan Academy or structured textbooks can facilitate accelerated learning. For instance, some learners have completed high school math curricula in 3 to 6 months through intensive study.
-    
-    [Mathematics Stack Exchange](https://math.stackexchange.com/questions/2375702/how-long-will-it-take-to-learn-algebra-1-2-geometry-and-pre-calculus?utm_source=chatgpt.com)
-    
-
-**Key Considerations:**
-
-- **Depth of Understanding:** While it's possible to grasp basic algebraic concepts quickly, achieving a deep and thorough understanding typically requires more time and practice.
-    
-    [School Yourself](https://blog.schoolyourself.org/2015/06/can-you-learn-algebra-in-24-hours.html?utm_source=chatgpt.com)
-    
-- **Consistency:** Regular practice and consistent study habits are crucial for mastering algebraic topics.
-    
-- **Individual Factors:** Prior mathematical background, learning style, and the complexity of topics influence the time needed to learn these subjects. 
-
-The responses here reflect a variety of personal experiences when learning algebra, ranging from taking weeks to months, depending on background knowledge, dedication, and study methods. Here’s a summary of the key points:
-
-2. **Study Methods**:
-    
-    - Platforms like Khan Academy, Udemy, and textbooks are common.
-    - Regular problem-solving and practice are critical to grasp abstract concepts.
-3. **Learning Challenges**:
-    
-    - Struggling with abstraction is common, especially for those tied to concrete arithmetic concepts.
-    - Switching between topics (e.g., geometry) can help solidify understanding of algebra.
-4. **Encouragement**:
-    
-    - Returning learners or those with anxiety about math find optimism through daily practice and exposure to terminology.
-5. **Advice**:
-    
-    - Look into resources specific to College Algebra if that’s the goal.
-    - Worksheets, problem sets, and syllabi help guide focus.
-    - Breaks and gradual exposure build long-term understanding.
-
-Would you like tips on planning your study schedule or recommendations for resources?
-
-
-## studying math 
+11. Study in the right environment. 
+    - Quiet. You need to be able to think deeply to learn Mathematics. A noisey environment creates obstacles to your concentration and create distractions to focusing on the problems at hand.
+    - Well-supplied. Have plenty of scratch paper, graph paper, pencils and erasers handy. Colored pencils are also useful. A scientific calculator is also useful.
+    - Well-lit. Make sure there is good lighting while reading and studying. 
+    - Study groups. If you are the type of person who learns well in a social environment, try joining or forming a study group. 
+8. Do your Math homework before homework in other subjects. 
+    - You will be working when your mind is sharpest.
+    - If you get stuck on a problem, you can revisit it later.
+    - You have time to get help on problems that you have no idea about. 
+9. Take study breaks. 
+    - After a period of concentration, take a break for relaxation or to work on other subjects.
+    - Return to problems that you could not complete previously. 
 1. Study outside of class regularly.
     - Work on your Math homework or study your Math every day.
     - Study your Math at least two hours for each hour in the classroom. For example, a four unit class will require at least 8 hours of study per week. 
@@ -83,23 +29,105 @@ Would you like tips on planning your study schedule or recommendations for resou
 5. Practice all problems until you have mastered the ability to solve and check them. 
 6. Be aware of what topics you know well, which topics need more practice and which topics you don't know at all. 
 7. Continually review: Review material from the beginning of the semester throughout the entire semester. 
-8. Do your Math homework before homework in other subjects. 
-    - You will be working when your mind is sharpest.
-    - If you get stuck on a problem, you can revisit it later.
-    - You have time to get help on problems that you have no idea about. 
-9. Take study breaks. 
-    - After a period of concentration, take a break for relaxation or to work on other subjects.
-    - Return to problems that you could not complete previously. 
+**Key Considerations:**
+
+- **Depth of Understanding:** While it's possible to grasp basic algebraic concepts quickly, achieving a deep and thorough understanding typically requires more time and practice.
+    
+    [School Yourself](https://blog.schoolyourself.org/2015/06/can-you-learn-algebra-in-24-hours.html?utm_source=chatgpt.com)
+    
+- **Consistency:** Regular practice and consistent study habits are crucial for mastering algebraic topics.
+    
+- **Individual Factors:** Prior mathematical background, learning style, and the complexity of topics influence the time needed to learn these subjects. 
+
+# amount of time 
+1. **Time Commitment**:
+    
+    - Beginners: 14-20 weeks (3 hours/day, 5 days/week).
+    - With some gaps: ~2 months.
+    - Intensive study: Some individuals completed algebra through precalculus in a month by dedicating a chapter per night.  
+- **College Courses:** At the community college level, introductory algebra courses often run for about 18 weeks. These courses may progress more rapidly than high school classes.
+
+**Self-Directed Learning:**
+
+- **Pacing:** Self-learners can adjust their study pace based on personal goals and available time. Some individuals have reported progressing from Algebra I to Calculus II within a year through dedicated self-study.
+    
+    [youtube.com](https://www.youtube.com/watch?v=1sm2U3vyL4w&utm_source=chatgpt.com)
+    
+- **Resources:** Utilizing comprehensive resources like Khan Academy or structured textbooks can facilitate accelerated learning. For instance, some learners have completed high school math curricula in 3 to 6 months through intensive study.
+**Formal Education Timeline:**
+
+- **High School Curriculum:** In the United States, the sequence typically includes Algebra I, Geometry, Algebra II, and Pre-Calculus, each spanning an academic year. This sequence usually takes four years, starting with Algebra I in 8th or 9th grade and culminating with Pre-Calculus in 11th or 12th grade.
+    
+    [Mathematics Stack Exchange](https://math.stackexchange.com/questions/2375702/how-long-will-it-take-to-learn-algebra-1-2-geometry-and-pre-calculus?utm_source=chatgpt.com)
+    
+
+    
+    [Physics Forums](https://www.physicsforums.com/threads/how-fast-should-i-teach-myself-algebra.951962/?utm_source=chatgpt.com)
+    
+
+    
+    [Mathematics Stack Exchange](https://math.stackexchange.com/questions/2375702/how-long-will-it-take-to-learn-algebra-1-2-geometry-and-pre-calculus?utm_source=chatgpt.com)
+
+ 
+
+# challenge in learning  
+6. **Philosophy for Advanced Study:**
+    
+    - Everyone forgets! It’s okay to revisit old concepts, refresh briefly, and continue building understanding.
+    - Drills serve as foundational warm-ups, but deeper learning often comes from engaging with challenging problems and reasoning exercises.
+
+The responses here reflect a variety of personal experiences when learning algebra, ranging from taking weeks to months, depending on background knowledge, dedication, and study methods. Here’s a summary of the key points:
+
+3. **Learning Challenges**:
+    
+    - Struggling with abstraction is common, especially for those tied to concrete arithmetic concepts.
+    - Switching between topics (e.g., geometry) can help solidify understanding of algebra.
+
+
+4. **Encouragement**:
+    
+    - Returning learners or those with anxiety about math find optimism through daily practice and exposure to terminology.
+# key resources 
+
+5. **Advice**:
+    
+    - Look into resources specific to College Algebra if that’s the goal.
+    - Worksheets, problem sets, and syllabi help guide focus.
+    - Breaks and gradual exposure build long-term understanding.
+
+2. **Study Methods**:
+    
+    - Platforms like Khan Academy, Udemy, and textbooks are common.
+    - Regular problem-solving and practice are critical to grasp abstract concepts.
+
+
+
 10. Make use of campus resources.
     - The [Academic Support Center](https://missioncollege.edu/depts/academic-support/ "Academic Support Center") offers free Math tutoring (including online Math tutoring.)
     - Get involved in STEM groups on campus. For example, [MESA](https://missioncollege.edu/student_services/mesa/index.html "MESA") and, [STEM Core](https://missioncollege.edu/student_services/stem/stem-core.html "STEM Core"), and the [STEM Learning Center](https://missioncollege.edu/student_services/stem/stem-learning-center.html "STEM Learning Center"). If you have a [learning or other type of disability, take advantage of the robust services offered by Mission.](https://missioncollege.edu/depts/disability-support-programs/ "DSPS")
     - Use your instructor's office hours.
     - Purchase _Winning At Math_ by Paul Nolting in the [Mission College Bookstore](https://missioncollege.edu/student_services/bookstore/index.html "Mission College Bookstore"). 
-11. Study in the right environment. 
-    - Quiet. You need to be able to think deeply to learn Mathematics. A noisey environment creates obstacles to your concentration and create distractions to focusing on the problems at hand.
-    - Well-supplied. Have plenty of scratch paper, graph paper, pencils and erasers handy. Colored pencils are also useful. A scientific calculator is also useful.
-    - Well-lit. Make sure there is good lighting while reading and studying. 
-    - Study groups. If you are the type of person who learns well in a social environment, try joining or forming a study group. 
+
+
+
+
+
+
+- **Active Recall & Spaced Repetition:** Apps like Anki can help with retaining definitions and key theorems.
+- **Contextual Learning:** Engage with real-world problems or proofs that make use of the concepts you want to master.
+- **Collaborate or Discuss:** Explaining concepts to peers can solidify understanding and highlight gaps.
+- **Generative AI (if approached critically):** While it may produce errors, using AI tools to brainstorm or break down concepts can spark insight when used alongside verified resources.
+
+
+
+
+
+
+
+# studying math 
+
+
+
 
 
 
@@ -128,19 +156,11 @@ This thread captures a great discussion on balancing drills and conceptual under
     
     - For those learning new abstractions, combining exercises, lecture notes, and small proofs can improve familiarity.
     - Online resources like [compscilib.com](https://www.compscilib.com/) provide curated practice problems for discrete math, statistics, etc.
-6. **Philosophy for Advanced Study:**
-    
-    - Everyone forgets! It’s okay to revisit old concepts, refresh briefly, and continue building understanding.
-    - Drills serve as foundational warm-ups, but deeper learning often comes from engaging with challenging problems and reasoning exercises.
 
 ---
 
 ### Additional Suggestions:
 
-- **Active Recall & Spaced Repetition:** Apps like Anki can help with retaining definitions and key theorems.
-- **Contextual Learning:** Engage with real-world problems or proofs that make use of the concepts you want to master.
-- **Collaborate or Discuss:** Explaining concepts to peers can solidify understanding and highlight gaps.
-- **Generative AI (if approached critically):** While it may produce errors, using AI tools to brainstorm or break down concepts can spark insight when used alongside verified resources.
 
 What resonates most with your learning style?
 
