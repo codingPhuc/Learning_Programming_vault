@@ -121,32 +121,31 @@ Practice is the part for solving an equation. Practice is the use of the proof t
 
 ## Repetition in Learning
 
-
-## Abstraction
+### Abstraction
 
 - **Goal:** Maximize applicability of knowledge by climbing the ladder of abstraction.
 - Proofs should be incrementally reformulated over time to reflect increasing understanding.
 
-## Rewriting and Symbol Creation
+### Rewriting and Symbol Creation
 
 - **Rewrite proofs in your own terms** to build an interconnected network of knowledge.
 - Connections simplify knowledge over time.
 - **Create custom math symbols** for different branches to avoid overlap and interference.
 
-## Refactoring Patterns
+### Refactoring Patterns
 
 - **Beginner errors:** Cards that are too long.
 - **Improved approach:**
     - Keep cards short and semantic.
     - Add new abstractions, connections, and conceptions through reformulation.
 
-## Applying Spaced Repetition to Mathematics
+### Applying Spaced Repetition to Mathematics
 
 **Talk Summary by Paul Robert Shaw**  
 **Date:** February 20, 2021  
 **Event:** supermemory.wiki Discord
 
-### Introduction
+#### Introduction
 
 - The video summarizes Paul Robert Shaw's talk, as the original was not recorded.
 - Purpose: Share Paul's insights and encourage him to create his own article or video on the subject.
@@ -157,14 +156,14 @@ Practice is the part for solving an equation. Practice is the use of the proof t
     - Consistently uses SRS without breaks due to his passion for the process.
     - Has theorems and proofs at his fingertips as a result of this method.
 
-### Core Principles
+#### Core Principles
 
 - **The 20 Rules of Knowledge Formulation** (by Piotr Wozniak):
     - These rules **do apply to math**, contrary to common belief.
     - Paul initially made formulation errors but improved over time.
     - Key takeaway: Math knowledge **can be retained** effectively with SRS.
 
-### Atomicity
+#### Atomicity
 
 - **Definition:** Cards should represent single, simple concepts and avoid unnecessary information.
 - Paul’s approach:
@@ -172,24 +171,24 @@ Practice is the part for solving an equation. Practice is the use of the proof t
     - **Closed cards:** Only one line of a proof is closed to maintain simplicity and focus.
     - Time spent per card is comparable to vocabulary cards in language learning.
 
-### Recursive Decomposition of Proofs
+#### Recursive Decomposition of Proofs
 
 - Based on **Leslie Lamport's "How to Write a Proof"**:
     - Break down long proofs into **sub-proofs** and **sub-proofs of sub-proofs**.
     - Reduces unnecessary information and improves comprehension.
     - Enables reuse of sub-proofs, creating a **network of interconnected knowledge**.
 
-### Drills as a Warm-Up
+#### Drills as a Warm-Up
 
 - Short, repetitive exercises can help reinforce familiarity with basic tools (e.g., sets, matrices, random variables).
 - Example: "Which pairs of vectors are orthogonal?" or "Find determinants of these matrices."
 
-### Flashcards and Fact Cards
+#### Flashcards and Fact Cards
 
 - Flashcards might help in the short term but aren't as effective for advanced mathematics because concepts are interrelated.
 - Instead, focus on solving problems where facts are applied in context.
 
-### Method 1: Custom Study (Manual Control)
+#### Method 1: Custom Study (Manual Control)
 
 1. **Create a deck** that contains all your questions.
 2. **Use tags** to categorize questions (e.g., `Preliminaries`, `Algebra`, etc.).
@@ -198,7 +197,7 @@ Practice is the part for solving an equation. Practice is the use of the proof t
     - Choose the number of questions from each tag (e.g., 5 from `Preliminaries`, 10 from `Algebra`).
     - This needs to be done manually each day.
 
-### Method 2: Using a Filtered Deck (Automated)
+#### Method 2: Using a Filtered Deck (Automated)
 
 1. Create multiple **filtered decks** with a specific number of questions per tag.
 2. Example query for a filtered deck:
@@ -206,7 +205,7 @@ Practice is the part for solving an equation. Practice is the use of the proof t
     This will create a deck with 5 questions from the `Preliminaries` tag.
 3. Do the same for each category and merge them into your daily study.
 
-### Method 3: Using Anki Add-ons for More Control
+#### Method 3: Using Anki Add-ons for More Control
 
 1. **"Filtered Decks with Tag and Limit"** (Custom add-ons allow setting specific numbers per tag).
 2. **"Advanced Review Scheduler"** (Some add-ons let you control how many questions appear from each tag).
