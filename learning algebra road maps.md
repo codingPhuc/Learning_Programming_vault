@@ -2,6 +2,11 @@
 
 
 # what you need in order to learn 
+ Motivation and New Knowledge
+
+- **Paul's motivation:**
+    - Finding new connections, pure curiosity, and academic research.
+- 50% of new cards are **connections derived from old knowledge**, allowing the system to generate new insights.
 
 there are two area  in mathematic  
 main idea base on a recursive  list out the main idea of a  theorem this practice is too proof an equation and see if the equation make sense  , and if other equation can be used to proof another equation or theorem 
@@ -103,6 +108,90 @@ is the part for solving an equation  practice is the used of the proof to solve 
 
 
 ## repetition in learning 
+
+
+
+
+
+
+
+
+
+---
+
+
+
+---
+
+## Abstraction
+
+- **Goal:** Maximize applicability of knowledge by climbing the ladder of abstraction.
+- Proofs should be incrementally reformulated over time to reflect increasing understanding.
+
+---
+
+
+
+---
+
+## Rewriting and Symbol Creation
+
+- **Rewrite proofs in your own terms** to build an interconnected network of knowledge.
+- Connections simplify knowledge over time.
+- **Create custom math symbols** for different branches to avoid overlap and interference.
+
+---
+
+## Refactoring Patterns
+
+- **Beginner errors:** Cards that are too long.
+- **Improved approach:**
+    - Keep cards short and semantic.
+    - Add new abstractions, connections, and conceptions through reformulation.
+ Applying Spaced Repetition to Mathematics
+
+**Talk Summary by Paul Robert Shaw**  
+**Date:** February 20, 2021  
+**Event:** supermemory.wiki Discord
+
+ Introduction
+
+- The video summarizes Paul Robert Shaw's talk, as the original was not recorded.
+- Purpose: Share Paul's insights and encourage him to create his own article or video on the subject.
+- **About Paul:**
+    - French quantum physicist.
+    - 6 years of experience using spaced repetition systems (SRS), specifically **Memozyne**.
+    - Dedicates 2–3 hours daily to reviewing, reformulating cards, and making connections.
+    - Consistently uses SRS without breaks due to his passion for the process.
+    - Has theorems and proofs at his fingertips as a result of this method.
+
+---
+
+ Core Principles
+
+- **The 20 Rules of Knowledge Formulation** (by Piotr Wozniak):
+    - These rules **do apply to math**, contrary to common belief.
+    - Paul initially made formulation errors but improved over time.
+    - Key takeaway: Math knowledge **can be retained** effectively with SRS.
+
+---
+
+ Atomicity
+
+- **Definition:** Cards should represent single, simple concepts and avoid unnecessary information.
+- Paul’s approach:
+    - Proofs are short (6–8 lines max).
+    - **Closed cards:** Only one line of a proof is closed to maintain simplicity and focus.
+    - Time spent per card is comparable to vocabulary cards in language learning.
+
+---
+
+Recursive Decomposition of Proofs
+
+- Based on **Leslie Lamport's "How to Write a Proof"**:
+    - Break down long proofs into **sub-proofs** and **sub-proofs of sub-proofs**.
+    - Reduces unnecessary information and improves comprehension.
+    - Enables reuse of sub-proofs, creating a **network of interconnected knowledge**.
 - **Active Recall & Spaced Repetition:** Apps like Anki can help with retaining definitions and key theorems.
 3. **Drills as a Warm-Up:**
     
@@ -231,7 +320,7 @@ The responses here reflect a variety of personal experiences when learning algeb
 # key resources  
 
 
-## Software Recommendations
+ Software Recommendations
 
 - While Paul uses **SuperMemo** for other knowledge types, he recommends:
     - **Anki** or **Memozyne** for math, due to their **LaTeX support**.
@@ -282,191 +371,3 @@ The responses here reflect a variety of personal experiences when learning algeb
 
 
 
-
-
-
-
-
-
-
-### Key Takeaways:
-
-.
-
-
-
-
----
-
-### Additional Suggestions:
-
-
-What resonates most with your learning style?
-
-
-## hitting the wall in math 
-
-Here’s a summary of the key advice and tips from the comments:
-
-
-
-
-
-
-
-
-
-
-
----
-
-# Applying Spaced Repetition to Mathematics
-
-**Talk Summary by Paul Robert Shaw**  
-**Date:** February 20, 2021  
-**Event:** supermemory.wiki Discord
-
-## Introduction
-
-- The video summarizes Paul Robert Shaw's talk, as the original was not recorded.
-- Purpose: Share Paul's insights and encourage him to create his own article or video on the subject.
-- **About Paul:**
-    - French quantum physicist.
-    - 6 years of experience using spaced repetition systems (SRS), specifically **Memozyne**.
-    - Dedicates 2–3 hours daily to reviewing, reformulating cards, and making connections.
-    - Consistently uses SRS without breaks due to his passion for the process.
-    - Has theorems and proofs at his fingertips as a result of this method.
-
----
-
-## Core Principles
-
-- **The 20 Rules of Knowledge Formulation** (by Piotr Wozniak):
-    - These rules **do apply to math**, contrary to common belief.
-    - Paul initially made formulation errors but improved over time.
-    - Key takeaway: Math knowledge **can be retained** effectively with SRS.
-
----
-
-## Atomicity
-
-- **Definition:** Cards should represent single, simple concepts and avoid unnecessary information.
-- Paul’s approach:
-    - Proofs are short (6–8 lines max).
-    - **Closed cards:** Only one line of a proof is closed to maintain simplicity and focus.
-    - Time spent per card is comparable to vocabulary cards in language learning.
-
----
-
-## Recursive Decomposition of Proofs
-
-- Based on **Leslie Lamport's "How to Write a Proof"**:
-    - Break down long proofs into **sub-proofs** and **sub-proofs of sub-proofs**.
-    - Reduces unnecessary information and improves comprehension.
-    - Enables reuse of sub-proofs, creating a **network of interconnected knowledge**.
-
----
-
-## Abstraction
-
-- **Goal:** Maximize applicability of knowledge by climbing the ladder of abstraction.
-- Proofs should be incrementally reformulated over time to reflect increasing understanding.
-
----
-
-
-
----
-
-## Rewriting and Symbol Creation
-
-- **Rewrite proofs in your own terms** to build an interconnected network of knowledge.
-- Connections simplify knowledge over time.
-- **Create custom math symbols** for different branches to avoid overlap and interference.
-
----
-
-## Refactoring Patterns
-
-- **Beginner errors:** Cards that are too long.
-- **Improved approach:**
-    - Keep cards short and semantic.
-    - Add new abstractions, connections, and conceptions through reformulation.
-
----
-
-## Motivation and New Knowledge
-
-- **Paul's motivation:**
-    - Finding new connections, pure curiosity, and academic research.
-- 50% of new cards are **connections derived from old knowledge**, allowing the system to generate new insights.
-
----
-
-## Advice for Beginners
-
-1. Study the **20 Rules of Item Formulation** by Piotr Wozniak.
-2. Read about **Lamport's recursive proof strategy**.
-3. Start with a branch of math that excites you and follow your curiosity.
-4. Fill gaps in your knowledge as you go.
-5. Use **Wikipedia** for its HTML links, which are often more flexible than books.
-
----
-
-This structure should work seamlessly in Obsidian, with headers and bullet points ensuring clarity and organization. Let me know if you’d like further tweaks! 
-
-
-## http://youtube.com/watch?v=YnTf0xGKWOU
-
-
-**Persistence in Mathematics** is a key concept that highlights the importance of perseverance, continuous effort, and a problem-solving mindset in learning and mastering mathematics. Here's a summary of the key points on this topic:
-
-1. **Overcoming Challenges:** Mathematics often involves complex problems that require sustained effort. Persistence enables students to push through difficult concepts, ensuring they don't give up when faced with challenging problems or concepts.
-    
-2. **Mastery Over Time:** Gaining proficiency in mathematics isn't instant—it takes time and repeated exposure. Persistent practice and repeated attempts lead to gradual mastery, with improvement becoming visible over time.
-    
-3. **Problem-Solving Skills:** Persistent effort helps in honing problem-solving abilities. It encourages breaking down complex problems into smaller, manageable parts, exploring different approaches, and trying multiple strategies until finding the correct solution.
-    
-4. **Growth Mindset:** Persistence in mathematics is closely tied to adopting a growth mindset. Students who believe their skills can improve with effort are more likely to persist, view setbacks as learning opportunities, and continue to improve their mathematical ability.
-    
-5. **Long-Term Success:** Mathematics is cumulative. Understanding foundational concepts is crucial for tackling more advanced topics. Persistence ensures that earlier challenges are overcome, which strengthens the foundation for future learning.
-    
-
-In summary, persistence in mathematics is about maintaining effort, staying resilient in the face of difficulties, and continuing to engage with material over time. This mindset is essential for success in mathematics, where mastery is achieved through consistent effort, practice, and an openness to learning from mistakes.
-
-
-
-In the topic of **Examples in Mathematics**, the conversation emphasizes the crucial role examples play in building mathematical understanding. Here’s a summary of the key points:
-
-1. **Conceptual Clarity:** Examples are important for deepening comprehension of abstract concepts. For instance, instead of just memorizing definitions or theorems, students should focus on understanding how they apply in different situations.
-    
-2. **Building Intuition:** By working through numerous examples, students develop a stronger mathematical intuition. This helps in recognizing patterns and generalizing principles, such as identifying subspaces or understanding the behavior of functions.
-    
-3. **Understanding Through Application:** Rather than solely learning theory, engaging with examples allows students to apply what they’ve learned, which helps solidify the material in a practical context.
-    
-4. **Pattern Recognition:** Examples guide students in spotting trends, exceptions, and special cases, aiding them in recognizing when certain conditions apply and when they don’t, enhancing their ability to approach complex problems.
-    
-
-Overall, the conversation underscores that examples are not just tools for practice but essential for truly grasping and applying mathematical concepts.
-
-
-
-## repetition in math   
-
-
-To replicate this structure in Anki, you can create different types of cards tailored for proofs and practice:
-
-### **Proofs (Conceptual Understanding)**
-
-
----
-
-### **Practice (Equation Solving)**
-
-
-### limit the amount of tag for a day 
-
-Anki doesn’t natively support limiting the number of questions from each tag within a deck, but you can achieve this in a few ways:
-
-
-Would you like step-by-step guidance on setting up filtered decks?
