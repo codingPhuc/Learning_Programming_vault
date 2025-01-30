@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning block.md",
+                "file": "learning algebra road maps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "learning block"
+              "title": "learning algebra road maps"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Learning With Chat gpt"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,13 +191,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8bcbb139a3611f65",
+  "active": "2a715b3370cb48cf",
   "lastOpenFiles": [
+    "learning block.md",
+    "Learning/Learning With Chat gpt.md",
     "Learning/How I Ranked 1st at Cambridge University - 20 Study Tips.md",
     "Learning/why you are always distracted.md",
     "Learning/scoring for  principle.md",
     "learning algebra road maps.md",
-    "learning block.md",
     "picture folder/C++ Primer, Fifth Edition (Stanley B. Lippman  Josée Lajoie  Barbara Moo) (Z-Library).pdf",
     "Learning/book learning/How to read technical books.md",
     "Programming Principles and Practice Using C++, Third Edition (Bjarne Stroustrup) (Z-Library) (1).pdf",
@@ -206,7 +206,6 @@
     "Learning/Self Testing.md",
     "Learning/Learning technique.md",
     "Learning/book learning/How to read a book and Actually learn from it.md",
-    "Learning/Learning With Chat gpt.md",
     "Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1) 2.pdf",
     "Anki.md",
     "programming language/C++.md",
