@@ -7,7 +7,7 @@ how will you restart if you were to learn again
 watch the lecture on fast speed 
 repeat concept of time focus on a subject 
 read the chapter in the books skim the relative  section in the book   focus on the right thing in the right time 
-
+sdfsdfd
 
 
 # big picture thinker  
