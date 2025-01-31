@@ -115,4 +115,4 @@ Network operators no longer rely on one-purpose machines. Instead, they use soft
 https://www.reddit.com/r/docker/comments/15p9hlb/where_exactly_is_the_image_file_located_after_you/
 
 
-adsfsdfsdfsd
+adsfsdfsdfsdsdfsdfsdafsdafd
