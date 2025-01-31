@@ -1,6 +1,6 @@
 [
-  "obsidian-git",
   "obsidian-excalidraw-plugin",
   "obsidian-meta-bind-plugin",
-  "obsidian-heading-shifter"
+  "obsidian-heading-shifter",
+  "obsidian-git"
 ]
