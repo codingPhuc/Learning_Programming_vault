@@ -8,7 +8,7 @@ watch the lecture on fast speed
 repeat concept of time focus on a subject 
 read the chapter in the books skim the relative  section in the book   focus on the right thing in the right time 
 
-
+asdfsda
 
 # big picture thinker  
 1. focus on the trial and error  : reflect  on your failure each day of the weeks so that you can better learn from them 
