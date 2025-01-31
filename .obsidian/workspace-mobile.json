@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gift for American.md",
+                "file": "big picture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gift for American"
+              "title": "big picture"
             }
           }
         ]
@@ -152,8 +152,10 @@
   },
   "active": "104c15b7e0e09167",
   "lastOpenFiles": [
-    "Tasks to do.md",
     "gift for American.md",
+    "/big picture.md",
+    "/Docker.md",
+    "Tasks to do.md",
     "/gift for American.md",
     "/Tasks to do.md",
     "Driving.md",
