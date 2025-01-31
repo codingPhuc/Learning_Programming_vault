@@ -8,10 +8,10 @@ watch the lecture on fast speed
 repeat concept of time focus on a subject 
 read the chapter in the books skim the relative  section in the book   focus on the right thing in the right time 
 
-asdfsdaasdfdsfdsasdfsdfd
+
 
 # big picture thinker  
-1. focus on the trial and error  : reflect  on your failure each day of the weeks so that you can better learn from them 
+1. focus on the trial and error  : reflect  on your failure each day of the weeks so that you can better learn from them git 
 2. make a task like : with SMART  meaning  
 - **Specific**: Your goal should be clear and specific enough for you to devise a plan to achieve it.
 - **Measurable**: Your goal should be measurable, meaning that it should have specific numbers or results associated with it. These metrics help you demonstrate tangible progress on your way to achieving your goal.

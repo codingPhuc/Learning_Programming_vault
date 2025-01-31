@@ -76,20 +76,6 @@
               "icon": "lucide-file",
               "title": "Self Testing"
             }
-          },
-          {
-            "id": "8bcbb139a3611f65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Learning With Chat gpt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Learning With Chat gpt"
-            }
           }
         ]
       }
