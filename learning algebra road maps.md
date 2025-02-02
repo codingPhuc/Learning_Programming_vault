@@ -322,8 +322,17 @@ Repetition practice: I should give equations to solve.
 - **Generative AI (if approached critically):** While it may produce errors, using AI tools to brainstorm or break down concepts can spark insight when used alongside verified resources.
 
 
-
-
+# plan  
+first read thought the courses  on  paul note 
+do the exercise in each section  
+completed the section exercise 
+then  for remembering you  should 
+- create a list of term and formula  
+- proof the formula 
+- do the practice section 
+	- you need to classify the practice like what does the section does the practice used 
+	- know which practice belong to which section 
+- create a 40  question each day and solve them 
 
 
 

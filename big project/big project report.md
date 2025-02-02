@@ -184,3 +184,18 @@ JWT in ASP.NET core
 ![[Pasted image 20250119185329.png]]![[Pasted image 20250119185345.png]]
 
 ![[Pasted image 20250119185358.png]]
+# WebSocket 
+## first sources 
+- used in the same way as https
+- bidirectional  , full duplex protocol 
+- unlike https which is stateless protocol , Websocket is  a stateful protocol which mean that the connection will stay alive until the termination of either party  
+- the session information  is store in the server 
+1. the client  will send a request to the server 
+2. the server will establish a HandShake  confirming and verifying the creation of a connection 
+3. this connection will then be known as a WebSocket , which allow bidirectional m full 
+4. the WebSocket will be a dedicated  channel for this session message request until the client or server close it or either of them die  
+5. status code  101 is used to indicate the protocol switch to WebSocket 
+when to used WebSocket  when we want to fetch large continuous stream of data over a networks 
+
+
+
