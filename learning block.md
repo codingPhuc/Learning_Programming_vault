@@ -37,7 +37,7 @@ this is a very complicated  book so it need a good understanding of C++ in order
 C++ Primer : By: Stanley B. Lippman, Josée Lajoie, Barbara E. Moo this is a beginner book so I should also read this after i finish 
 [[C++ Primer, Fifth Edition (Stanley B. Lippman  Josée Lajoie  Barbara Moo) (Z-Library).pdf]]
 ### How I am going to learn it 
-I am going to learn it bases on my [[learning algebra road maps]] detailing thing like amount of time needed to learn, technique to learn the subject and how should I schedule my learning  
+I am going to learn it bases on my [[learning Math  Strategy]] detailing thing like amount of time needed to learn, technique to learn the subject and how should I schedule my learning  
 
 
 using the  10  percentage rule to know the amount of time 
@@ -91,5 +91,5 @@ I need to have the basic understanding of  algebra in order to learn high level 
 ### what I need to learn  
 I need to learn all the subject outline in the link these subject include major area like [Preliminaries](https://tutorial.math.lamar.edu/Problems/Alg/Preliminaries.aspx) [Solving Equations and Inequalities](https://tutorial.math.lamar.edu/Problems/Alg/Solving.aspx) and ect. Future More ,  their sub subject suck as [Solving Equations and Inequalities](https://tutorial.math.lamar.edu/Problems/Alg/Solving.aspx) , [Integer Exponents](https://tutorial.math.lamar.edu/Problems/Alg/IntegerExponents.aspx)  , these learn  block are outline in Paul Online Notes . Paul Online note is an online resource that provide exercise , note and  assignment problem so that I can improve my algebra ability 
 ### How I am going to learn it 
-I am going to learn it bases on my [[learning algebra road maps]] detailing thing like amount of time needed to learn, technique to learn the subject and how should I schedule my learning  
+I am going to learn it bases on my [[learning Math  Strategy]] detailing thing like amount of time needed to learn, technique to learn the subject and how should I schedule my learning  
 
