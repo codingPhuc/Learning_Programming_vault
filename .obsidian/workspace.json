@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks to do.md",
+                "file": "Learning/Learning With Chat gpt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tasks to do"
+              "title": "Learning With Chat gpt"
             }
           },
           {
@@ -64,6 +64,34 @@
             }
           },
           {
+            "id": "210cc1073de120a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UML drawing technique.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UML drawing technique"
+            }
+          },
+          {
+            "id": "2beb2f547eaada79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Taxes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Taxes"
+            }
+          },
+          {
             "id": "d499bd07bd4cb172",
             "type": "leaf",
             "state": {
@@ -77,8 +105,7 @@
               "title": "Self Testing"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "learning block",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,35 +249,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9edf9e6234d90ea9",
+  "active": "2a715b3370cb48cf",
   "lastOpenFiles": [
+    "Learning/4 layer of learning.md",
+    "Learning/practice learning skill/studying courses that need to be study.md",
+    "Learning/book learning/How To Get The Most Out of A Book - Analytical Reading.md",
+    "Learning/book learning/How to read technical books.md",
+    "company_sponsor_h1b/Untitled.md",
+    "big project/use cases diagram.md",
+    "big project/ERD diagram.md",
+    "big project/big project report.md",
+    "big project/big project requirement analysis.md",
+    "learning algebra road maps.md",
+    "Tasks to do.md",
+    "todo/research.md",
+    "Taxes.md",
+    "UML drawing technique.md",
+    "tech idea.md",
+    "System Architecture Overview.md",
+    "big project/target.md",
+    "Excalidraw/Drawing 2024-11-21 20.14.31.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-20 17.47.32.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-19 17.57.52.excalidraw.md",
+    "Anki.md",
+    "Embeded engineering.md",
     "learning block.md",
     "learning latex.md",
     "learning structure.md",
     "Learning/Learning technique.md",
-    "Tasks to do.md",
-    "Learning/Self Testing.md",
-    "learning algebra road maps.md",
-    "Learning/book learning/How to read technical books.md",
-    "Anki.md",
-    "Learning/Learning With Chat gpt.md",
-    "big project/big project report.md",
-    "big project/ERD diagram.md",
-    "big project/use cases diagram.md",
-    "big project/target.md",
-    "big project/big project requirement analysis.md",
-    "Udemy free sources]/how to get free account.md",
     "Udemy free sources]",
-    "Docker.md",
-    "big picture.md",
-    "Driving.md",
-    "Untitled 3.md",
-    "2024-09-17.md",
-    "Authentication and Authorization.md",
-    "todo/research.md",
-    "Learning/How I Ranked 1st at Cambridge University - 20 Study Tips.md",
-    "Learning/why you are always distracted.md",
-    "Learning/scoring for  principle.md",
     "picture folder/C++ Primer, Fifth Edition (Stanley B. Lippman  Josée Lajoie  Barbara Moo) (Z-Library).pdf",
     "Programming Principles and Practice Using C++, Third Edition (Bjarne Stroustrup) (Z-Library) (1).pdf",
     "Chemistry-Study-Guide 1.pdf",

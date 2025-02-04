@@ -11,7 +11,6 @@
 	- this result in a social media application  with  an interactive and great UX and UI with the help of prime react but also  help with a  secure  information flow between front and backend  
 	-  the convergence of React  JS and ASP.NET have resulted  in  the creation of  a social media application with a coordinated information flow and  an exceptional UI/UX experience 
 
-
 A SOCIAL NETWORK  APPLICATION FOR CONNECTIVITY  AND IMAGE SHARING 
 AN SOCIAL MEDIA APPLICAITON FOR POST SHARING EMPHASIZING CONNTECTIVITY AND BUILDING  RELATIONSHIP  WITH FRIEND  
 SOCIAL NETWORK AP
@@ -192,10 +191,42 @@ JWT in ASP.NET core
 - the session information  is store in the server 
 1. the client  will send a request to the server 
 2. the server will establish a HandShake  confirming and verifying the creation of a connection 
-3. this connection will then be known as a WebSocket , which allow bidirectional m full 
-4. the WebSocket will be a dedicated  channel for this session message request until the client or server close it or either of them die  
-5. status code  101 is used to indicate the protocol switch to WebSocket 
+3. this connection will then be known as a WebSocket , which allow bidirectional m ful
+4. status code  101 is used to indicate the protocol switch to WebSocket 
 when to used WebSocket  when we want to fetch large continuous stream of data over a networks 
+# signalR 
+Why 
+- ASP.NET library real time web  functionality to application 
+- add  real time web Functionality  
+	- real time web functionally is the ability server code to push contents to the connected client instead of client waiting 
+- the main feature being chat but also  user refresh a page to see data , or page implementing long polling 
+- application like  a chat room how to get the latest chat from the user ,  in our client we will add a call method to call data access method to our server every 3 second and update the chat 
+	this application work but it have some problem : 
+	- increase the network traffic ( the method is call continuously for each chat message send )
+	- HTTP  due to it stateless nature is reestablised for each request 
+	- delay in receiving data due to pooling time 
+what
 
+- SignalR is an abstraction over some of the transport that are required to do real time work between client and server 
 
+ - RPC is an api to invoke a function from the  server side to client side  , 
+- RPC help with the fact that if any change happend in the database it will then push the change to the servers instead of a one way communication  happening only when the client request  
+- signal support server push which is a function where server code can call out the client code in the browser using  RPC
 
+- signalR support the following technique for handling real time communication 
+	- webSocket 
+		- optimal transport because of efficient use of server memory  
+		- lowest latency 
+		- the most underlying  features 
+	- Server-Sent Event 
+	- Long Polling
+	- in our application we used the Websocket transport to create the chat room use cases
+
+- - signalR used the old webSocket transport when available 
+- signal used hub to communicate between client and server 
+	- hub is a high level pipeline that allows client and server to call method on each other .
+	- signal handle the dispatching of request between client and server allowing for correct recipient 
+	- there are two build in protocol in signal a text based protocol on JSON and a binary protocol 
+	- which  is which in this
+##  persistent  connection 
+- signal 

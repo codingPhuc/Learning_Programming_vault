@@ -191,28 +191,7 @@ Repetition practice: I should give equations to solve.
 
 - Flashcards might help in the short term but aren't as effective for advanced mathematics because concepts are interrelated.
 - Instead, focus on solving problems where facts are applied in context.
-
-#### Method 1: Custom Study (Manual Control)
-
-1. **Create a deck** that contains all your questions.
-2. **Use tags** to categorize questions (e.g., `Preliminaries`, `Algebra`, etc.).
-3. **Custom Study Session:**
-    - Click on the deck → Click **Custom Study** → Select **"Limit to particular tags"**
-    - Choose the number of questions from each tag (e.g., 5 from `Preliminaries`, 10 from `Algebra`).
-    - This needs to be done manually each day.
-
-#### Method 2: Using a Filtered Deck (Automated)
-
-1. Create multiple **filtered decks** with a specific number of questions per tag.
-2. Example query for a filtered deck:
-    `tag:Preliminaries limit:5`
-    This will create a deck with 5 questions from the `Preliminaries` tag.
-3. Do the same for each category and merge them into your daily study.
-
-#### Method 3: Using Anki Add-ons for More Control
-
-1. **"Filtered Decks with Tag and Limit"** (Custom add-ons allow setting specific numbers per tag).
-2. **"Advanced Review Scheduler"** (Some add-ons let you control how many questions appear from each tag).
+  ![[Anki#Math test flash card creation]]
 
 ## Amount of Time
 
@@ -307,11 +286,12 @@ Repetition practice: I should give equations to solve.
 - The [Academic Support Center](https://missioncollege.edu/depts/academic-support/ "Academic Support Center") offers free Math tutoring (including online Math tutoring).
 - Get involved in STEM groups on campus. For example, [MESA](https://missioncollege.edu/student_services/mesa/index.html "MESA") and, [STEM Core](https://missioncollege.edu/student_services/stem/stem-core.html "STEM Core"), and the [STEM Learning Center](https://missioncollege.edu/student_services/stem/stem-learning-center.html "STEM Learning Center"). If you have a [learning or other type of disability, take advantage of the robust services offered by Mission.](https://missioncollege.edu/depts/disability-support-programs/ "DSPS")
 - Use your instructor's office hours.
-- Purchase _Winning At Math_ by Paul Nolting in the [Mission College Bookstore](https://missioncollege.edu/student_services/bookstore/index.html "Mission College Bookstore").
+- Purchase _Winning At Math_ by Paul Nolting in the [Mission College Bookstore](https://missioncollege.edu/student_services/bookstore/index.html "Mission College Bookstore"). 
 
 ### Integrating Learning Tools
 
 - For those learning new abstractions, combining exercises, lecture notes, and small proofs can improve familiarity.
+- [learning document](https://docs.google.com/spreadsheets/d/1G5EbtQ5AU6gu16uAS5lzEZ5lDBjzVe46dR_yLGBK6Y8/edit?gid=0#gid=0)
 - Online resources like [compscilib.com](https://www.compscilib.com/) provide curated practice problems for discrete math, statistics, etc.
 
 ### Active Recall & Spaced Repetition

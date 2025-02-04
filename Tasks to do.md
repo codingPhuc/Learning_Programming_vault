@@ -15,7 +15,7 @@ this is a todo  repo where I connect all my Todo into one
 	2. used the bard AI to convert the content to task format 
 	3. then create a pdf file to upload to anki 
 	4. upload the file to Anki 
-
+- [ ] create a program for filtering job [hiring cafe](https://hiring.cafe/?searchState=%7B%22searchQuery%22%3A%22firmware%22%2C%22seniorityLevel%22%3A%5B%22No+Prior+Experience+Required%22%2C%22Entry+Level%22%5D%7D) used the api or something  
 
 # Todo Microsoft learning 
 - [ ] Learn how to used word effectively 
@@ -25,4 +25,8 @@ this is a todo  repo where I connect all my Todo into one
 # Todo  Anki  learning 
 - [ ] learn  how to automatically create card 
 - [ ] used AI to simplify the creation  of card  
-- [ ] create an automatic work flow 
+- [ ] create an automatic work flow  
+- [ ] figure out why when clicking alt T the tag bar does not  show up 
+- [ ] [watch this video on optimize task](https://www.youtube.com/watch?v=NHpl-j9pULU) 
+- [ ] figure out how to used the sidebar filter in Anki 
+
