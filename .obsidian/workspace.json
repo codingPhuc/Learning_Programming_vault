@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning Math  Strategy.md",
+                "file": "Tasks to do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "learning Math  Strategy"
+              "title": "Tasks to do"
             }
           },
           {
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "task to do ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -224,9 +224,10 @@
   },
   "active": "6dc1f607e017d2b3",
   "lastOpenFiles": [
+    "Vagrant -  Hashicrop.md",
+    "learning Math  Strategy.md",
     "todo/research.md",
     "Ish.md",
-    "learning Math  Strategy.md",
     "UML drawing technique.md",
     "git learning valut/GIT.md",
     "git learning valut/git command.md",
@@ -249,7 +250,6 @@
     "big project/target.md",
     "Excalidraw/Drawing 2024-11-21 20.14.31.excalidraw.md",
     "Excalidraw/Drawing 2024-11-20 17.47.32.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-19 17.57.52.excalidraw.md",
     "Udemy free sources]",
     "picture folder/C++ Primer, Fifth Edition (Stanley B. Lippman  Josée Lajoie  Barbara Moo) (Z-Library).pdf",
     "Programming Principles and Practice Using C++, Third Edition (Bjarne Stroustrup) (Z-Library) (1).pdf",
