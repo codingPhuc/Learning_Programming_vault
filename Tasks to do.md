@@ -30,4 +30,5 @@ this is a todo  repo where I connect all my Todo into one
 - [ ] [watch this video on optimize task](https://www.youtube.com/watch?v=NHpl-j9pULU) 
 - [ ] figure out how to used the sidebar filter in Anki 
 
-# Todo for 4 of februa
+# Todo for 4 of February   
+- [ ] lgive  
