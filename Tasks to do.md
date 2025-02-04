@@ -31,4 +31,5 @@ this is a todo  repo where I connect all my Todo into one
 - [ ] figure out how to used the sidebar filter in Anki 
 
 # Todo for 4 of February   
-- [ ] lgive  
+- [ ] give 50$ to miss Nga 
+- [ ] the ticket pa
