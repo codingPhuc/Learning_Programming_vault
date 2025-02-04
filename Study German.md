@@ -1,5 +1,5 @@
 
-
+Bbsbsh
 1. The first thing I would do is learn the rules for pronouncing German words based on their written forms and learn how to pronounce any phonemes and allophones that don't occur in any languages you already speak. I find it much easier to remember vocabulary when you can put sound to the spelling and vice versa. This also allows you to practice various sentence structures out loud and start developing a sense of how German sentences sound. Luckily, [German orthography](https://en.wikipedia.org/wiki/German_orthography) is pretty phonemic: The pronunciation can pretty much always be determined from the spelling, although the converse is not always true.
     
 2. The next thing I would do is learn the basic parts of speech that exist in German and what grammatical categories they inflect for. You don't need to learn all of the inflections now - that will be an ongoing process for most of your German-learning career - but knowing that nouns have one of three grammatical genders, that verbs conjugate for person, etc. is important.
