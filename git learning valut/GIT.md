@@ -133,4 +133,4 @@ Detail between the remote branch and origin branch :
 ### most common step when working on git and github 
 these are the most common step that people used to work with git or github 
 - [[git command]] 
-
+mount -t ios website /mnt
