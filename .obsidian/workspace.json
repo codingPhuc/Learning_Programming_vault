@@ -137,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tasks todo",
+                "query": "ish",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -250,7 +250,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a715b3370cb48cf",
+  "active": "6f3dc8e193c9e75e",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Tasks to do.md",
