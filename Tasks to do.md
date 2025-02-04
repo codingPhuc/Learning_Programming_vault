@@ -26,3 +26,4 @@ this is a todo  repo where I connect all my Todo into one
 - [ ] learn  how to automatically create card 
 - [ ] used AI to simplify the creation  of card  
 - [ ] create an automatic work flow 
+
