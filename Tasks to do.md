@@ -33,7 +33,7 @@ this is a todo  repo where I connect all my Todo into one
 # Todo for 4 of February   
 - [ ] give 50$ to miss Nga 
 - [x] warp the tickets with your passport , so that your father won't forget it 
-- [ ] get some bread for your father to eat at the passport 
+- [x] get some bread for your father to eat at the passport 
 - [x] give your father 10 bucks for the trips 
 - [ ] say goodbye and how fortunate you are to have a great father 
 - [ ] sdfsdfvvhhdhhss
