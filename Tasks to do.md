@@ -32,4 +32,4 @@ this is a todo  repo where I connect all my Todo into one
 
 # Todo for 4 of February   
 - [ ] give 50$ to miss Nga 
-- [ ] the ticket pa
+- [ ] the ticket package
