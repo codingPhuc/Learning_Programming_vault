@@ -38,4 +38,10 @@ this is a todo  repo where I connect all my Todo into one
 - [ ] say goodbye and how fortunate you are to have a great father 
 - [ ] Tell hẻ about the 100$ she owe 
 
+
+
+
+My tho noodle soops  15.5$
+
+
 527$
