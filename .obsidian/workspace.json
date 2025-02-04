@@ -137,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tasks todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +158,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -249,8 +250,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a715b3370cb48cf",
+  "active": "6f3dc8e193c9e75e",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Learning/Learning With Chat gpt.md",
+    "Thing to re.md",
     "Learning/4 layer of learning.md",
     "Learning/practice learning skill/studying courses that need to be study.md",
     "Learning/book learning/How To Get The Most Out of A Book - Analytical Reading.md",
@@ -274,9 +278,6 @@
     "Anki.md",
     "Embeded engineering.md",
     "learning block.md",
-    "learning latex.md",
-    "learning structure.md",
-    "Learning/Learning technique.md",
     "Udemy free sources]",
     "picture folder/C++ Primer, Fifth Edition (Stanley B. Lippman  Josée Lajoie  Barbara Moo) (Z-Library).pdf",
     "Programming Principles and Practice Using C++, Third Edition (Bjarne Stroustrup) (Z-Library) (1).pdf",
