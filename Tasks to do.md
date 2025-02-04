@@ -37,3 +37,5 @@ this is a todo  repo where I connect all my Todo into one
 - [x] give your father 10 bucks for the trips 
 - [ ] say goodbye and how fortunate you are to have a great father 
 - [ ] sdfsdfvvhhdhhss
+
+527$
