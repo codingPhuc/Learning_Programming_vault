@@ -30,10 +30,12 @@ this is a todo  repo where I connect all my Todo into one
 - [ ] [watch this video on optimize task](https://www.youtube.com/watch?v=NHpl-j9pULU) 
 - [ ] figure out how to used the sidebar filter in Anki 
 
-# Todo for 4 of February   
+# Todo for 4 of February    P
 - [ ] give 50$ to miss Nga 
-- [ ] warp the tickets with your passport , so that your father won't forget it 
-- [ ] get some bread for your father to eat at the passport 
-- [ ] give your father 10 bucks for the trips 
+- [x] warp the tickets with your passport , so that your father won't forget it 
+- [x] get some bread for your father to eat at the passport 
+- [x] give your father 10 bucks for the trips 
 - [ ] say goodbye and how fortunate you are to have a great father 
-- [ ] sdfsdfvvhhdhhss
+- [ ] Tell hẻ about the 100$ she owe 
+
+527$
