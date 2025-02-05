@@ -118,7 +118,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Task to do",
+            "query": "Todo",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": true,
@@ -167,7 +167,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Driving.md",
+            "file": "Tasks to do.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -223,12 +223,12 @@
   },
   "active": "9a252d261da714ee",
   "lastOpenFiles": [
+    "Ish.md",
+    "Tasks to do.md",
     "conflict-files-obsidian-git.md",
     "learning Math  Strategy.md",
-    "Tasks to do.md",
     "Study German.md",
     "Untitled",
-    "Ish.md",
     "/git learning valut/GIT.md",
     "/git learning valut",
     "/Ish.md",

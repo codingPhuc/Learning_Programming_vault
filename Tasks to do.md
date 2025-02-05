@@ -6,7 +6,7 @@ this is a todo  repo where I connect all my Todo into one
 ![[Driving#Practice Testasds]]
 
 
-asdfsdfsd 
+
 # Todo for giving gift 
 ![[gift for American]]
 # Todo automation 
