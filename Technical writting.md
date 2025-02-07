@@ -34,7 +34,7 @@ https://www.udemy.com/course/technical-writing-and-editing/
 - _ISO Certification Recommendations_ (19 Nov 2024)
 - _Anybody here have their PMP? Looking for advice as I’m set to take my exam in a few weeks_ (12 Nov 2024)
 - _Expanding my skill set - where to start?_ (28 Oct 2024)
-
+https://www.stc.org/certification/
 ### **Starting Out in Technical Writing**
 
 - _Any advice on where to start?_ (18 Nov 2024)
