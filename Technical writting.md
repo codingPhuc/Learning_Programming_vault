@@ -6,6 +6,7 @@ https://www.reddit.com/r/technicalwriting/comments/qh5i82/career_faqs_read_this_
 - _What should I read?_ (19 Nov 2024)
 - _Searching for authentic examples of poor or weak tech communication - memos, emails, reports, etc._ (06 Sep 2024)
 https://www.writethedocs.org/
+https://wac.colostate.edu/docs/books/textual_dynamics/chapter12.pdf 
 ### **Courses & Certifications**
 
 - _Courses and Social Anxiety for TW_ (07 Dec 2024)
