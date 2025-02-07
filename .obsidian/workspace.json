@@ -159,8 +159,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -251,7 +250,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0350bbc750a7694",
+  "active": "ec2bbee667482424",
   "lastOpenFiles": [
     "Tasks to do.md",
     "Technical writting.md",
