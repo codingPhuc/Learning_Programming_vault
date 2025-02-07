@@ -159,7 +159,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -252,12 +253,12 @@
   },
   "active": "c0350bbc750a7694",
   "lastOpenFiles": [
-    "Learning/Learning With Chat gpt.md",
+    "Tasks to do.md",
     "Technical writting.md",
+    "Learning/Learning With Chat gpt.md",
     "todo/research.md",
     "DataBase.md",
     "Learn about Web scraping.md",
-    "Tasks to do.md",
     "thing to do.md",
     "unit of work.md",
     "Vagrant -  Hashicrop.md",

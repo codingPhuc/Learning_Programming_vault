@@ -1,6 +1,6 @@
 
 Here’s the categorized list based on learning resources:
-
+https://www.reddit.com/r/technicalwriting/comments/qh5i82/career_faqs_read_this_before_asking_about/
 ### **Books & Reading Materials**
 
 - _What should I read?_ (19 Nov 2024)
