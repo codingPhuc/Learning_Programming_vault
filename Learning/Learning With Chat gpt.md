@@ -209,8 +209,48 @@ hello every one I want to attend ECC for the specific reason of transferring to 
 1. I need ECHT 130 from the electrical hardware program
     
 2. I need ENGR 11 and 12 even thought it does not belong to a specific program
-    
+     
 3. why is it that ENGR 11 and 12 does not belong to a specific program does anyone know the reason
+
+
+
+
+##  AI for study plan 
+I want to study **[skill or subject]** and complete it in **[3 weeks / 1 month / 2 months]**. I will dedicate **[3 hours / 6 hours]** per day to studying, using a structured schedule with no rest days, but designated review days. My study sessions should be broken into **shorter sessions with breaks** rather than continuous blocks.
+
+#### **Study Methods:**
+
+I will use the following study techniques:
+
+- [Example: Mind maps, note-taking, summarization, spaced repetition, etc.]
+- [Example: Watching lectures, solving exercises, active recall, discussions, etc.]
+
+#### **Types of Tests & Self-Assessment:**
+
+Include the following forms of testing in my study plan:
+
+- [Example: Practice tests, flashcards, quizzes, written explanations, etc.]
+- [Example: Teaching the material, real-world application exercises, etc.]
+
+#### **Study Plan Requirements:**
+
+The study timeline should:
+
+- Assign specific topics or tasks to each day.
+- Include a mix of study methods from my list.
+- Integrate **testing and self-assessment checkpoints**.
+- Have **review days** at appropriate intervals.
+- Adjust study intensity based on **topic difficulty**.
+- Ensure I complete the subject within my set timeframe.
+
+If relevant, take into account whether I am **starting from scratch or have prior knowledge** in the subject. Feel free to suggest any **additional resources or optimizations** to improve my learning.
+
+
+
+
+
+
+
 
 
 
@@ -231,19 +271,19 @@ Digital Logic Laboratory:
 
 
 ```
-1. bio: null x
-2. createdAt: "2025-01-11T11:25:37.4166667"
-3. email: "discorduser2411@gmail.com" x
-4. gender: null x
-5. id: "164d2274-f2f8-4232-c45a-08dd3232ac15"
-6. imageUrl: "default.jpg"
-7. isDeleted: false
-8. name: "px4" x
-9. phone: null x
-10. userName: "px4" x
-11. userProfile: "px4" x
-12. userRoles: []
-13. [[Prototype]]: Object
+4. bio: null x
+5. createdAt: "2025-01-11T11:25:37.4166667"
+6. email: "discorduser2411@gmail.com" x
+7. gender: null x
+8. id: "164d2274-f2f8-4232-c45a-08dd3232ac15"
+9. imageUrl: "default.jpg"
+10. isDeleted: false
+11. name: "px4" x
+12. phone: null x
+13. userName: "px4" x
+14. userProfile: "px4" x
+15. userRoles: []
+16. [[Prototype]]: Object
 ```
 
 
@@ -269,4 +309,5 @@ Digital Logic Laboratory:
   "phone": "0123456789"
 
 }
-```
+``` 
+
