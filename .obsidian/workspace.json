@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo/research.md",
+                "file": "Learning/Learning With Chat gpt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "research"
+              "title": "Learning With Chat gpt"
             }
           },
           {
@@ -145,7 +145,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -236,8 +237,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23c356d311a4ac7d",
+  "active": "6f3dc8e193c9e75e",
   "lastOpenFiles": [
+    "todo/research.md",
     "DataBase.md",
     "Learn about Web scraping.md",
     "Tasks to do.md",
@@ -245,7 +247,6 @@
     "unit of work.md",
     "Vagrant -  Hashicrop.md",
     "learning Math  Strategy.md",
-    "todo/research.md",
     "Ish.md",
     "UML drawing technique.md",
     "git learning valut/GIT.md",
