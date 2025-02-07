@@ -18,6 +18,12 @@ https://wac.colostate.edu/docs/books/textual_dynamics/chapter12.pdf
 - _Tech writing certificate_ (04 Sep 2024)
 - _Looking for feedback on this course_ (02 Sep 2024)
 
+
+## non pay 
+https://www.coursera.org/learn/sciwrite  
+https://developers.google.com/tech-writing 
+# pay  
+https://www.udemy.com/course/technical-writing-and-editing/
 ### **Software & Tools**
 
 - _Professional Writing Technologies - What software do tech writers need to know?_ (16 Dec 2024)
