@@ -284,104 +284,104 @@ Here is a structured version of your **social media application** specification,
 
 ---
 
-## **2. User Features**
+## 2. User Features
 
-### **Account Management**
+### Account Management
 
 Personal profile:
-    **User information** (name, bio, profile picture, etc.).
-    **Friends list**.
-    **Follow/Unfollow system**.
-    **Suggested friends**.
+User information (name, bio, profile picture, etc.).
+Friends list.
+Follow/Unfollow system.
+Suggested friends.
 Account settings:
-    **Privacy settings** (Public/Private profile).
-    **Active status visibility**.
-    **Blocked users list**.
+Privacy settings (Public/Private profile).
+Active status visibility.
+Blocked users list.
 Activity history:
-    **Saved posts**.
-    **Comment and like history**.
-    **Blocked accounts**.
+Saved posts.
+Comment and like history.
+Blocked accounts.
 Account recovery:
-    **Password reset via email**.
+Password reset via email.
 
-### **Posts & Interactions**
+### Posts & Interactions
 
 Post creation:
-    **Upload photos/videos**.
-    **Add captions**.
-    **Tag friends**.
+Upload photos/videos.
+Add captions.
+Tag friends.
 Post engagement:
-    **Like, comment, and share posts**.
-    **View engagement details (likes, comments, shares, timestamps)**.
+Like, comment, and share posts.
+View engagement details (likes, comments, shares, timestamps).
 Post management:
-    **Edit captions, tags, and media**.
-    **Delete or archive posts**.
-    **Disable comments**.
-    **Set privacy settings for posts**.
-    **Report inappropriate content**.
+Edit captions, tags, and media.
+Delete or archive posts.
+Disable comments.
+Set privacy settings for posts.
+Report inappropriate content.
 
-### **Search Functionality**
+### Search Functionality
 
 Search for:
-    **Users by name or profile**.
-    **Posts by hashtags**.
+Users by name or profile.
+Posts by hashtags.
 
-### **Friend & Follow System**
+### Friend & Follow System
 
-**Friend requests**.
-**Follow/unfollow users**.
-**Block/unblock users**.
+Friend requests.
+Follow/unfollow users.
+Block/unblock users.
 
-### **Messaging & Chat System**
+### Messaging & Chat System
 
-**Private messaging**.
-**Group chat creation**.
-**Voice & video calls**.
-**Send media and files**.
+Private messaging.
+Group chat creation.
+Voice & video calls.
+Send media and files.
 Chat settings:
-    **Notifications**.
-    **Manage sent files, media, and posts**.
-    **Block users in chat**.
-    **Change chat themes**.
+Notifications.
+Manage sent files, media, and posts.
+Block users in chat.
+Change chat themes.
 
 ---
 
-## **3. Admin & Moderator Features**
+## 3. Admin & Moderator Features
 
-### **Admin System**
+### Admin System
 
-**Full control over the platform**.
+Full control over the platform.
 Manage:
-    **User accounts (edit, ban, delete)**.
-    **Posts (hide, delete)**.
-    **Group chats**.
-    **Sub-admin roles**.
-Assign and manage **moderators**.
+User accounts (edit, ban, delete).
+Posts (hide, delete).
+Group chats.
+Sub-admin roles.
+Assign and manage moderators.
 
-### **Moderator System**
+### Moderator System
 
-**Limited administrative privileges**.
+Limited administrative privileges.
 Manage:
-    **User accounts**.
-    **Posts**.
-    **Group chats**.
-Receive and review **user reports**.
-Keep a **log of moderation actions**.
-View **statistics and analytics**.
+User accounts.
+Posts.
+Group chats.
+Receive and review user reports.
+Keep a log of moderation actions.
+View statistics and analytics.
 
-### **Reports & Moderation**
+### Reports & Moderation
 
-**Receive user reports**.
-**Review and resolve complaints**.
-**Take actions** (e.g., warn, ban, restrict users).
-**Notify users of report outcomes**.
+Receive user reports.
+Review and resolve complaints.
+Take actions (e.g., warn, ban, restrict users).
+Notify users of report outcomes.
 
-### **Analytics & Insights**
+### Analytics & Insights
 
 Track and analyze:
-    **User growth and account creation**.
-    **Post engagement and trends**.
-    **Filter statistics by time or hashtag**.
+User growth and account creation.
+Post engagement and trends.
+Filter statistics by time or hashtag.
 
 ---
 
