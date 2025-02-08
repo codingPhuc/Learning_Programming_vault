@@ -232,3 +232,40 @@ what
 
 
 #  Specification  requirement 
+This user structures their **Specification Requirement** in a clear and organized manner, breaking it down into logical sections as follows:
+
+### **1. Overview**
+
+- Provides a general description of the attendance system.
+- Specifies the three primary user groups: **Administrators, Lecturers, and Students**.
+- Highlights the system’s purpose: **efficient, reliable, and user-friendly** attendance management.
+- Emphasizes the system’s capability to handle large classes.
+
+### **2. Actors and Their Functions**
+
+- **Administrator:**
+    - **System Management** (User management, system settings).
+    - **Class Data Creation** (Managing and generating class data).
+- **Lecturer:**
+    - **Create and Manage Attendance Forms** (Generating forms, managing attendance times).
+    - **Attendance** (Adjusting attendance status when necessary).
+    - **Attendance Reporting** (Viewing reports, exporting data).
+- **Student:**
+    - **Attendance** (Marking attendance, receiving notifications).
+    - **View Schedule and Attendance** (Checking class schedule and attendance records).
+    - **Report Attendance Issues** (Reporting attendance-related problems).
+
+### **3. Non-Functional Requirements**
+
+- **Performance:** Must handle large numbers of simultaneous submissions without lag.
+- **Security:** Ensures user information and attendance data are protected.
+- **Scalability:** Supports growing numbers of users and classes.
+- **Availability:** Operates continuously with minimal downtime, supports multiple languages.
+- **Ease of Use:** Intuitive interface for all user groups.
+
+This structure follows a logical breakdown of **functional and non-functional requirements**, making it easy to understand the system’s purpose, key actors, and necessary system characteristics.  
+
+
+
+
+
