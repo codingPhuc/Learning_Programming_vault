@@ -274,9 +274,13 @@ Here is a structured version of your **social media application** specification,
 
 ## **1. Overview**
 
-- A **social media application** built using **ASP.NET Core** and **React.js**.
-- Focuses on **image-based** social networking.
-- Inspired by **Instagram**.
+- A **customized social media platform** tailored to the Vietnamese community.
+- Enables **interconnected storytelling** through posts and **seamless communication** via chat messaging.
+- Features a **moderation system** to detect and manage bad actors, ensuring a safe environment.
+- Designed to **simplify content creation**, allowing users to easily share their personal experiences.
+- Provides **admins with powerful tools** to efficiently moderate large volumes of data, ensuring platform security and integrity.
+- Primarily **image-based**, fostering a visually engaging social networking experience.
+- **Inspired by Instagram**, with enhancements for community-driven engagement.
 
 ---
 
