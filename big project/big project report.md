@@ -268,4 +268,140 @@ This structure follows a logical breakdown of **functional and non-functional re
 
 
 
+Here is a structured version of your **social media application** specification, with bullet points grouped under appropriate headers:
 
+---
+
+## **1. Overview**
+
+- A **social media application** built using **ASP.NET Core** and **React.js**.
+- Focuses on **image-based** social networking.
+- Inspired by **Instagram**.
+
+---
+
+## **2. User Features**
+
+### **Account Management**
+
+- Personal profile:
+    - **User information** (name, bio, profile picture, etc.).
+    - **Friends list**.
+    - **Follow/Unfollow system**.
+    - **Suggested friends**.
+- Account settings:
+    - **Privacy settings** (Public/Private profile).
+    - **Active status visibility**.
+    - **Blocked users list**.
+- Activity history:
+    - **Saved posts**.
+    - **Comment and like history**.
+    - **Blocked accounts**.
+- Account recovery:
+    - **Password reset via email**.
+
+### **Posts & Interactions**
+
+- Post creation:
+    - **Upload photos/videos**.
+    - **Add captions**.
+    - **Tag friends**.
+- Post engagement:
+    - **Like, comment, and share posts**.
+    - **View engagement details (likes, comments, shares, timestamps)**.
+- Post management:
+    - **Edit captions, tags, and media**.
+    - **Delete or archive posts**.
+    - **Disable comments**.
+    - **Set privacy settings for posts**.
+    - **Report inappropriate content**.
+
+### **Search Functionality**
+
+- Search for:
+    - **Users by name or profile**.
+    - **Posts by hashtags**.
+
+### **Friend & Follow System**
+
+- **Friend requests**.
+- **Follow/unfollow users**.
+- **Block/unblock users**.
+
+### **Messaging & Chat System**
+
+- **Private messaging**.
+- **Group chat creation**.
+- **Voice & video calls**.
+- **Send media and files**.
+- Chat settings:
+    - **Notifications**.
+    - **Manage sent files, media, and posts**.
+    - **Block users in chat**.
+    - **Change chat themes**.
+
+---
+
+## **3. Admin & Moderator Features**
+
+### **Admin System**
+
+- **Full control over the platform**.
+- Manage:
+    - **User accounts (edit, ban, delete)**.
+    - **Posts (hide, delete)**.
+    - **Group chats**.
+    - **Sub-admin roles**.
+- Assign and manage **moderators**.
+
+### **Moderator System**
+
+- **Limited administrative privileges**.
+- Manage:
+    - **User accounts**.
+    - **Posts**.
+    - **Group chats**.
+- Receive and review **user reports**.
+- Keep a **log of moderation actions**.
+- View **statistics and analytics**.
+
+### **Reports & Moderation**
+
+- **Receive user reports**.
+- **Review and resolve complaints**.
+- **Take actions** (e.g., warn, ban, restrict users).
+- **Notify users of report outcomes**.
+
+### **Analytics & Insights**
+
+- Track and analyze:
+    - **User growth and account creation**.
+    - **Post engagement and trends**.
+    - **Filter statistics by time or hashtag**.
+
+---
+
+## **4. Use Cases**
+
+### **User Actions**
+
+- **Login & Registration**.
+- **Password recovery**.
+- **Profile & account management**.
+- **Create, edit, and delete posts**.
+- **Search for users and posts**.
+- **Interact with posts (like, comment, share)**.
+- **Friend and follow system**.
+- **Create and manage conversations**.
+- **Send messages and make calls**.
+
+### **Admin & Moderator Actions**
+
+- **Manage users (ban, delete, restrict)**.
+- **Manage posts (hide, delete, edit)**.
+- **Handle user reports**.
+- **View analytics and statistics**.
+
+---
+
+This structure makes it easier to understand the application's features by grouping them logically under relevant sections. Let me know if you need any modifications! 🚀
