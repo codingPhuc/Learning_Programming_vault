@@ -228,5 +228,7 @@ what
 	- signal handle the dispatching of request between client and server allowing for correct recipient 
 	- there are two build in protocol in signal a text based protocol on JSON and a binary protocol 
 	- which  is which in this
-##  persistent  connection 
-- signal 
+
+
+
+#  Specification  requirement 
