@@ -113,6 +113,11 @@ Preparing for the CA DMV Driving Test:
 ## First practice
 - The gas pedarl placement in the left there were the  brack on the right the pump 
 - when I turn right I  go to the edge of the drive way then slow down about 10mp then turn 2 time 
+- When I am on the roundabout I need to turn 4 time 
+- when on the high street I need to keep my speed at 40  on a big land road 65 on the free way 25  in pedestrian places  
+- When traveling back on a bus I need to slow down and stop when the bus stop 
+
+
 
 
 
