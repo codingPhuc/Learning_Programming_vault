@@ -44,7 +44,8 @@ _(Notes and reflections on the dedication section)_
 
 ## **Chapter I: Can You Get an MIT Education Without Going to MIT?**
 
-- **Summary**:
+- **Summary**: 
+The chapter talk about 
 - **Main Ideas**:
 - **Examples & Case Studies**:
 - **Personal Takeaways**:
