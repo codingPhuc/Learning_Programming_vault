@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Learning technique.md",
+                "file": "Learning/Learning With Chat gpt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning technique"
+              "title": "Learning With Chat gpt"
             }
           }
         ],
@@ -266,8 +266,8 @@
   },
   "active": "a3cef86abe82fbcd",
   "lastOpenFiles": [
-    "Learning/book learning/How to read a book and Actually learn from it.md",
     "Learning/Learning technique.md",
+    "Learning/book learning/How to read a book and Actually learn from it.md",
     "Learning/How to be Productive.md",
     "Learning/How I Ranked 1st at Cambridge University - 20 Study Tips.md",
     "Learning/4 layer of learning.md",
