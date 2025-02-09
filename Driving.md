@@ -111,8 +111,8 @@ Preparing for the CA DMV Driving Test:
 - [ ] Go and drive
 # Practice driving test 
 ## First practice
-- there were two gas pedal in the 
-
+- The gas pedarl placement in the left there were the  brack on the right the pump 
+- when I turn right I  go to the edge of the drive way then slow down about 10mp then turn 2 time 
 
 
 
