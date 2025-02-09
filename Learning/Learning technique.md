@@ -16,7 +16,7 @@ so just like with a picture you need to drive deeper and deeper into a book know
 - remember "you cannot connect the dot looking forward you can only do so backward" 
 - Use [[Self Testing|spaced repetition]] to reinforce learning
 
-## reflection 
+### reflection 
 you need to relate the book condition to your own life let say that you have problem with how to structure your learning you apply the principle of the book to boost your learning efficiency and make the book your own. [[book learning/How to read technical books|See technical reading tips]].
 
 you need to eat with reflection thing reading without reflection like eating without digesting 
@@ -24,9 +24,14 @@ prioritize the change that are the most impact this can be a chapter that you ca
 remember to summarize the book by summarizing you get to understand the book better 
 remember to keep an analog of the book understanding in your second brain  
 
-## action plans 
+### action plans 
 you should used sign posting to get the overall structure of a chapter that mean that having the big idea to connect to so you can group them if needed, for example if the chapter read by sign posting have 3 main idea then when you skim read you will be able to group each section to the idea. See [[thing you need to do|action items]].
+For example, in a chapter, signposting can include:
 
+- **Headings and subheadings** to indicate different sections.
+- **Topic sentences** that introduce the main idea of each paragraph.
+- **Transitional phrases** like _"firstly," "in contrast," "as a result,"_ to show connections between ideas.
+- **Summaries and conclusions** that reinforce key takeaways.
 you need an action plan ready aim and fire 
 	- the reason why many people do not have a six pact is due to them not taking action take action and have a six pact 
 	- the result you will be archive will only now remain on time 
@@ -44,7 +49,6 @@ the idea is to like have a conversation with the author of the books on his theo
 4. information processing: learn new information and make it a part of your knowledge 
 5. repetition - repeated learning. See [[How I Ranked 1st at Cambridge University - 20 Study Tips|effective study methods]]
 6. growth continue to learn about the subject in different topic 
-7. 
 
 ## learning by video  
 
