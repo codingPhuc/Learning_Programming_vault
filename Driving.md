@@ -116,6 +116,9 @@ Preparing for the CA DMV Driving Test:
 - When I am on the roundabout I need to turn 4 time 
 - when on the high street I need to keep my speed at 40  on a big land road 65 on the free way 25  in pedestrian places  
 - When traveling back on a bus I need to slow down and stop when the bus stop 
+- The thing to note is when making a turn on a stop sign you need to  wait for 3 second then turn at the speed of 10mp then turn 2 time when the turn have completed pump the gas 
+- when making a turn on a un control intersection then you need to make the turn at speed of 10mp then turn 2 time   then  pump the gas when the turn completed 
+
 
 
 
