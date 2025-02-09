@@ -44,70 +44,70 @@ _(Notes and reflections on the dedication section)_
 
 ## **Chapter I: Can You Get an MIT Education Without Going to MIT?**
 
-**Summary**: 
-The chapter talk about Scott Young and his journey to become a ultra learner and his journey on Why What and How he completed the  MIT Challenge. Moreover , the benefit he have with his ultra learning experience  like he noted  instead of  " doing each assignment and waiting weeks to learn my results" he could "material one question at a time, quickly learning from my mistakes" and also reduce the cost of his tuition . The chapter also talk about his encounter with other ultra learner the achievement    that hey have made in their ultra learning journey in order to descript these people having one simple   characteristics   that being their ultra learning ability , the  writer also want to combine their method into a single guild to make anyone be able to be a ultra learner 
-**Main Ideas**: The main Ideal is to let the reader know the achievement of the ultra learner so that they can feel inspire by the ultra learner experience and how hey can achieve the same result 
-**Examples & Case Studies**: 
-example include ultra learner "Benny Lewis" who could learn and speak the language in three month time,  his approach was to start speaking on the very first day  even thought he fail to get  C2 in the month because of the listening test  it is still and impressive feet in the 3 month timelines  
-"Roger  Craig" the champion of  Jeopardy a game that have randomize question, due to his obsessive love of the game , and his studying technique using space repetition  software algorithm to see which area he made the mistake in 
-"Eric Barone " wanting to create  his own video game similar to that of harvest moon , he compare him self to other asking if Why they did something How they did it and what can he apply to his own game , to reduce the time being wasted he work  as  a crasher at a local cinema earn minimum wage   
+**Summary:** 
+**The chapter talk about Scott Young and his journey to become a ultra learner and his journey on Why What and How he completed the  MIT Challenge. Moreover , the benefit he have with his ultra learning experience  like he noted  instead of  " doing each assignment and waiting weeks to learn my results" he could "material one question at a time, quickly learning from my mistakes" and also reduce the cost of his tuition . The chapter also talk about his encounter with other ultra learner the achievement    that hey have made in their ultra learning journey in order to descript these people having one simple   characteristics   that being their ultra learning ability , the  writer also want to combine their method into a single guild to make anyone be able to be a ultra learner** 
+**Main Ideas: The main Ideal is to let the reader know the achievement of the ultra learner so that they can feel inspire by the ultra learner experience and how hey can achieve the same result** 
+**Examples & Case Studies:** 
+**example include ultra learner "Benny Lewis" who could learn and speak the language in three month time,  his approach was to start speaking on the very first day  even thought he fail to get  C2 in the month because of the listening test  it is still and impressive feet in the 3 month timelines**  
+**"Roger  Craig" the champion of  Jeopardy a game that have randomize question, due to his obsessive love of the game , and his studying technique using space repetition  software algorithm to see which area he made the mistake in** 
+**"Eric Barone " wanting to create  his own video game similar to that of harvest moon , he compare him self to other asking if Why they did something How they did it and what can he apply to his own game , to reduce the time being wasted he work  as  a crasher at a local cinema earn minimum wage**   
 
-**Personal Takeaways**:
-From the thing I have read their ultra learning Journey have made me understand that the ability to learn subject as a fast rate is possible with enough time  , dedication and strategy . The first chapter is an outline for me to know these individual  and their ability to then be  able to dissect their learning method in the upcomming chapter 
-**Actionable Steps**:
-step of action : 
-I have known of 4 ultra learner now those being "Benny Lewis ", "Roger Craig" ,  "Eric Barone" and the author of the book "Scot Young" 
-I have now have a clear understanding of what an ultra learning person is , a person who is obsessive with learning skill in a short amount of time and will used different strategy to get the optimize result 
-I now have clear understanding of the bench mark I need to achieve to become an ultra learner 
+**Personal Takeaways:**
+**From the thing I have read their ultra learning Journey have made me understand that the ability to learn subject as a fast rate is possible with enough time  , dedication and strategy . The first chapter is an outline for me to know these individual  and their ability to then be  able to dissect their learning method in the upcomming chapter** 
+**Actionable Steps:**
+**step of action :** 
+**I have known of 4 ultra learner now those being "Benny Lewis ", "Roger Craig" ,  "Eric Barone" and the author of the book "Scot Young"** 
+**I have now have a clear understanding of what an ultra learning person is , a person who is obsessive with learning skill in a short amount of time and will used different strategy to get the optimize result** 
+**I now have clear understanding of the bench mark I need to achieve to become an ultra learner** 
 
----
+**---**
 
 ## **Chapter II: Why Ultralearning Matters**
 
-- **Summary**:
-- **Key Arguments**:
-- **Real-World Applications**:
-- **Important Quotes**:
-- **How This Applies to You**:
+- **Summary:**
+- **Key Arguments:**
+- **Real-World Applications:**
+- **Important Quotes:**
+- **How This Applies to You:**
 
----
+**---**
 
 ## **Chapter III: How to Become an Ultralearner**
 
-- **Core Learning Strategies**:
-- **Steps to Implement Ultralearning**:
-- **Challenges and Solutions**:
-- **Reflection Questions**:
+- **Core Learning Strategies:**
+- **Steps to Implement Ultralearning:**
+- **Challenges and Solutions:**
+- **Reflection Questions:**
 
----
+**---**
 
 ### **Review Template for Each Principle Chapter (IV–XII)**
 
 ## **Chapter [X]: Principle [#]—[Title]**
 
-- **Definition of the Principle**:
-- **Why It’s Important**:
-- **Key Examples**:
-- **Best Practices**:
-- **How to Apply This Principle**:
+- **Definition of the Principle:**
+- **Why It’s Important:**
+- **Key Examples:**
+- **Best Practices:**
+- **How to Apply This Principle:**
 
----
+**---**
 
 ## **Chapter XIII: Your First Ultralearning Project**
 
-- **Steps to Design Your Own Project**:
-- **Common Pitfalls to Avoid**:
-- **Example Projects**:
-- **Personal Application**:
+- **Steps to Design Your Own Project:**
+- **Common Pitfalls to Avoid:**
+- **Example Projects:**
+- **Personal Application:**
 
----
+**---**
 
 ## **Chapter XIV: An Unconventional Education**
 
-- **Big Takeaways from the Book**:
-- **How This Challenges Traditional Education**:
-- **What You Will Implement from This Book**:
+- **Big Takeaways from the Book:**
+- **How This Challenges Traditional Education:**
+- **What You Will Implement from This Book:**
 
----
+**---**
 
-This format provides **structured sections for easy review, comprehension, and application** of each chapter’s key lessons. Let me know if you need additional refinements! 🚀
+**This format provides structured sections for easy review, comprehension, and application of each chapter’s key lessons. Let me know if you need additional refinements! 🚀**
