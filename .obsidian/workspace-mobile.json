@@ -79,14 +79,12 @@
             "id": "9a252d261da714ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "big project/big project report.md",
-                "mode": "source",
-                "source": false
+                "file": "Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1).pdf"
               },
-              "icon": "lucide-file",
-              "title": "big project report"
+              "icon": "lucide-file-text",
+              "title": "Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1)"
             }
           }
         ],
@@ -167,7 +165,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tasks to do.md",
+            "file": "Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1).pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -223,6 +221,7 @@
   },
   "active": "9a252d261da714ee",
   "lastOpenFiles": [
+    "big project/big project report.md",
     "/big project/big project report.md",
     "/big project",
     "Tasks to do.md",
