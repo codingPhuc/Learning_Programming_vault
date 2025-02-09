@@ -49,7 +49,7 @@ The chapter talk about Scott Young and his journey to become a ultra learner and
 - **Main Ideas**: The main Ideal is to let the reader know the achievement of the ultra learner so that they can feel inspire by the ultra learner experience and how hey can achieve the same result 
 - **Examples & Case Studies**: 
 	- example include ultra learner "Benny Lewis" who could learn and speak the language in three month time,  his approach was to start speaking on the very first day  even thought he fail to get  C2 in the month because of the listening test  it is still and impressive feet in the 3 month timelines  
-	- "Roger  Craig" the champion of  Jeopardy  havem nage
+	- "Roger  Craig" the champion of  Jeopardy due to his obsessive love of the game 
 
 - **Personal Takeaways**:
 - **Actionable Steps**:
