@@ -49,10 +49,11 @@ The chapter talk about Scott Young and his journey to become a ultra learner and
 - **Main Ideas**: The main Ideal is to let the reader know the achievement of the ultra learner so that they can feel inspire by the ultra learner experience and how hey can achieve the same result 
 - **Examples & Case Studies**: 
 	- example include ultra learner "Benny Lewis" who could learn and speak the language in three month time,  his approach was to start speaking on the very first day  even thought he fail to get  C2 in the month because of the listening test  it is still and impressive feet in the 3 month timelines  
-	- "Roger  Craig" the champion of  Jeopardy due to his obsessive love of the game , and his studying technique using software algorithm to see which area he made the mistake in 
-	- 
+	- "Roger  Craig" the champion of  Jeopardy a game that have randomize question, due to his obsessive love of the game , and his studying technique using space repetition  software algorithm to see which area he made the mistake in 
+	- "Eric Barone " wanting to create  his own video game similar to that of harvest moon , he compare him self to other asking if Why they did something How they did it and what can he apply to his own game , to reduce the time being wasted he work  as  a crasher at a local cinema earn minimum wage   
 
 - **Personal Takeaways**:
+- 
 - **Actionable Steps**:
 
 ---
