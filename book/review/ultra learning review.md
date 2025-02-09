@@ -53,11 +53,12 @@ The chapter talk about Scott Young and his journey to become a ultra learner and
 	- "Eric Barone " wanting to create  his own video game similar to that of harvest moon , he compare him self to other asking if Why they did something How they did it and what can he apply to his own game , to reduce the time being wasted he work  as  a crasher at a local cinema earn minimum wage   
 
 - **Personal Takeaways**:
-From the thing I have read their ultra learning Journey have made me understand that the ability to learn subject as a fast rate is possible with enough time  , dedication and strategy . The first chapter is an outline for me to know these indidual and their ability to then disected their learning method for the upcomming chapter 
+From the thing I have read their ultra learning Journey have made me understand that the ability to learn subject as a fast rate is possible with enough time  , dedication and strategy . The first chapter is an outline for me to know these individual  and their ability to then be  able to dissect their learning method in the upcomming chapter 
 - **Actionable Steps**:
 step of action : 
 1. I have known of 4 ultra learner now those being "Benny Lewis ", "Roger Craig" ,  "Eric Barone" and the author of the book "Scot Young" 
-2. I have now have a clear understanding of what an ultra learning person is , a person who is obsessive with learning skill in a short amount of time 
+2. I have now have a clear understanding of what an ultra learning person is , a person who is obsessive with learning skill in a short amount of time and will used different strategy to get the optimize result 
+3. 
 ---
 
 ## **Chapter II: Why Ultralearning Matters**
