@@ -45,9 +45,9 @@ _(Notes and reflections on the dedication section)_
 ## **Chapter I: Can You Get an MIT Education Without Going to MIT?**
 
 - **Summary**: 
-The chapter talk about Scott Young and his journey to become a ultra learner and his journey on Why What and How he completed the  MIT Challenge. The chapter also talk about his encounter with other ultra learner the achievement    that hey have made in their ultra learning journey 
-- **Main Ideas**: The main Ideal is to let the reader know the achievement of the ultra learner so that they can feel inspire by the ultra learner experience and how 
-- **Examples & Case Studies**:
+The chapter talk about Scott Young and his journey to become a ultra learner and his journey on Why What and How he completed the  MIT Challenge. Moreover , the benefit he have with his ultra learning experience  like he noted  instead of  " doing each assignment and waiting weeks to learn my results" he could "material one question at a time, quickly learning from my mistakes" and also reduce the cost of his tuition . The chapter also talk about his encounter with other ultra learner the achievement    that hey have made in their ultra learning journey 
+- **Main Ideas**: The main Ideal is to let the reader know the achievement of the ultra learner so that they can feel inspire by the ultra learner experience and how hey can achieve the same result 
+- **Examples & Case Studies**: example include ultra learner "Benny Lewis" 
 - **Personal Takeaways**:
 - **Actionable Steps**:
 
