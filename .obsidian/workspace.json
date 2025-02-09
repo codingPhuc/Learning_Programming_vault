@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Learning With Chat gpt.md",
+                "file": "Learning/Learning technique.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning With Chat gpt"
+              "title": "Learning technique"
             }
           }
         ],
@@ -152,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ".pdf",
+                "query": "bloom",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,7 +173,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -266,9 +267,11 @@
   },
   "active": "a3cef86abe82fbcd",
   "lastOpenFiles": [
+    "udt.md",
     "Learning/Learning technique.md",
-    "Learning/book learning/How to read a book and Actually learn from it.md",
     "Learning/How to be Productive.md",
+    "Learning/Learning With Chat gpt.md",
+    "Learning/book learning/How to read a book and Actually learn from it.md",
     "Learning/How I Ranked 1st at Cambridge University - 20 Study Tips.md",
     "Learning/4 layer of learning.md",
     "Learning/Asking question.md",
@@ -285,7 +288,6 @@
     "Learning/what_do_I_like_to_do/what is computer engineering.md",
     "Learning/what_do_I_like_to_do/what is a proof.md",
     "Learning/what_do_I_like_to_do/find a good  career.md",
-    "Learning/Learning With Chat gpt.md",
     "Learning/book learning/How To Get The Most Out of A Book - Analytical Reading.md",
     "book/Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1) 2.pdf",
     "book/review",
@@ -299,7 +301,6 @@
     "Technical writting.md",
     "Tasks to do.md",
     "todo/research.md",
-    "DataBase.md",
     "Udemy free sources]",
     "picture folder/C++ Primer, Fifth Edition (Stanley B. Lippman  Josée Lajoie  Barbara Moo) (Z-Library).pdf",
     "programming language",
