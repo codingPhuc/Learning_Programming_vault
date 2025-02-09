@@ -75,10 +75,10 @@ You need an action plan: ready, aim, and fire.
 ## Learning Process
 ![[learning structure#Bloom’s Taxonomy]]
 1. Introduction - you are introduced to the subject, and if you have enough enthusiasm, you can keep learning more.
-2. Analyze the information to the new topic to avoid false negatives.
-3. Accept or reject: decide if you want to learn more about the information.
-4. Information processing: learn new information and make it a part of your knowledge.
-5. Repetition - repeated learning. See [[How I Ranked 1st at Cambridge University - 20 Study Tips|effective study methods]].
+2. Information processing: learn new information and make it a part of your knowledge.
+3. Repetition - repeated learning and practice the subject. See [[How I Ranked 1st at Cambridge University - 20 Study Tips|effective study methods]].
+4. Analyze the information to the new topic to avoid false negatives.
+5. Accept or reject: decide if you want to learn more about the information.
 6. Growth - continue to learn about the subject in different topics.
 
 ## Study Enhancement Methods
@@ -153,19 +153,19 @@ You want to extract thoughts and ideas to transform them into knowledge. Think o
 - Use [[Self Testing]] for review.
 
 ### Action Plans
-1. Use signposting for chapter structure.
-2. Ready, aim, fire approach:
+7. Use signposting for chapter structure.
+8. Ready, aim, fire approach:
    - Take action ([[Thing You Need To Do]]).
    - Be patient.
    - Adjust when needed.
 
 ### Learning Process
-1. Introduction.
-2. Analysis.
-3. Acceptance/Rejection.
-4. Information Processing.
-5. [[How to be Productive]].
-6. Growth.
+9. Introduction.
+10. Analysis.
+11. Acceptance/Rejection.
+12. Information Processing.
+13. [[How to be Productive]].
+14. Growth.
 
 ## Study Enhancement Methods
 - [[How to be Productive|study with friend]]
