@@ -45,7 +45,7 @@ _(Notes and reflections on the dedication section)_
 ## **Chapter I: Can You Get an MIT Education Without Going to MIT?**
 
 - **Summary**: 
-The chapter talk about Scott Young and his journey to become a ultra learner and his journey on Why What and How he completed the  MIT Challenge. Moreover , the benefit he have with his ultra learning experience  like he noted  instead of  " doing each assignment and waiting weeks to learn my results" he could "material one question at a time, quickly learning from my mistakes" and also reduce the cost of his tuition . The chapter also talk about his encounter with other ultra learner the achievement    that hey have made in their ultra learning journey 
+The chapter talk about Scott Young and his journey to become a ultra learner and his journey on Why What and How he completed the  MIT Challenge. Moreover , the benefit he have with his ultra learning experience  like he noted  instead of  " doing each assignment and waiting weeks to learn my results" he could "material one question at a time, quickly learning from my mistakes" and also reduce the cost of his tuition . The chapter also talk about his encounter with other ultra learner the achievement    that hey have made in their ultra learning journey in order to descript these people having one simple   characteristics   that being their ultra learning ability , the  writer also want to combine their method into a single guild to make everyone be able to be a ultra learner 
 - **Main Ideas**: The main Ideal is to let the reader know the achievement of the ultra learner so that they can feel inspire by the ultra learner experience and how hey can achieve the same result 
 - **Examples & Case Studies**: 
 	- example include ultra learner "Benny Lewis" who could learn and speak the language in three month time,  his approach was to start speaking on the very first day  even thought he fail to get  C2 in the month because of the listening test  it is still and impressive feet in the 3 month timelines  
@@ -53,7 +53,7 @@ The chapter talk about Scott Young and his journey to become a ultra learner and
 	- "Eric Barone " wanting to create  his own video game similar to that of harvest moon , he compare him self to other asking if Why they did something How they did it and what can he apply to his own game , to reduce the time being wasted he work  as  a crasher at a local cinema earn minimum wage   
 
 - **Personal Takeaways**:
-- 
+I see that  
 - **Actionable Steps**:
 
 ---
