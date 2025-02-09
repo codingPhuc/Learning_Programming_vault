@@ -103,11 +103,16 @@ Preparing for the CA DMV Driving Test:
 - Stop if there is a stop sign
 
 
-
-
 ## Todo Driving Law
 - [ ] Research about these topics: State Vehicle Code, DMV site, and Highway Patrol
 - [ ] Complete the requirement for driving theory
   - [ ] Test yourself on the knowledge
 - [ ] Complete the requirement for driving practice
 - [ ] Go and drive
+# Practice driving test 
+## First practice
+- there were two gas pedal in the 
+
+
+
+
