@@ -58,7 +58,7 @@ From the thing I have read their ultra learning Journey have made me understand 
 step of action : 
 1. I have known of 4 ultra learner now those being "Benny Lewis ", "Roger Craig" ,  "Eric Barone" and the author of the book "Scot Young" 
 2. I have now have a clear understanding of what an ultra learning person is , a person who is obsessive with learning skill in a short amount of time and will used different strategy to get the optimize result 
-3. 
+3. I now have clear understanding of the bench mark I need to achieve to become an ultra learner 
 ---
 
 ## **Chapter II: Why Ultralearning Matters**
