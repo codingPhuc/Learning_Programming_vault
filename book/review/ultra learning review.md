@@ -90,8 +90,8 @@ Actionable Steps:
 	- "Colby Durant" and "Vishal Maini"  both have used ultra learning to improve on their skill sheet with the former being able to recue and advance her job, and the latter the ability to switch jobs when his skill reach the desire position 
 - **Important Quotes:**
 	- “Designed in California. Made in China.” this quotes on apple IPhone signify the importance of today changing time for ultra learning 
-	- 
 - **How This Applies to You:**
+I know now that ultra learning can help with both advancing my career and my ability to learn, in today changing world there is a need for ultra leaner people who learn skill at an extremely fast rate, creating opportunity more them. I can take my time with ultra learning in 3 way if I am busy that being part time ultra learning , gap ultra learning and same direction ultra learning  
 
 **---**
 
