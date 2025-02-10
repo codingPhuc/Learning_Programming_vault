@@ -106,21 +106,29 @@ De Montebello story illustrated that ultra learning is  not a cookie-cutter meth
 
 - **Core Learning Strategies:**
 Meta  Learning  :   Start by  drawing a map to learn new skill , do good research  and draw on your past competencies to optimize your learning
-Focus : Sharpen your Knife. Cultivate the ability to concentrate. Carve out chunk of time  when you can focus on learning 
-Directness : go straight ahead , Learn by doing thing you want to be good at . Do not do task that are easy 
-Drill : attack your week point  , split your learning into smaller part then  drill to master part that you struggle with 
-Retrieval : Test to learn testing is a way of creating knowledge, test your self before you event feel confident in the knowledge  
-Feedback : Don't Dodge the punch . Feedback is harsh adn uncomfortable , do not let your ego get in the way . Extract insight in the noisy data 
+Focus : Sharpen your Knife. Cultivate the ability to concentrate. Carve out chunk of time  when you can to focus on learning 
+Directness : go straight ahead , learn by doing thing you want to be good at . Do not do task that are easy 
+Drill : attack your week point  , split your learning into smaller part then  drill to master part the part that you are  struggle with 
+Retrieval : Test to learn testing is a way of creating knowledge, test your self before you even feel confident in the knowledge  
+Feedback : Don't Dodge the punch . Feedback is harsh and uncomfortable , do not let your ego get in the way . Extract insight in the noisy data 
 Retention : do not fill  a leaky bucket, understand what you forget and why 
-Intuition : dig deep before building up. Develop your intution through play and exploration , don't recourse to cheap trick of memorization 
+Intuition : dig deep before building up. Develop your intuition through play and exploration , don't recourse to cheap trick of memorization 
 Experimentation : Explore outside your comfort zone  no just from following path by other but from exploring possibilities 
 - **Steps to Implement Ultralearning:**
+1. pick a skill with high  impact (career , personal growth) 
+2. Research & create a learning roadmap (study how experts learned it) 
+3. Focus deeply (remove distractions , not just studying) 
+4. Apply directness (learn by doing ,  not just studying) 
+5. Reinforce with retrieval && retention (active recall & spaced repetition) 
+6. Experiment (customize learning strategies for better result) 
+
+
 - **Challenges and Solutions:**
 - **Reflection Questions:** 
-	- even if I following these principle how can I implement them  
-	- how can  I learn continuously without distraction 
-	- how can I research and draw out a map of my learning so that I can learn effectively 
-	- how can I conclude my learning in the final step with creating a new project or implemnt my learning in real life scenario  
+	- How can I create a roadmap for learning my next skill ? 
+	- How will I integrate "direct practice" into my learning ? 
+	- What strategies will I use to maintain focus and avoid distractions ? 
+	- How will I test myself regularly to reinforce learning 
 
 **---**
 
