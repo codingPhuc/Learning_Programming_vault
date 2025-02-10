@@ -100,8 +100,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -227,7 +226,7 @@
       }
     ]
   },
-  "active": "22193013902c8c28",
+  "active": "ec2bbee667482424",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "udt.md",
