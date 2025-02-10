@@ -121,10 +121,12 @@ Preparing for the CA DMV Driving Test:
 ## Second practice  
 - my mistake was that I keep realizing on the brake all the time when ever I turn the corner or when ever there is a stop sign 
 - when changing lane I should look over my shoulder and window each time I change lane  in a multy lane roads 
+
+
 Stop sign 
 - when you enter a stop sign the if you are the first person their then you can go first 
 - if you are not first then you much wait for the other person to go 
-- 
+
 
 
 
