@@ -70,8 +70,9 @@ Actionable Steps:
 	- self directed mean that being in the driver sheet of a project not in the back sheet 
 	- all ultra learner took  step to maximize there learning output 
 	- realize that ultra learning will make you full file because your moment of  happiness does not come from easy pleasure but it come from overcoming an obstacles 
-	- In Today world with AI  development and skill like software engineer require a constance stream of knowledge  , it make being  mediocre a danger 
-- **Key Arguments:**
+	- In Today world with AI  development and skill like software engineer require a constance stream of knowledge  , it make being  mediocre a danger  
+	- Collage instead of being a free education for all have turn into a money graph which each passing year  causing those who blindly follow courses 
+- **Key Arguments:** 
 - **Real-World Applications:**
 - **Important Quotes:**
 - **How This Applies to You:**
