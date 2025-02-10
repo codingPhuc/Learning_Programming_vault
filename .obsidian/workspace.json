@@ -11,14 +11,12 @@
             "id": "99730ef04507a3bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Driving.md",
-                "mode": "source",
-                "source": false
+                "file": "book/Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1).pdf"
               },
-              "icon": "lucide-file",
-              "title": "Driving"
+              "icon": "lucide-file-text",
+              "title": "Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1)"
             }
           },
           {
@@ -112,8 +110,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -245,11 +242,12 @@
   },
   "active": "99730ef04507a3bc",
   "lastOpenFiles": [
-    "picture folder/Driving 2025-02-09 16.39.35.excalidraw.md",
-    "Driving.md",
-    "picture folder/Driving 2025-02-09 16.36.28.excalidraw.md",
-    "book/Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1).pdf",
     "book/review/ultra learning review.md",
+    "book/Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1).pdf",
+    "book/Fundamentals of Data Engineering Plan and Build Robust Data Systems (Joe Reis, Matt Housley) (Z-Library) (1).pdf",
+    "Driving.md",
+    "picture folder/Driving 2025-02-09 16.39.35.excalidraw.md",
+    "picture folder/Driving 2025-02-09 16.36.28.excalidraw.md",
     "Untitled 5.md",
     "Learning/Learning technique.md",
     "Learning/Learning With Chat gpt.md",
@@ -273,10 +271,8 @@
     "Learning/what_do_I_like_to_do/what is computer engineering.md",
     "Learning/what_do_I_like_to_do/what is a proof.md",
     "Learning/what_do_I_like_to_do/find a good  career.md",
-    "Learning/book learning/How To Get The Most Out of A Book - Analytical Reading.md",
     "book/review",
     "book/Programming Principles and Practice Using C++, Third Edition (Bjarne Stroustrup) (Z-Library) (1).pdf",
-    "book/Fundamentals of Data Engineering Plan and Build Robust Data Systems (Joe Reis, Matt Housley) (Z-Library) (1).pdf",
     "book/Chemistry-Study-Guide 1.pdf",
     "SET COURSES.canvas",
     "Udemy free sources]",

@@ -64,7 +64,11 @@ Actionable Steps:
 
 ## **Chapter II: Why Ultralearning Matters**
 
-- **Summary:**
+- **Summary:** 
+	- ultra learning is a strategy for acquiring skills and knowledges that is both self directed  and intense 
+	- Strategy in ultra learning is a choice not a command  ultra learning is self directed  
+	- self directed mean that being in the driver sheet of a project not in the back sheet 
+	- all ultra learner took  step to maximize thire
 - **Key Arguments:**
 - **Real-World Applications:**
 - **Important Quotes:**
