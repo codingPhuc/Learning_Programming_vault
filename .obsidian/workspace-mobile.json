@@ -79,12 +79,14 @@
             "id": "9a252d261da714ee",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1).pdf"
+                "file": "big project/big project report.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1)"
+              "icon": "lucide-file",
+              "title": "big project report"
             }
           }
         ],
@@ -165,7 +167,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1).pdf",
+            "file": "big project/big project report.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -221,6 +223,7 @@
   },
   "active": "9a252d261da714ee",
   "lastOpenFiles": [
+    "Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1).pdf",
     "big project/big project report.md",
     "/big project/big project report.md",
     "/big project",
@@ -253,7 +256,6 @@
     "/Excalidraw/Drawing 2024-11-21 20.14.31.excalidraw.md",
     "/Excalidraw/Drawing 2024-06-19 17.57.52.excalidraw.md",
     "/Excalidraw",
-    "/Anki.md",
     "Udemy free sources]",
     "/Udemy free sources]",
     "/Covariance and Contravariance/Covariance and Contravariance code/obj/Debug/net7.0/Covariance and Contravariance code.AssemblyInfoInputs.cache"

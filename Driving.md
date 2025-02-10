@@ -103,35 +103,11 @@ Preparing for the CA DMV Driving Test:
 - Stop if there is a stop sign
 
 
+
+
 ## Todo Driving Law
 - [ ] Research about these topics: State Vehicle Code, DMV site, and Highway Patrol
 - [ ] Complete the requirement for driving theory
   - [ ] Test yourself on the knowledge
 - [ ] Complete the requirement for driving practice
 - [ ] Go and drive
-# Practice driving test 
-## First practice
-- The gas pedarl placement in the left there were the  brack on the right the pump 
-- when I turn right I  go to the edge of the drive way then slow down about 10mp then turn 2 time 
-- When I am on the roundabout I need to turn 4 time 
-- when on the high street I need to keep my speed at 40  on a big land road 65 on the free way 25  in pedestrian places  
-- When traveling back on a bus I need to slow down and stop when the bus stop 
-- The thing to note is when making a turn on a stop sign you need to  wait for 3 second then turn at the speed of 10mp then turn 2 time when the turn have completed pump the gas 
-- when making a turn on a un control intersection then you need to make the turn at speed of 10mp then turn 2 time   then  pump the gas when the turn completed  
-## Second practice  
-- my mistake was that I keep realizing on the brake all the time when ever I turn the corner or when ever there is a stop sign 
-- when changing lane I should look over my shoulder and window each time I change lane  in a multy lane roads 
-- when there is a green light and a turn sign I should only worry about the person on the opposite sigh of the street I can even part my car in the middle of the road to allow the  person on my opposite side to go ahead  as long as the green light have not ended 
-![[Driving 2025-02-09 16.36.28.excalidraw]]
-I should only worry about the lane in front of me on a two way road 
-![[Driving 2025-02-09 16.39.35.excalidraw]]
-Stop sign 
-- when you enter a stop sign the if you are the first person their then you can go first 
-- if you are not first then you much wait for the other person to go 
-
-
-
-
-
-
-
