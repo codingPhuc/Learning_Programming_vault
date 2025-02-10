@@ -116,7 +116,11 @@ Intuition : dig deep before building up. Develop your intution through play and 
 Experimentation : Explore outside your comfort zone  no just from following path by other but from exploring possibilities 
 - **Steps to Implement Ultralearning:**
 - **Challenges and Solutions:**
-- **Reflection Questions:**
+- **Reflection Questions:** 
+	- even if I following these principle how can I implement them  
+	- how can  I learn continuously without distraction 
+	- how can I research and draw out a map of my learning so that I can learn effectively 
+	- how can I conclude my learning in the final step with creating a new project or implemnt my learning in real life scenario  
 
 **---**
 
