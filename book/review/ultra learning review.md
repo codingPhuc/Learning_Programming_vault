@@ -96,7 +96,7 @@ I know now that ultra learning can help with both advancing my career and my abi
 **---**
 
 ## **Chapter III: How to Become an Ultralearner**
-
+- summary  :  
 - **Core Learning Strategies:**
 - **Steps to Implement Ultralearning:**
 - **Challenges and Solutions:**
