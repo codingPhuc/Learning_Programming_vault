@@ -80,8 +80,17 @@ Actionable Steps:
 		- second is gap in time this can either be your time of unemployment or time like summer break 
 		- third is time already spend learning thing of studying English 
  - **Key Arguments:** 
-- **Real-World Applications:**
+	 - make you full fill  because moment of happiness  come from hardship 
+	 - today world require a constance stream of learning 
+	 - tuition is too expensive 
+	 - technology have made it easy to learn and easy to be distracted 
+	 - helping you advance or rescue your career  
+	 - you can make time in ultra learning in 3 different way  
+- **Real-World Applications:** 
+	- "Colby Durant" and "Vishal Maini"  both have used ultra learning to improve on their skill sheet with the former being able to recue and advance her job, and the latter the ability to switch jobs when his skill reach the desire position 
 - **Important Quotes:**
+	- “Designed in California. Made in China.” this quotes on apple IPhone signify the importance of today changing time for ultra learning 
+	- 
 - **How This Applies to You:**
 
 **---**
