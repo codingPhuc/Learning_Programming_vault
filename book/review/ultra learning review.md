@@ -74,6 +74,7 @@ Actionable Steps:
 	- Collage instead of being a free education for all have turn into a money graph which each passing year  causing those who blindly follow courses to suffer not  only financely but also academic inefficiency 
 	- going back to school is out of reach for many
 	- technology have been continuously changing and affect both our vice and virtues making us more distracted but also providing us with more accessible information 
+	- rescuing your career  ultra learning project will help you with accelerating your career and help you in economic down turn  when one specific skill will not be enough to combat the changing world the auther then list out example like "Colby Durant" and "Vishal Maini" one learn copy writing in record speed for a promotion , other yearn for passion decide to ultra learn to switch career 
 - **Key Arguments:** 
 - **Real-World Applications:**
 - **Important Quotes:**
