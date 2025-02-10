@@ -96,8 +96,12 @@ I know now that ultra learning can help with both advancing my career and my abi
 **---**
 
 ## **Chapter III: How to Become an Ultralearner**
-- summary  :  The chapter start off with de Montebello who was a musical before becoming an ultra learner. He choose his ultra learning subject in public speaking because he thing that   “Public speaking is a metaskill” that assists with other skill like   “confidence, storytelling, writing, creativity, interviewing skills, selling skills. It touches on so many different things." 
-- 
+- summary  :  The chapter start off with de Montebello who was a musical before becoming an ultra learner. He choose his ultra learning subject in public speaking because he thing that   “Public speaking is a metaskill” that assists with other skill like   “confidence, storytelling, writing, creativity, interviewing skills, selling skills. It touches on so many different things." . To succeed in his endeavor  he enroll in meeting of Toastmasters International , organization for learning public speaking, with this he reach two lucky break : 
+	- being able to completed in a World Championship of Public Speaking 
+	- Meting MiChael  Gendler  
+The competition was importance because it provided a potential structure for  his ultra learning project , giving him a six mandatory qualifying speech to meet  his criterial . When seeking advice Gendler just said to seek something  scariest for him and trust what ever get in his head. Some friend gave him tips on stage present to used his body with his word to communicate, Gendler told him to make him care  
+
+
 - **Core Learning Strategies:**
 - **Steps to Implement Ultralearning:**
 - **Challenges and Solutions:**
