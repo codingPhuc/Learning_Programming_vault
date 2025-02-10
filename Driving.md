@@ -117,7 +117,14 @@ Preparing for the CA DMV Driving Test:
 - when on the high street I need to keep my speed at 40  on a big land road 65 on the free way 25  in pedestrian places  
 - When traveling back on a bus I need to slow down and stop when the bus stop 
 - The thing to note is when making a turn on a stop sign you need to  wait for 3 second then turn at the speed of 10mp then turn 2 time when the turn have completed pump the gas 
-- when making a turn on a un control intersection then you need to make the turn at speed of 10mp then turn 2 time   then  pump the gas when the turn completed 
+- when making a turn on a un control intersection then you need to make the turn at speed of 10mp then turn 2 time   then  pump the gas when the turn completed  
+## Second practice  
+- my mistake was that I keep realizing on the brake all the time when ever I turn the corner or when ever there is a stop sign 
+- when changing lane I should look over my shoulder and window each time I change lane  in a multy lane roads 
+Stop sign 
+- when you enter a stop sign the if you are the first person their then you can go first 
+- if you are not first then you much wait for the other person to go 
+- 
 
 
 

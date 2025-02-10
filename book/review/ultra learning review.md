@@ -53,7 +53,7 @@ Examples & Case Studies:
 	"Eric Barone " wanting to create  his own video game similar to that of harvest moon , he compare him self to other asking if Why they did something How they did it and what can he apply to his own game , to reduce the time being wasted he work  as  a crasher at a local cinema earn minimum wage
 
 Personal Takeaways:
-	From the thing I have read about each ultra learning Journey have made me understand that ultra learning is a repeatable process that can be broken down into principle  enabling it user the ability learn subject as a fast rate  with enough time  , dedication and strategy  . The first chapter is an outline for me to know these individual  and their ability to then be  able to dissect their learning method in the upcomming chapter 
+	From the thing I have read about each ultra learning Journey have made me understand that ultra learning is a repeatable process that can be broken down into principle  enabling it user the ability learn subject as a fast rate  with enough time  , dedication and strategy  . The first chapter is a roadmap, introducing key individual and their method to prepare the reader for a deeper drive the nine principle of ultra learning in the coming chapters
 Actionable Steps:
 	step of action : 
 	I have known of 4 ultra learner now those being "Benny Lewis ", "Roger Craig" ,  "Eric Barone" and the author of the book "Scot Young" 
