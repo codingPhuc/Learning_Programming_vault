@@ -68,7 +68,9 @@ Actionable Steps:
 	- ultra learning is a strategy for acquiring skills and knowledges that is both self directed  and intense 
 	- Strategy in ultra learning is a choice not a command  ultra learning is self directed  
 	- self directed mean that being in the driver sheet of a project not in the back sheet 
-	- all ultra learner took  step to maximize thire
+	- all ultra learner took  step to maximize there learning output 
+	- realize that ultra learning will make you full file because your moment of  happiness does not come from easy pleasure but it come from overcoming an obstacles 
+	- In Today world with AI  development and skill like software engineer require a constance stream of knowledge  , it make being  mediocre a danger 
 - **Key Arguments:**
 - **Real-World Applications:**
 - **Important Quotes:**
