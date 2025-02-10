@@ -1,5 +1,5 @@
 # basic commands 
-
+Nhdjejsh
 - `git init`
 - create a git repository 
 - `git add <filename>`
