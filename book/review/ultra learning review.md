@@ -100,9 +100,19 @@ I know now that ultra learning can help with both advancing my career and my abi
 	- being able to completed in a World Championship of Public Speaking 
 	- Meting MiChael  Gendler  
 The competition was importance because it provided a potential structure for  his ultra learning project , giving him a six mandatory qualifying speech to meet  his criterial . When seeking advice Gendler just said to seek something  scariest for him and trust what ever get in his head. Some friend gave him tips on stage present to used his body with his word to communicate, Gendler told him to make him care  
-de Montebello have told him the depth of his skill and how it landed him a client of his choosing over 20000$ 
+de Montebello have told him the depth of his skill and how it landed him a client of his choosing over 20000$ , due to his obsessive work ethic he manage to  reach his goal . As a result , de Montebello became a guild to other ultra learner that those who are obsessive about their goal will win in the end  and acquired their desire skill sheet 
+De Montebello story illustrated that ultra learning is  not a cookie-cutter method , but the uniqueness of ultra learning project is what glue it all together . As  a result, we need principle to outline our ultra learning  like in physic principle help with simplifying problem by working backward. The principle is only a guild not an order so you need to used your only creativity to learn used and build it each embodies a particular aspect of successful learning 
+
 
 - **Core Learning Strategies:**
+Meta  Learning  :   Start by  drawing a map to learn new skill , do good research  and draw on your past competencies to optimize your learning
+Focus : Sharpen your Knife. Cultivate the ability to concentrate. Carve out chunk of time  when you can focus on learning 
+Directness : go straight ahead , Learn by doing thing you want to be good at . Do not do task that are easy 
+Drill : attack your week point  , split your learning into smaller part then  drill to master part that you struggle with 
+Retrieval : Test to learn testing is a way of creating knowledge, test your self before you event feel confident in the knowledge  
+Feedback : Don't Dodge the punch . Feedback is harsh adn uncomfortable , do not let your ego get in the way . Extract insight in the noisy data 
+Retention : do not fill  a leaky bucket, understand what you forget and why 
+Intuition : dig deep before building up. Develop your intution through play and exploration , don't res
 - **Steps to Implement Ultralearning:**
 - **Challenges and Solutions:**
 - **Reflection Questions:**
