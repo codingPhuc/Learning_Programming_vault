@@ -80,13 +80,12 @@ Actionable Steps:
 	- three way to pursue ultra learning when you do not have the time 
 		- ultra learning  part time - setting aside hours in your schedule for structure learning 
 		- Learning during break or transition - Using unemployment , summer breaks , or sabbaticals 
+		- Optimize exiting learning time - Making traditional study method  more efficient by applying ultra learning 
  - **Key Arguments:** 
-	 - make you full fill  because moment of happiness  come from hardship 
-	 - today world require a constance stream of learning 
-	 - tuition is too expensive 
-	 - technology have made it easy to learn and easy to be distracted 
-	 - helping you advance or rescue your career  
-	 - you can make time in ultra learning in 3 different way  
+	- **Work & Career Growth** – Ultralearning can accelerate promotions, help career transitions, and provide a competitive edge.
+	- **Personal Fulfillment** – Learning difficult things creates a deeper sense of achievement and purpose.
+	- **Adapting to a Changing World** – With technology evolving rapidly, the ability to **learn quickly** is becoming more important than ever.
+	 - you can make time in ultra learning in 3 different way   
 - **Real-World Applications:** 
 	- "Colby Durant" and "Vishal Maini"  both have used ultra learning to improve on their skill sheet with the former being able to recue and advance her job, and the latter the ability to switch jobs when his skill reach the desire position 
 - **Important Quotes:**
