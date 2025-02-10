@@ -66,19 +66,20 @@ Actionable Steps:
 
 - **Summary:** 
 	- ultra learning is a strategy for acquiring skills and knowledges that is both self directed  and intense 
-	- Strategy in ultra learning is a choice not a command  ultra learning is self directed  
+	- Strategy in ultra learning is a choice not a command , ultra learning is self directed  
 	- self directed mean that being in the driver sheet of a project not in the back sheet 
 	- all ultra learner took  step to maximize there learning output 
 	- realize that ultra learning will make you full file because your moment of  happiness does not come from easy pleasure but it come from overcoming an obstacles 
 	- In Today world with AI  development and skill like software engineer require a constance stream of knowledge  , it make being  mediocre a danger  
-	- Collage instead of being a free education for all have turn into a money graph which each passing year  causing those who blindly follow courses to suffer not  only financely but also academic inefficiency 
-	- going back to school is out of reach for many
-	- technology have been continuously changing and affect both our vice and virtues making us more distracted but also providing us with more accessible information 
-	- rescuing your career  ultra learning project will help you with accelerating your career and help you in economic down turn  when one specific skill will not be enough to combat the changing world the auther then list out example like "Colby Durant" and "Vishal Maini" one learn copy writing in record speed for a promotion , other yearn for passion decide to ultra learn to switch career 
+	- Collage instead of being a free education for all have turn into a money grap which each passing year  causing those who blindly follow courses to suffer not  only financially but also academic inefficiency , for the former  it due to the rising cost of tuition and for the latter it that school does not teach skill that translate well into practice for high paying job 
+	- technology have been continuously changing and affect both our vice and virtues making us more distracted but also providing us with more accessible information  some of these are : 
+		 - Free courses from Harvard , MIT , and Yale  
+		 - Space-repetition software (like Anki) to improve memory  retention 
+		 - Language learning apps , podcasts , and AI tools that help people learn faster 
+	- rescuing your career  ultra learning project will help you with accelerating your career and help you in economic down turn  when one specific skill will not be enough to combat the changing world the author then list out example like "Colby Durant" and "Vishal Maini" one learn copy writing in record speed for a promotion , other yearn for passion decide to ultra learn to switch career 
 	- three way to pursue ultra learning when you do not have the time 
-		- first is ultra learn part time give your time form work for ultra learning project 
-		- second is gap in time this can either be your time of unemployment or time like summer break 
-		- third is time already spend learning thing of studying English 
+		- ultra learning  part time - setting aside hours in your schedule for structure learning 
+		- Learning during break or transition - Using unemployment , summer breaks , or sabbaticals 
  - **Key Arguments:** 
 	 - make you full fill  because moment of happiness  come from hardship 
 	 - today world require a constance stream of learning 
