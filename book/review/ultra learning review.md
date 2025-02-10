@@ -75,7 +75,11 @@ Actionable Steps:
 	- going back to school is out of reach for many
 	- technology have been continuously changing and affect both our vice and virtues making us more distracted but also providing us with more accessible information 
 	- rescuing your career  ultra learning project will help you with accelerating your career and help you in economic down turn  when one specific skill will not be enough to combat the changing world the auther then list out example like "Colby Durant" and "Vishal Maini" one learn copy writing in record speed for a promotion , other yearn for passion decide to ultra learn to switch career 
-- **Key Arguments:** 
+	- three way to pursue ultra learning when you do not have the time 
+		- first is ultra learn part time give your time form work for ultra learning project 
+		- second is gap in time this can either be your time of unemployment or time like summer break 
+		- third is time already spend learning thing of studying English 
+ - **Key Arguments:** 
 - **Real-World Applications:**
 - **Important Quotes:**
 - **How This Applies to You:**
