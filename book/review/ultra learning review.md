@@ -133,7 +133,7 @@ Experimentation : Explore outside your comfort zone  no just from following path
 **---**
 ## **Chapter [IV]: Principle  Principle 1 Metalearning First Draw a Map
 
-- **Definition of the Principle:** 
+- **Definition of the Principle:** Meta learning is learning how thing structure , like 灶 stove in Chinese  we know that it have properties  like  ⽕ on the left-hand side to indicate that it has some relationship to fire . As a result , this show the structure in  language , meta learning on the other hand show the structure of learning 
 - **Why It’s Important:**
 - **Key Examples:** Dan Everett  in his early sixties manage to learn and understand a language that does not have key information like the name or how to pronounce and speak  .  He manage to  accomplish  this feet by  listening too another person speaking the language and writing the verb noun and  pronouns on a chart broad  . This is to demonstrate the first principle meta learning  
 - **Best Practices:**
