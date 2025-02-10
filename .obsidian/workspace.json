@@ -25,12 +25,14 @@
             "id": "641112b1f6a1d732",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "picture folder/Driving 2025-02-09 16.36.28.excalidraw.md"
+                "file": "Ish.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Driving 2025-02-09 16.36.28.excalidraw"
+              "icon": "lucide-file",
+              "title": "Ish"
             }
           },
           {
@@ -47,7 +49,8 @@
               "title": "ultra learning review"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -226,8 +230,9 @@
       }
     ]
   },
-  "active": "ec2bbee667482424",
+  "active": "641112b1f6a1d732",
   "lastOpenFiles": [
+    "Tasks to do.md",
     "conflict-files-obsidian-git.md",
     "udt.md",
     "picture folder/Driving 2025-02-09 16.39.35.excalidraw.md",
@@ -236,7 +241,6 @@
     "book/review",
     "book/Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1).pdf",
     "book/Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1) 2.pdf",
-    "Tasks to do.md",
     "Ish.md",
     "book/Fundamentals of Data Engineering Plan and Build Robust Data Systems (Joe Reis, Matt Housley) (Z-Library) (1).pdf",
     "Driving.md",
