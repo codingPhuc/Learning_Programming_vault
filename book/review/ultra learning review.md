@@ -100,7 +100,7 @@ I know now that ultra learning can help with both advancing my career and my abi
 	- being able to completed in a World Championship of Public Speaking 
 	- Meting MiChael  Gendler  
 The competition was importance because it provided a potential structure for  his ultra learning project , giving him a six mandatory qualifying speech to meet  his criterial . When seeking advice Gendler just said to seek something  scariest for him and trust what ever get in his head. Some friend gave him tips on stage present to used his body with his word to communicate, Gendler told him to make him care  
-
+de Montebello have told him the depth of his skill and how it landed him a client of his choosing over 20000$ 
 
 - **Core Learning Strategies:**
 - **Steps to Implement Ultralearning:**
