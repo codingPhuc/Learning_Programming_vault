@@ -71,7 +71,9 @@ Actionable Steps:
 	- all ultra learner took  step to maximize there learning output 
 	- realize that ultra learning will make you full file because your moment of  happiness does not come from easy pleasure but it come from overcoming an obstacles 
 	- In Today world with AI  development and skill like software engineer require a constance stream of knowledge  , it make being  mediocre a danger  
-	- Collage instead of being a free education for all have turn into a money graph which each passing year  causing those who blindly follow courses to suffer not  only financely but also knowledge
+	- Collage instead of being a free education for all have turn into a money graph which each passing year  causing those who blindly follow courses to suffer not  only financely but also academic inefficiency 
+	- going back to school is out of reach for many
+	- technology have been continuously changing and affect both our vice and virtues making us more distracted but also providing us with more accessible information 
 - **Key Arguments:** 
 - **Real-World Applications:**
 - **Important Quotes:**
