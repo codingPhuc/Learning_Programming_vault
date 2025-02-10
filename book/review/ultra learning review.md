@@ -112,7 +112,8 @@ Drill : attack your week point  , split your learning into smaller part then  dr
 Retrieval : Test to learn testing is a way of creating knowledge, test your self before you event feel confident in the knowledge  
 Feedback : Don't Dodge the punch . Feedback is harsh adn uncomfortable , do not let your ego get in the way . Extract insight in the noisy data 
 Retention : do not fill  a leaky bucket, understand what you forget and why 
-Intuition : dig deep before building up. Develop your intution through play and exploration , don't res
+Intuition : dig deep before building up. Develop your intution through play and exploration , don't recourse to cheap trick of memorization 
+Experimentation : Explore outside your comfort zone  no just from following path by other but from exploring possibilities 
 - **Steps to Implement Ultralearning:**
 - **Challenges and Solutions:**
 - **Reflection Questions:**
