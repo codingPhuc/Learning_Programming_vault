@@ -97,3 +97,7 @@ https://www.reddit.com/r/DSP/s/rkzzS6rcgY
 https://dsp.stackexchange.com/questions/29225/recommendation-for-book-writing-dsp-code-in-c
 
 https://www.reddit.com/r/embedded/s/EWTO1SuqSK 
+Embeded adio 
+https://www.reddit.com/r/embedded/s/pn9S2E1cKF
+
+https://www.reddit.com/r/DSP/s/01MV87WQKz
