@@ -79,3 +79,14 @@ Ray Tracing in One Weekend Series is great if you'd like to learn graphics while
 ChiliTomatoNoodle has hours of free advanced C++ content. Also has stuff like game and graphics programming.
 
 https://youtube.com/c/ChiliTomatoNoodle
+# embedded 
+
+do projects you enjoy, it's more about having a goal and learning the in between on the way to your goal
+
+Find an embedded product or gadget idea and go for it, it's more interesting and will be worth more on your CV to have prototypes of few ideas
+I recommend you to start from the Atmega328P. This is the microcontroller in the Arduino. You can grab a book written by Elliot Williams called MAKE: AVR Programming. You can go a long distance with this book and I have learn a lot personally.
+
+In addition to this, you can write the code in the same IDE you used for Arduino. But you need to do some modifications to work the way you want and you can find lots and lots of related videos in the web.
+
+I'm doing a post grad degree for embedded systems and right now I'm working with "Introduction to Embedded Systems: Using ANSI C and the Arduino Development Environment" from David Russell. I've only worked through a couple of pages, but it seems interesting to me, as he takes a well documented uC and circumvents the capsuling of the IDE with Standard C methods. The examples come in "standard" Arduino code and ANSI C, so that you can easily comprehend how the code works.
+## dsp
