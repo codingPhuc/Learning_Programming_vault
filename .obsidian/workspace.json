@@ -103,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,43 +194,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "36332e95ed0e20a2",
-    "type": "floating",
-    "children": [
-      {
-        "id": "07db8eb03ec56ba7",
-        "type": "window",
-        "children": [
-          {
-            "id": "8df9ea1e51066e07",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6fa39361ac96dafd",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1924,
-        "y": -165,
-        "width": 1294,
-        "height": 776,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "641112b1f6a1d732",
   "lastOpenFiles": [
+    "picture folder/IMG_0605.jpg",
+    "picture folder/IMG_0604.jpg",
+    "picture folder/IMG_0603.jpg",
+    "picture folder/IMG_0601.jpg",
+    "picture folder/IMG_0600.jpg",
+    "picture folder/IMG_0599.jpg",
+    "Note.md",
+    "Ish.md",
     "Tasks to do.md",
     "conflict-files-obsidian-git.md",
     "udt.md",
@@ -241,7 +213,6 @@
     "book/review",
     "book/Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1).pdf",
     "book/Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1) 2.pdf",
-    "Ish.md",
     "book/Fundamentals of Data Engineering Plan and Build Robust Data Systems (Joe Reis, Matt Housley) (Z-Library) (1).pdf",
     "Driving.md",
     "Untitled 5.md",
@@ -261,7 +232,6 @@
     "Learning/book learning/How to read technical books.md",
     "Learning/Canvas/Learning-System-Flow.canvas",
     "Learning/what_do_I_like_to_do/how to choose a career that you want to regret.md",
-    "Learning/what_do_I_like_to_do/how to in find a good career.md",
     "book/Programming Principles and Practice Using C++, Third Edition (Bjarne Stroustrup) (Z-Library) (1).pdf",
     "book/Chemistry-Study-Guide 1.pdf",
     "SET COURSES.canvas",
@@ -274,11 +244,6 @@
     "picture folder/Pasted image 20250119185329.png",
     "picture folder/Pasted image 20250119184659.png",
     "picture folder/Pasted image 20250119145620.png",
-    "picture folder/Pasted image 20250119143632.png",
-    "picture folder/Pasted image 20250119143526.png",
-    "picture folder/Pasted image 20250119121638.png",
-    "picture folder/Pasted image 20250119121635.png",
-    "picture folder/Pasted image 20250119090404.png",
     "Learning/practice learning skill",
     "Learning/Canvas/system_connections.canvas",
     "Canvas/Master-System-Flow.canvas",
