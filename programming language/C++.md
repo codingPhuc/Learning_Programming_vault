@@ -90,5 +90,5 @@ In addition to this, you can write the code in the same IDE you used for Arduino
 
 I'm doing a post grad degree for embedded systems and right now I'm working with "Introduction to Embedded Systems: Using ANSI C and the Arduino Development Environment" from David Russell. I've only worked through a couple of pages, but it seems interesting to me, as he takes a well documented uC and circumvents the capsuling of the IDE with Standard C methods. The examples come in "standard" Arduino code and ANSI C, so that you can easily comprehend how the code works.
 ## dsp
-
+https://www.reddit.com/r/diypedals/s/P9ufBm8uF5
 I would recommend an electrosmith daisy. They have a built in analog/ digital converter. It also has a built in library with delay lines and other usable methods. It is coded in c or c++. Hope this helps, let me know if you need any more information.
