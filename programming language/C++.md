@@ -92,5 +92,5 @@ I'm doing a post grad degree for embedded systems and right now I'm working with
 ## dsp
 https://www.reddit.com/r/diypedals/s/P9ufBm8uF5
 I would recommend an electrosmith daisy. They have a built in analog/ digital converter. It also has a built in library with delay lines and other usable methods. It is coded in c or c++. Hope this helps, let me know if you need any more information.
-
+https://www.reddit.com/r/DSP/s/443tIkDdcK
 https://www.reddit.com/r/DSP/s/rkzzS6rcgY
