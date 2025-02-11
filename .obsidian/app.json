@@ -1,5 +1,6 @@
 {
   "attachmentFolderPath": "picture folder",
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "defaultViewMode": "preview"
 }
