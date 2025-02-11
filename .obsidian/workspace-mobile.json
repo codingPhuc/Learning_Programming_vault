@@ -123,12 +123,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note.md",
+                "file": "programming language/C++.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Note"
+              "title": "C++"
             }
           }
         ],
@@ -160,7 +160,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Ish",
+            "query": "C++",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": true,
@@ -197,7 +197,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "889387ff38d23072",
@@ -265,8 +265,8 @@
   },
   "active": "6463eb68368786ea",
   "lastOpenFiles": [
-    "Advance state management.md",
     "Note.md",
+    "Advance state management.md",
     "picture folder/IMG_0601.jpg",
     "picture folder/IMG_0603.jpg",
     "picture folder/IMG_0599.jpg",
