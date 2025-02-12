@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ish.md",
+                "file": "programming language/C++.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ish"
+              "title": "C++"
             }
           },
           {
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ish",
+                "query": "C++",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,6 +197,7 @@
   },
   "active": "641112b1f6a1d732",
   "lastOpenFiles": [
+    "Ish.md",
     "picture folder/IMG_0605.jpg",
     "picture folder/IMG_0604.jpg",
     "picture folder/IMG_0603.jpg",
@@ -203,7 +205,6 @@
     "picture folder/IMG_0600.jpg",
     "picture folder/IMG_0599.jpg",
     "Note.md",
-    "Ish.md",
     "Tasks to do.md",
     "conflict-files-obsidian-git.md",
     "udt.md",
@@ -243,7 +244,6 @@
     "picture folder/Pasted image 20250119185345.png",
     "picture folder/Pasted image 20250119185329.png",
     "picture folder/Pasted image 20250119184659.png",
-    "picture folder/Pasted image 20250119145620.png",
     "Learning/practice learning skill",
     "Learning/Canvas/system_connections.canvas",
     "Canvas/Master-System-Flow.canvas",
