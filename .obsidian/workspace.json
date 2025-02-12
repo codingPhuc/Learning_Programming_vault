@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning thing that interest me/programming language/C++/Learning Road Maps.md",
+                "file": "Learning thing that interest me/programming language/C++/learnCpp/0.2 — Introduction to programs and programming languages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning Road Maps"
+              "title": "0.2 — Introduction to programs and programming languages"
             }
           },
           {
@@ -208,10 +208,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "641112b1f6a1d732",
+  "active": "ec2bbee667482424",
   "lastOpenFiles": [
-    "Learning thing that interest me/programming language/C++/Untitled 1.md",
+    "Learning thing that interest me/programming language/C++/learnCpp",
     "Learning thing that interest me/programming language/C++/Learning Road Maps.md",
+    "Learning thing that interest me/programming language/C++/learnCpp/0.2 — Introduction to programs and programming languages.md",
     "Learning thing that interest me/programming language/C++/C++.md",
     "Learning thing that interest me/Embeded engineering.md",
     "learning block.md",
@@ -246,7 +247,6 @@
     "udt.md",
     "picture folder/Driving 2025-02-09 16.39.35.excalidraw.md",
     "picture folder/Driving 2025-02-09 16.36.28.excalidraw.md",
-    "book/review/ultra learning review.md",
     "book/review",
     "book/Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1).pdf",
     "book/Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1) 2.pdf",
