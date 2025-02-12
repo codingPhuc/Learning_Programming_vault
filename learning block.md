@@ -44,7 +44,7 @@ using the  10  percentage rule to know the amount of time
 ### amount  of time 
 The time it takes to learn C++ varies significantly depending on the individual's background, experience, and the depth of knowledge they aim to achieve. Here's a summary of the insights provided by various users:
 
-1. **Basic Proficiency**:
+4. **Basic Proficiency**:
     
     - **3 months**: To start making non-trivial programs.
         
@@ -56,25 +56,25 @@ The time it takes to learn C++ varies significantly depending on the individual'
         
     - **5 years**: To feel competent in optimizing, debugging, and concurrency.
         
-2. **Advanced Proficiency**:
+5. **Advanced Proficiency**:
     
     - **10 years**: To consistently offer good advice and spot problems in others' code.
         
     - **20+ years**: Still learning new things, though less frequently.
         
-3. **General Consensus**:
+6. **General Consensus**:
     
     - Many users with decades of experience (25-30 years) still feel they are learning.
         
     - The language's complexity and continuous evolution mean that learning never truly ends.
         
-4. **Initial Learning Curve**:
+7. **Initial Learning Curve**:
     
     - **3-4 months**: To get a good grip on the basics.
         
     - **2 years**: To begin understanding what's going on under the hood.
         
-5. **Continuous Learning**:
+8. **Continuous Learning**:
     
     - The language is vast, and even basic concepts like iostream are deep.
         
