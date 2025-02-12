@@ -18,11 +18,8 @@
 
 - "Programming: Principles and Practice Using C++" by Bjarne Stroustrup
 ## coding exercise 
-
-
 Exercise
 https://exercism.org/
-
 https://medium.com/@light-city/35k-star-stories-about-c-plus-plus-step-by-step-learning-c8cd51b5a75
 ### Sites to Avoid
 
@@ -86,41 +83,6 @@ https://medium.com/@light-city/35k-star-stories-about-c-plus-plus-step-by-step-l
 
 - Use the same IDE as Arduino with modifications.
 - Explore related videos online.
-
-## Computer Vision
-
-### Learning Path
-
-1. **Learn the Necessary Math**
-    - Linear Algebra: Matrices, homogeneous coordinates, linear mappings.
-    - Calculus: Derivatives and limits.
-    - Parallel Computing: OpenMP, CUDA.
-
-2. **Study Classical Computer Vision**
-    - Understand how cameras work and fundamental image processing concepts.
-
-3. **Learn Deep Learning for Computer Vision**
-    - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
-    - [Deep Learning Specialization by Andrew Ng on Coursera](https://www.coursera.org/specializations/deep-learning)
-    - [Deep Learning with PyTorch Book](https://www.deeplearningwithpytorch.com/)
-
-4. **Follow Structured Learning Resources**
-    - [First Principles of Computer Vision (YouTube Channel)](https://www.youtube.com/c/FirstPrinciplesofComputerVision)
-    - [Computer Vision: Algorithms and Applications by Richard Szeliski](https://szeliski.org/Book/download.php)
-
-5. **Get Hands-On with OpenCV and Practical Projects**
-    - Start experimenting with OpenCV tutorials.
-    - Work on real projects (e.g., object detection using YOLO).
-    - Explore [Fast.ai's deep learning course](https://www.fast.ai/).
-
-6. **Importance of Proper Data Management**
-    - Learn how to structure a machine learning project, label data, and manage datasets effectively.
-
-### Key Takeaways
-
-- Start with math and theory for a deep understanding.
-- Begin with OpenCV and deep learning models for practical experience.
-- Having a project idea can accelerate learning.
 
 ## Projects
 
@@ -286,137 +248,6 @@ If you’re learning C as part of this journey you can do a lot in a more comfor
 
 Upvote28DownvoteReplyreplyAwardShareShare
 
-[](https://alb.reddit.com/cr?za=XYsBGW8F8x7ypsPP1ggAQjjKPkkfpTG3wN-cOTgLtTVRFYZXuzaKKGMuqANP-BdxaV05EYtd1CYCdw5GbZ7k0XuAbAJVsNufsnTlni9IR1fxD5TqaL6KYsKu7LBGDnF_Sy9kjEkVpRWtikFZ4j8_PXx1Ov9PCqtbxIifOJcMAPP4cMpDBlvTWT0JPGS0eagJXU3NmkZ2tf-SGBObUQTrHBxwI_qMC8sGrogjSic2yAgKjV850OFwQz8xU9q-Fhb8hNSDHVcyVVoT3Ne_qDbqJicev7TghSffLGzlpD0Expxoyamb1jBe03p00_yY1GY4NR1l0oy1bIUs7eaCzmIPLQnpWpANdgKcoCImMzYi84Ef1tP_lhU86hUHJrbb7zK8q_JIY7J_8nQytIy7ao8AZrZHtfaZL3Y0P3hQ3X1bE6fLu9Y-XPwoaSBaD_DArb6ujF2FpRk6Ff-GBloASnjMOhwE3rmHpVw7rKd7&zp=jnLH_epFtpOQwSyfJNtAo8L4nt03isC4jJz8_EEgUq6kYHNw87zQ1tZ3d1TIeafLdYlf1QhUnRcoFJiLcWhO9walbIYZpYM8xcXm2s-jLL1S8TGVgVJxBk509BSbwNwrx2lkgn8JA0X3Ia1qEmih_qh4XaPHXCZLaylAtskYUfI2gXZ7U97peCIioVobKc_d-ZoABhflq_kOexn4udJQ-4C8HRUgnfa6qqSr4WkswarH6ZRoN8bBya0L6RRPu37VDW6a98jV0hWRZB6guKtpAK5iEdv6SaoxF_LTMX0VbVKYkNi5MJMhtw3mMFCE7NCNMa8zTwA0gEVyJ9XTfiV4zV8STl6ZwXta7tbhia0ncw)
-
-[![u/monday_com avatar](https://styles.redditmedia.com/t5_a0nhm/styles/profileIcon_fbavgymfdc1b1.png?width=48&height=48&frame=1&auto=webp&crop=48:48,smart&s=7fd9e1681cce91907e61da74a8fafb6582887f98)monday_com](https://www.reddit.com/user/monday_com/)•[Promoted](https://alb.reddit.com/cr?za=XYsBGW8F8x7ypsPP1ggAQjjKPkkfpTG3wN-cOTgLtTVRFYZXuzaKKGMuqANP-BdxaV05EYtd1CYCdw5GbZ7k0XuAbAJVsNufsnTlni9IR1fxD5TqaL6KYsKu7LBGDnF_Sy9kjEkVpRWtikFZ4j8_PXx1Ov9PCqtbxIifOJcMAPP4cMpDBlvTWT0JPGS0eagJXU3NmkZ2tf-SGBObUQTrHBxwI_qMC8sGrogjSic2yAgKjV850OFwQz8xU9q-Fhb8hNSDHVcyVVoT3Ne_qDbqJicev7TghSffLGzlpD0Expxoyamb1jBe03p00_yY1GY4NR1l0oy1bIUs7eaCzmIPLQnpWpANdgKcoCImMzYi84Ef1tP_lhU86hUHJrbb7zK8q_JIY7J_8nQytIy7ao8AZrZHtfaZL3Y0P3hQ3X1bE6fLu9Y-XPwoaSBaD_DArb6ujF2FpRk6Ff-GBloASnjMOhwE3rmHpVw7rKd7&zp=jnLH_epFtpOQwSyfJNtAo8L4nt03isC4jJz8_EEgUq6kYHNw87zQ1tZ3d1TIeafLdYlf1QhUnRcoFJiLcWhO9walbIYZpYM8xcXm2s-jLL1S8TGVgVJxBk509BSbwNwrx2lkgn8JA0X3Ia1qEmih_qh4XaPHXCZLaylAtskYUfI2gXZ7U97peCIioVobKc_d-ZoABhflq_kOexn4udJQ-4C8HRUgnfa6qqSr4WkswarH6ZRoN8bBya0L6RRPu37VDW6a98jV0hWRZB6guKtpAK5iEdv6SaoxF_LTMX0VbVKYkNi5MJMhtw3mMFCE7NCNMa8zTwA0gEVyJ9XTfiV4zV8STl6ZwXta7tbhia0ncw)[](https://alb.reddit.com/cr?za=XYsBGW8F8x7ypsPP1ggAQjjKPkkfpTG3wN-cOTgLtTVRFYZXuzaKKGMuqANP-BdxaV05EYtd1CYCdw5GbZ7k0XuAbAJVsNufsnTlni9IR1fxD5TqaL6KYsKu7LBGDnF_Sy9kjEkVpRWtikFZ4j8_PXx1Ov9PCqtbxIifOJcMAPP4cMpDBlvTWT0JPGS0eagJXU3NmkZ2tf-SGBObUQTrHBxwI_qMC8sGrogjSic2yAgKjV850OFwQz8xU9q-Fhb8hNSDHVcyVVoT3Ne_qDbqJicev7TghSffLGzlpD0Expxoyamb1jBe03p00_yY1GY4NR1l0oy1bIUs7eaCzmIPLQnpWpANdgKcoCImMzYi84Ef1tP_lhU86hUHJrbb7zK8q_JIY7J_8nQytIy7ao8AZrZHtfaZL3Y0P3hQ3X1bE6fLu9Y-XPwoaSBaD_DArb6ujF2FpRk6Ff-GBloASnjMOhwE3rmHpVw7rKd7&zp=jnLH_epFtpOQwSyfJNtAo8L4nt03isC4jJz8_EEgUq6kYHNw87zQ1tZ3d1TIeafLdYlf1QhUnRcoFJiLcWhO9walbIYZpYM8xcXm2s-jLL1S8TGVgVJxBk509BSbwNwrx2lkgn8JA0X3Ia1qEmih_qh4XaPHXCZLaylAtskYUfI2gXZ7U97peCIioVobKc_d-ZoABhflq_kOexn4udJQ-4C8HRUgnfa6qqSr4WkswarH6ZRoN8bBya0L6RRPu37VDW6a98jV0hWRZB6guKtpAK5iEdv6SaoxF_LTMX0VbVKYkNi5MJMhtw3mMFCE7NCNMa8zTwA0gEVyJ9XTfiV4zV8STl6ZwXta7tbhia0ncw)
-
-[The feeling of not having enough time to finish all your tasks is real! Well, with monday.com’s work management platform, get more done in less time with automations, real-time communication, and notifications. Smash that done button! Try now.](https://alb.reddit.com/cr?za=XYsBGW8F8x7ypsPP1ggAQjjKPkkfpTG3wN-cOTgLtTVRFYZXuzaKKGMuqANP-BdxaV05EYtd1CYCdw5GbZ7k0XuAbAJVsNufsnTlni9IR1fxD5TqaL6KYsKu7LBGDnF_Sy9kjEkVpRWtikFZ4j8_PXx1Ov9PCqtbxIifOJcMAPP4cMpDBlvTWT0JPGS0eagJXU3NmkZ2tf-SGBObUQTrHBxwI_qMC8sGrogjSic2yAgKjV850OFwQz8xU9q-Fhb8hNSDHVcyVVoT3Ne_qDbqJicev7TghSffLGzlpD0Expxoyamb1jBe03p00_yY1GY4NR1l0oy1bIUs7eaCzmIPLQnpWpANdgKcoCImMzYi84Ef1tP_lhU86hUHJrbb7zK8q_JIY7J_8nQytIy7ao8AZrZHtfaZL3Y0P3hQ3X1bE6fLu9Y-XPwoaSBaD_DArb6ujF2FpRk6Ff-GBloASnjMOhwE3rmHpVw7rKd7&zp=jnLH_epFtpOQwSyfJNtAo8L4nt03isC4jJz8_EEgUq6kYHNw87zQ1tZ3d1TIeafLdYlf1QhUnRcoFJiLcWhO9walbIYZpYM8xcXm2s-jLL1S8TGVgVJxBk509BSbwNwrx2lkgn8JA0X3Ia1qEmih_qh4XaPHXCZLaylAtskYUfI2gXZ7U97peCIioVobKc_d-ZoABhflq_kOexn4udJQ-4C8HRUgnfa6qqSr4WkswarH6ZRoN8bBya0L6RRPu37VDW6a98jV0hWRZB6guKtpAK5iEdv6SaoxF_LTMX0VbVKYkNi5MJMhtw3mMFCE7NCNMa8zTwA0gEVyJ9XTfiV4zV8STl6ZwXta7tbhia0ncw)
-
-[](https://alb.reddit.com/cr?za=XYsBGW8F8x7ypsPP1ggAQjjKPkkfpTG3wN-cOTgLtTVRFYZXuzaKKGMuqANP-BdxaV05EYtd1CYCdw5GbZ7k0XuAbAJVsNufsnTlni9IR1fxD5TqaL6KYsKu7LBGDnF_Sy9kjEkVpRWtikFZ4j8_PXx1Ov9PCqtbxIifOJcMAPP4cMpDBlvTWT0JPGS0eagJXU3NmkZ2tf-SGBObUQTrHBxwI_qMC8sGrogjSic2yAgKjV850OFwQz8xU9q-Fhb8hNSDHVcyVVoT3Ne_qDbqJicev7TghSffLGzlpD0Expxoyamb1jBe03p00_yY1GY4NR1l0oy1bIUs7eaCzmIPLQnpWpANdgKcoCImMzYi84Ef1tP_lhU86hUHJrbb7zK8q_JIY7J_8nQytIy7ao8AZrZHtfaZL3Y0P3hQ3X1bE6fLu9Y-XPwoaSBaD_DArb6ujF2FpRk6Ff-GBloASnjMOhwE3rmHpVw7rKd7&zp=jnLH_epFtpOQwSyfJNtAo8L4nt03isC4jJz8_EEgUq6kYHNw87zQ1tZ3d1TIeafLdYlf1QhUnRcoFJiLcWhO9walbIYZpYM8xcXm2s-jLL1S8TGVgVJxBk509BSbwNwrx2lkgn8JA0X3Ia1qEmih_qh4XaPHXCZLaylAtskYUfI2gXZ7U97peCIioVobKc_d-ZoABhflq_kOexn4udJQ-4C8HRUgnfa6qqSr4WkswarH6ZRoN8bBya0L6RRPu37VDW6a98jV0hWRZB6guKtpAK5iEdv6SaoxF_LTMX0VbVKYkNi5MJMhtw3mMFCE7NCNMa8zTwA0gEVyJ9XTfiV4zV8STl6ZwXta7tbhia0ncw)
-
-[Sign Up](https://alb.reddit.com/cr?za=XYsBGW8F8x7ypsPP1ggAQjjKPkkfpTG3wN-cOTgLtTVRFYZXuzaKKGMuqANP-BdxaV05EYtd1CYCdw5GbZ7k0XuAbAJVsNufsnTlni9IR1fxD5TqaL6KYsKu7LBGDnF_Sy9kjEkVpRWtikFZ4j8_PXx1Ov9PCqtbxIifOJcMAPP4cMpDBlvTWT0JPGS0eagJXU3NmkZ2tf-SGBObUQTrHBxwI_qMC8sGrogjSic2yAgKjV850OFwQz8xU9q-Fhb8hNSDHVcyVVoT3Ne_qDbqJicev7TghSffLGzlpD0Expxoyamb1jBe03p00_yY1GY4NR1l0oy1bIUs7eaCzmIPLQnpWpANdgKcoCImMzYi84Ef1tP_lhU86hUHJrbb7zK8q_JIY7J_8nQytIy7ao8AZrZHtfaZL3Y0P3hQ3X1bE6fLu9Y-XPwoaSBaD_DArb6ujF2FpRk6Ff-GBloASnjMOhwE3rmHpVw7rKd7&zp=jnLH_epFtpOQwSyfJNtAo8L4nt03isC4jJz8_EEgUq6kYHNw87zQ1tZ3d1TIeafLdYlf1QhUnRcoFJiLcWhO9walbIYZpYM8xcXm2s-jLL1S8TGVgVJxBk509BSbwNwrx2lkgn8JA0X3Ia1qEmih_qh4XaPHXCZLaylAtskYUfI2gXZ7U97peCIioVobKc_d-ZoABhflq_kOexn4udJQ-4C8HRUgnfa6qqSr4WkswarH6ZRoN8bBya0L6RRPu37VDW6a98jV0hWRZB6guKtpAK5iEdv6SaoxF_LTMX0VbVKYkNi5MJMhtw3mMFCE7NCNMa8zTwA0gEVyJ9XTfiV4zV8STl6ZwXta7tbhia0ncw)
-
-[monday.com](https://alb.reddit.com/cr?za=XYsBGW8F8x7ypsPP1ggAQjjKPkkfpTG3wN-cOTgLtTVRFYZXuzaKKGMuqANP-BdxaV05EYtd1CYCdw5GbZ7k0XuAbAJVsNufsnTlni9IR1fxD5TqaL6KYsKu7LBGDnF_Sy9kjEkVpRWtikFZ4j8_PXx1Ov9PCqtbxIifOJcMAPP4cMpDBlvTWT0JPGS0eagJXU3NmkZ2tf-SGBObUQTrHBxwI_qMC8sGrogjSic2yAgKjV850OFwQz8xU9q-Fhb8hNSDHVcyVVoT3Ne_qDbqJicev7TghSffLGzlpD0Expxoyamb1jBe03p00_yY1GY4NR1l0oy1bIUs7eaCzmIPLQnpWpANdgKcoCImMzYi84Ef1tP_lhU86hUHJrbb7zK8q_JIY7J_8nQytIy7ao8AZrZHtfaZL3Y0P3hQ3X1bE6fLu9Y-XPwoaSBaD_DArb6ujF2FpRk6Ff-GBloASnjMOhwE3rmHpVw7rKd7&zp=jnLH_epFtpOQwSyfJNtAo8L4nt03isC4jJz8_EEgUq6kYHNw87zQ1tZ3d1TIeafLdYlf1QhUnRcoFJiLcWhO9walbIYZpYM8xcXm2s-jLL1S8TGVgVJxBk509BSbwNwrx2lkgn8JA0X3Ia1qEmih_qh4XaPHXCZLaylAtskYUfI2gXZ7U97peCIioVobKc_d-ZoABhflq_kOexn4udJQ-4C8HRUgnfa6qqSr4WkswarH6ZRoN8bBya0L6RRPu37VDW6a98jV0hWRZB6guKtpAK5iEdv6SaoxF_LTMX0VbVKYkNi5MJMhtw3mMFCE7NCNMa8zTwA0gEVyJ9XTfiV4zV8STl6ZwXta7tbhia0ncw)
-
-[
-
-![Thumbnail image: The feeling of not having enough time to finish all your tasks is real! Well, with monday.com’s work management platform, get more done in less time with automations, real-time communication, and notifications. Smash that done button! Try now.](https://external-preview.redd.it/vF8XXoyMXTwzQoZCij27iR2X9do6Cg0pGRawdZ4BKtk.jpg?auto=webp&s=ed0857b0f3ae3f9fdb91e13c3cbbeb0175bfe612)
-
-](https://alb.reddit.com/cr?za=XYsBGW8F8x7ypsPP1ggAQjjKPkkfpTG3wN-cOTgLtTVRFYZXuzaKKGMuqANP-BdxaV05EYtd1CYCdw5GbZ7k0XuAbAJVsNufsnTlni9IR1fxD5TqaL6KYsKu7LBGDnF_Sy9kjEkVpRWtikFZ4j8_PXx1Ov9PCqtbxIifOJcMAPP4cMpDBlvTWT0JPGS0eagJXU3NmkZ2tf-SGBObUQTrHBxwI_qMC8sGrogjSic2yAgKjV850OFwQz8xU9q-Fhb8hNSDHVcyVVoT3Ne_qDbqJicev7TghSffLGzlpD0Expxoyamb1jBe03p00_yY1GY4NR1l0oy1bIUs7eaCzmIPLQnpWpANdgKcoCImMzYi84Ef1tP_lhU86hUHJrbb7zK8q_JIY7J_8nQytIy7ao8AZrZHtfaZL3Y0P3hQ3X1bE6fLu9Y-XPwoaSBaD_DArb6ujF2FpRk6Ff-GBloASnjMOhwE3rmHpVw7rKd7&zp=jnLH_epFtpOQwSyfJNtAo8L4nt03isC4jJz8_EEgUq6kYHNw87zQ1tZ3d1TIeafLdYlf1QhUnRcoFJiLcWhO9walbIYZpYM8xcXm2s-jLL1S8TGVgVJxBk509BSbwNwrx2lkgn8JA0X3Ia1qEmih_qh4XaPHXCZLaylAtskYUfI2gXZ7U97peCIioVobKc_d-ZoABhflq_kOexn4udJQ-4C8HRUgnfa6qqSr4WkswarH6ZRoN8bBya0L6RRPu37VDW6a98jV0hWRZB6guKtpAK5iEdv6SaoxF_LTMX0VbVKYkNi5MJMhtw3mMFCE7NCNMa8zTwA0gEVyJ9XTfiV4zV8STl6ZwXta7tbhia0ncw)
-
-# Community Info Section
-
-[
-
-r/embedded
-
-](https://www.reddit.com/r/embedded)
-
-Join
-
-Embedded
-
-This sub is dedicated to discussion and questions about embedded systems: "a controller programmed and controlled by a real-time operating system (RTOS) with a dedicated function within a larger mechanical or electrical system, often with real-time computing constraints."
-
-Show more
-
-Created Jun 9, 2008
-
-Public
-
-**199K**Members
-
-**36** Online
-
-**Top 1%**[Rank by size](https://www.reddit.com/best/communities/12/#t5_2qins/) 
-
----
-
-## 
-
-User flair
-
-konadioda-muda-muda
-
----
-
-## 
-
-Community Bookmarks
-
-[Wiki](https://www.reddit.com/r/embedded/wiki/index/)
-
----
-
-## 
-
-Rules
-
-- 1
-    
-    ## Be civil
-    - 2
-    
-    ## Submissions must be on-topic
-    - 3
-    
-    ## Ask question in title
-    - 4
-    
-    ## No self-promotion
-    - 5
-    
-    ## No low-effort / meme submissions
-    
-
----
-
-## 
-
-Moderators
-
-[Message Mods](https://www.reddit.com/message/compose?to=r/embedded)
-
-- ![u/1Davide avatar](https://external-preview.redd.it/jBBU4RKGOdeGDdNg7ASVaroluSigCRBmxkgmZAKZfbE.png?width=128&height=128&crop=smart&auto=webp&s=19f90fd53f32945eb647c0641f9870161071e495)[u/1Davide](https://www.reddit.com/user/1Davide/) 
-    
-    PIC18F
-    
-    Davide Andrea
-    
-- ![u/duane11583 avatar](https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png)[u/duane11583](https://www.reddit.com/user/duane11583/)
-    
-- ![u/EmbeddedSwDev avatar](https://styles.redditmedia.com/t5_cnctgk/styles/profileIcon_5ihtawsr31ud1.jpg?width=128&height=128&frame=1&auto=webp&crop=128:128,smart&s=c8ef39cbadfb7d99b0cd5b175aa2e7bb4902b7e2)[u/EmbeddedSwDev](https://www.reddit.com/user/EmbeddedSwDev/)
-    
-- ![u/AutoModerator avatar](https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=128&height=128&frame=1&auto=webp&crop=128:128,smart&s=6848e39a299a5ba62f4ee3a39519fb9efcd669b8)[u/AutoModerator](https://www.reddit.com/user/AutoModerator/)
-    
-- ![u/RepostSleuthBot avatar](https://styles.redditmedia.com/t5_vjmiw/styles/profileIcon_2djxr4vmmgu91.png?width=128&height=128&frame=1&auto=webp&crop=128:128,smart&s=b20cfde2609d04a1f4aed00afa5c0c91ec1ad6fe)[u/RepostSleuthBot](https://www.reddit.com/user/RepostSleuthBot/)Repost Sleuth Bot
-    
-- ![u/auto-modmail avatar](https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png)[u/auto-modmail](https://www.reddit.com/user/auto-modmail/)
-    
-
-[View all moderators](https://www.reddit.com/mod/embedded/moderators/)
-
----
-
-## 
-
-Installed Apps
-
-- [  
-    ](https://developers.reddit.com/apps/auto-modmail)
-## dsp
-https://www.reddit.com/r/diypedals/s/P9ufBm8uF5
-I would recommend an electrosmith daisy. They have a built in analog/ digital converter. It also has a built in library with delay lines and other usable methods. It is coded in c or c++. Hope this helps, let me know if you need any more information.
-https://www.reddit.com/r/DSP/s/443tIkDdcK
-https://www.reddit.com/r/DSP/s/rkzzS6rcgY
-https://dsp.stackexchange.com/questions/29225/recommendation-for-book-writing-dsp-code-in-c
-
-https://www.reddit.com/r/embedded/s/EWTO1SuqSK 
-Embeded adio 
-https://www.reddit.com/r/embedded/s/pn9S2E1cKF
-
-https://www.reddit.com/r/DSP/s/01MV87WQKz 
-
 #  Project  
 https://github.com/arpit-omprakash/100ProjectsOfCode  
 https://github.com/Light-City/CPlusPlusThings 
@@ -498,15 +329,7 @@ System design questions are among the most challenging aspects of embedded syste
 - **Amazon and Google interviews** can feel disconnected from embedded work, focusing more on leadership principles or generic coding challenges.
 - **Meta's AR/VR division** appears more aligned with embedded system-focused questions.
 - Some candidates express **ethical concerns** regarding certain companies and their business practices.
-ince you have made it to the end of this long answer, the following are some bonus resources for you.  
-[Design a smart garden watering system with multiple zones. - This Interview question was answered by one of our top instructors.](https://vimeo.com/716335512/0e7e023093)
-
-[This thread on Reddit lists](https://old.reddit.com/r/embedded/comments/bqoqpr/what_are_some_more_obscure_interview_questions/eo6t7gc/) down some more interview questions for Embedded.  
-[This post on leetcode](https://leetcode.com/discuss/interview-experience/974067/nda-microsoft-amazon-senior-software-engineer-embedded-software-india-offers) discusses the Embedded interview process at Amazon and Microsoft in great detail.
-
-I hope these resources will help you.
-
-Are you looking to [boost your Embedded technical interview preparation?](https://www.interviewkickstart.com/courses/embedded-software-engineering-interview-masterclass/?utm_source=Reddit_PM&utm_medium=O9&utm_campaign=post&utm_term=big_tech_embedded_system_design_interview&utm_content=)
+ince you have made it to the end of this long answer, the following are some bonus resources for 
 # have a fang jobs 
 u/AKAtheHat 
 u/Standard_Tackle_4041
