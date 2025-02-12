@@ -85,7 +85,7 @@ https://medium.com/@light-city/35k-star-stories-about-c-plus-plus-step-by-step-l
 - Explore related videos online.
 
 ## Projects
-
+- https://github.com/codecrafters-io/build-your-own-x 
 - [100 Projects of Code](https://github.com/arpit-omprakash/100ProjectsOfCode)
 - [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
 
