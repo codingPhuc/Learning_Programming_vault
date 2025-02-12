@@ -5,7 +5,8 @@ www.learncpp.com
 
 is the best free tutorial out there. (reason) It covers everything from the absolute basics to advanced topics. It follows modern and best practice guidelines.
 
-www.studyplan.dev/cpp is a (very) close second, even surpassing learncpp in the breath of topics covered. It covers quite a few things that learncpp does not, but does not have just as much detail/in depth explanations on the shared parts. Don't be fooled by the somewhat strange AI generated images. The author just had a little fun. Just ignore them.
+www.studyplan.dev/cpp is a (very) close second, even surpassing learncpp in the breath of topics covered. It covers quite a few things that learncpp does not, but does not have just as much detail/in depth explana
+tions on the shared parts. Don't be fooled by the somewhat strange AI generated images. The author just had a little fun. Just ignore them.
 
  www.cppreference.com
 
