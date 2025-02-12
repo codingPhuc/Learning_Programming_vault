@@ -108,6 +108,63 @@ https://github.com/arpit-omprakash/100ProjectsOfCode
 https://github.com/Light-City/CPlusPlusThings 
 
 ## interview question 
+There are very limited interview resources for Embedded systems. This fact becomes evident when you compare the Glassdoor interview experiences for job profiles like Software Engineer or even Data Scientist with Embedded Software / System Engineer. Due to this, many candidates go unprepared for the interviews, so the success rate is low.
+
+My job allows me to interact with Embedded hiring managers from big tech companies such as Apple, Google, Amazon etc. and gather the information that can help candidates better help with their interviews. A typical interview process in FAANG companies looks something like the below.
+
+**Initial Phone Screening**  
+**>** A discussion could also be about your experience and key projects.  
+> Programming questions(DSA / C), and fundamental questions related to the embedded domain.
+
+**Virtual On-site: 4-6 Interviews**  
+**>** 2-3 rounds of leetcode-style coding rounds. - Data Structures, Algorithms (LC Medium-Hard)
+
+> 2-3 on domain knowledge from x-functional teams you are going to work with - X-functional - Embedded OS/C++/Kernal related concepts, Embedded System Design, Microcontroller Units, etc.
+
+**Behavioural Round(On-site)**
+
+> Questions related to your job experience, Discussions on past projects, and Open-ended questions to gauge if you're a "good fit."
+
+Breaking the interview topics down into the topic level to give you a better idea.
+
+**DSA**  
+> Companies like Google and Amazon like to ask DSA questions in the interviews. It could in the phone screen or during the virtual on-site interviews. The most important topics of you will be - Arrays, String, Bit manipulation, LinkedList and pointers. You can refer to platforms like leetcode and solve Medium and some Hard level questions.
+
+> If you have time you can practice a few questions basic questions on Trees, Graphs and Dynamic programming. No need to go into every detail.  
+**Listing down a few more important topics in Embedded Domain -**
+
+**Embedded System Design**  
+Design for Resilience and testability, Resource Constraints of Embedded Systems, Finite State Machines, Resilience and Performance of Embedded Systems, Logging into Embedded Systems
+
+**Programming for Embedded Devices - Embedded C**
+
+Bit Manipulation - Embedded specific use cases, Byte Ordering, Pointers, Number Representation, Aggregate Data Types, Efficient Coding
+
+**Microcontroller Units**
+
+ARM-Cortex Architecture, Modern CPU Architecture, Registers and Modes, Interrupts and Exceptions, Memory Layout, Calling Convention, and Code Execution, Power Save
+
+**Embedded OS**
+
+Booting, Security Issues in Boot Loaders, U-Boot, Exceptions, Concurrency and Synchronization, Critical Section and Shared Resources, InterProcess Synchronisation and Communication, Reentrancy  
+In the end, clearing interviews are just going to be about practice, practice practice - There is no shortcut for practice but there could be an efficient way of doing practice.  
+If you’re unsure about how to start your prep for your next Embedded Software Engineering, let Interview Kickstart be your guide. As pioneers in the [field of technical interview prep](https://www.interviewkickstart.com/courses/embedded-software-engineering-interview-masterclass/?utm_source=Reddit_PM&utm_medium=O9&utm_campaign=post&utm_term=want_to_work_at_faang_but_for_embedded_so_what_do&utm_content=), we have trained hundreds of experienced engineers to crack the toughest interviews and land jobs at their dream companies, like Google & Apple.
+
+If you wish to know more you can check out my answer here on quora for the typical FAANG interview questions that can use to practice.
+
+[https://www.quora.com/What-are-some-good-job-interview-questions-for-an-embedded-system-engineer-at-FAANG-companies/answer/Abhinav-Rawat-11](https://www.quora.com/What-are-some-good-job-interview-questions-for-an-embedded-system-engineer-at-FAANG-companies/answer/Abhinav-Rawat-11)
+'m not someone doing embedded systems in FAANG, but I interviewed for entry-level positions with Apple, Facebook Reality Labs (before they became Reality Labs), and Microsoft before rejecting an offer from Apple to go back to graduate school for a PhD. There was an incredible amount of variation between the interview cycles at Apple, especially since I interviewed with multiple teams and it felt like every team had its own way of doing things. Usually, the recruiter will do an excellent job of telling you *exactly* what to expect though. I experienced the recruiters being quite helpful in this way at Apple and FRL, but the Microsoft one was a lot less helpful. I *strongly* recommend checking out Glassdoor or Blind (anonymous professional network, some of which is public and has some useful interview-related information).
+
+I'll describe two interview loops at Apple, one interview loop at Reality Labs, and one interview loop at Microsoft.
+
+Apple Interview Loop #1: First round involved an informal phone screen with a recruiter and a more formal, technical phone screen with a member of an embedded systems team that worked on haptics at Apple (within the HID group I believe). This was followed by a some take-home assignments, one that was designing a basic program (which I had to also test) that involved sorting and manipulating data structures such as arrays and another that involved looking at ~200 lines of existing code and figuring out where mistakes or undesirable coding practices have taken place. This was then followed by another technical phone screen with the same member of the team from before, and talking through both assignments. This was then followed by an all-day interview that entailed questions about haptics, questions about timing in various aspects of embedded systems, component selection, basic programming problems involving various data types, signed and unsigned, some compiler trivia, basic communication protocols, and questions related to basic circuits involved pull-ups, pull-downs, op amps, and so on. All coding portions were done in coderpad if I remember correctly. This all felt extremely tailored to the particular role at Apple. This was the loop that I got an offer from.
+
+Apple Interview Loop #2: Similar to the first loop with the haptics team - started with an informal phone screen and then a more formal, technical phone screen with a member from a different team that I believe did something related to MacOS software. This was then followed by a Leetcode-like round in coderpad, which went rather terribly since I ended up fixating on the wrong parts of the problem (I honestly don't even remember the problem at this point) and wasted a lot of time. I wasn't asked to proceed with the loop.
+
+Reality Labs Interview Loop: Began with a technical phone screen with a recruiter, though it didn't really feel technical at all. I was asked questions about my resume and then some generic questions about specific things that I'm sure the recruiter just had written down somewhere, such as what specific communication protocols like I2C or SPI entailed. This was followed by a technical phone screen + coderpad-like website that revolved around a question that felt like a Leetcode hard and involved probably the least well-meaning interviewer I've ever had. The question itself revolved around manipulating a portion of a filesystem (think something like SPIFFS) to fit certain requirements. Nevertheless, somehow got "positive" feedback and was invited to a two day "interview fair" that basically involved me showing up at a certain time slot to get interviewed in a round-robin fashion. This went rather poorly since I didn't really prepare for it, but it consisted of mostly Leetcode easy-medium type questions, questions for drawing out how certain signals would look, how to debug in certain scenarios (with and without an impressive debugger + IDE combination), questions I would ask EEs designing the hardware when working with them, and schematic drawings of basic sub-systems based on a datasheet.
+
+Microsoft Interview Loop: This was for the Azure group at Microsoft, specifically for writing embedded software for custom silicon designed by Microsoft. It started out with an initial technical screening over Microsoft Teams that involved ~20 minutes of rambling about Microsoft, ~15 minutes of targeted questions based on my resume, and the remaining ~25 minutes toward a Leetcode-style question (probably a Leetcode medium) involving a circular queue (or a ring buffer). This was followed by a 45 minute interview over Microsoft Teams that involved more targeted questions about embedded systems in datacenters, common communication protocols, experience working with distributed teams, and a few questions that honestly felt like systems design questions out of nowhere. I didn't proceed with the remainder of this loop even though the recruiter peppered me with emails about next steps since I had already decided at this point I wanted to go back to graduate school.
+
 ### **Summary of Embedded System Design Interviews in MAANG+ Companies**
 
 System design questions are among the most challenging aspects of embedded system engineering interviews, especially in MAANG (Meta, Apple, Amazon, Netflix, Google) and other tier-1 tech companies. These questions are designed to test candidates' ability to navigate ambiguity and apply their knowledge in real-world scenarios.
