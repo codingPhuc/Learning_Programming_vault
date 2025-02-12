@@ -90,6 +90,146 @@ I recommend you to start from the Atmega328P. This is the microcontroller in the
 In addition to this, you can write the code in the same IDE you used for Arduino. But you need to do some modifications to work the way you want and you can find lots and lots of related videos in the web.
 
 I'm doing a post grad degree for embedded systems and right now I'm working with "Introduction to Embedded Systems: Using ANSI C and the Arduino Development Environment" from David Russell. I've only worked through a couple of pages, but it seems interesting to me, as he takes a well documented uC and circumvents the capsuling of the IDE with Standard C methods. The examples come in "standard" Arduino code and ANSI C, so that you can easily comprehend how the code works.
+
+## Computer vision 
+
+
+https://www.coursera.org/learn/computer-vision-with-embedded-machine-learning 
+
+
+https://www.edx.org/learn/embedded-systems/purdue-university-computer-vision-for-embedded-systems
+## Project
+
+
+
+I wouldn’t worry too much about trying to have your projects be unique - odds are good that anything you want to do, many people have done before. If they haven’t then they’re probably too complicated to be good choices for starting learning.
+
+Just keep it simple as you start experimenting. Like someone else suggested, try controlling an LED. Try reading a temperature sensor. Try controlling a servo. Try reading a switch or potentiometer and using that to control an LED or servo. If you start out with “machine learning person vs package vs animal detection” on an ESP32CAM or web server that dynamically updates pages from a fleet of sensors, you’re going to hate your life.
+
+Embedded programming environments are very, very different from Linux/Windows/macOS. They’re highly resource constrained - very little memory, very little persistent storage, slow CPUs. A lot of things we take for granted you’ll have to be explicitly aware of and manage by hand. What languages are you familiar with now? If they’re Python, JavaScript/Node, Ruby, Swift, or similar you’re in for a shock when you start programming in C. Even if you’re used to C++ or C#, a lot of convenience and utility functionality in those languages isn’t available or just shouldn’t be used in embedded environments due to resource constraints.
+
+If you’re learning C as part of this journey you can do a lot in a more comfortable environment like Linux. You won’t have the resource constraints but you can still shoot yourself in the foot, just more quickly, which is good because you’ll be doing it a lot (and don’t get discouraged by that, it happens to everyone, even people with decades of experience in C). Learning C in that environment won’t teach you about embedded programming but it will still help you since you’ll almost certainly be programming embedded devices in C.
+
+Upvote28DownvoteReplyreplyAwardShareShare
+
+[](https://alb.reddit.com/cr?za=XYsBGW8F8x7ypsPP1ggAQjjKPkkfpTG3wN-cOTgLtTVRFYZXuzaKKGMuqANP-BdxaV05EYtd1CYCdw5GbZ7k0XuAbAJVsNufsnTlni9IR1fxD5TqaL6KYsKu7LBGDnF_Sy9kjEkVpRWtikFZ4j8_PXx1Ov9PCqtbxIifOJcMAPP4cMpDBlvTWT0JPGS0eagJXU3NmkZ2tf-SGBObUQTrHBxwI_qMC8sGrogjSic2yAgKjV850OFwQz8xU9q-Fhb8hNSDHVcyVVoT3Ne_qDbqJicev7TghSffLGzlpD0Expxoyamb1jBe03p00_yY1GY4NR1l0oy1bIUs7eaCzmIPLQnpWpANdgKcoCImMzYi84Ef1tP_lhU86hUHJrbb7zK8q_JIY7J_8nQytIy7ao8AZrZHtfaZL3Y0P3hQ3X1bE6fLu9Y-XPwoaSBaD_DArb6ujF2FpRk6Ff-GBloASnjMOhwE3rmHpVw7rKd7&zp=jnLH_epFtpOQwSyfJNtAo8L4nt03isC4jJz8_EEgUq6kYHNw87zQ1tZ3d1TIeafLdYlf1QhUnRcoFJiLcWhO9walbIYZpYM8xcXm2s-jLL1S8TGVgVJxBk509BSbwNwrx2lkgn8JA0X3Ia1qEmih_qh4XaPHXCZLaylAtskYUfI2gXZ7U97peCIioVobKc_d-ZoABhflq_kOexn4udJQ-4C8HRUgnfa6qqSr4WkswarH6ZRoN8bBya0L6RRPu37VDW6a98jV0hWRZB6guKtpAK5iEdv6SaoxF_LTMX0VbVKYkNi5MJMhtw3mMFCE7NCNMa8zTwA0gEVyJ9XTfiV4zV8STl6ZwXta7tbhia0ncw)
+
+[![u/monday_com avatar](https://styles.redditmedia.com/t5_a0nhm/styles/profileIcon_fbavgymfdc1b1.png?width=48&height=48&frame=1&auto=webp&crop=48:48,smart&s=7fd9e1681cce91907e61da74a8fafb6582887f98)monday_com](https://www.reddit.com/user/monday_com/)•[Promoted](https://alb.reddit.com/cr?za=XYsBGW8F8x7ypsPP1ggAQjjKPkkfpTG3wN-cOTgLtTVRFYZXuzaKKGMuqANP-BdxaV05EYtd1CYCdw5GbZ7k0XuAbAJVsNufsnTlni9IR1fxD5TqaL6KYsKu7LBGDnF_Sy9kjEkVpRWtikFZ4j8_PXx1Ov9PCqtbxIifOJcMAPP4cMpDBlvTWT0JPGS0eagJXU3NmkZ2tf-SGBObUQTrHBxwI_qMC8sGrogjSic2yAgKjV850OFwQz8xU9q-Fhb8hNSDHVcyVVoT3Ne_qDbqJicev7TghSffLGzlpD0Expxoyamb1jBe03p00_yY1GY4NR1l0oy1bIUs7eaCzmIPLQnpWpANdgKcoCImMzYi84Ef1tP_lhU86hUHJrbb7zK8q_JIY7J_8nQytIy7ao8AZrZHtfaZL3Y0P3hQ3X1bE6fLu9Y-XPwoaSBaD_DArb6ujF2FpRk6Ff-GBloASnjMOhwE3rmHpVw7rKd7&zp=jnLH_epFtpOQwSyfJNtAo8L4nt03isC4jJz8_EEgUq6kYHNw87zQ1tZ3d1TIeafLdYlf1QhUnRcoFJiLcWhO9walbIYZpYM8xcXm2s-jLL1S8TGVgVJxBk509BSbwNwrx2lkgn8JA0X3Ia1qEmih_qh4XaPHXCZLaylAtskYUfI2gXZ7U97peCIioVobKc_d-ZoABhflq_kOexn4udJQ-4C8HRUgnfa6qqSr4WkswarH6ZRoN8bBya0L6RRPu37VDW6a98jV0hWRZB6guKtpAK5iEdv6SaoxF_LTMX0VbVKYkNi5MJMhtw3mMFCE7NCNMa8zTwA0gEVyJ9XTfiV4zV8STl6ZwXta7tbhia0ncw)[](https://alb.reddit.com/cr?za=XYsBGW8F8x7ypsPP1ggAQjjKPkkfpTG3wN-cOTgLtTVRFYZXuzaKKGMuqANP-BdxaV05EYtd1CYCdw5GbZ7k0XuAbAJVsNufsnTlni9IR1fxD5TqaL6KYsKu7LBGDnF_Sy9kjEkVpRWtikFZ4j8_PXx1Ov9PCqtbxIifOJcMAPP4cMpDBlvTWT0JPGS0eagJXU3NmkZ2tf-SGBObUQTrHBxwI_qMC8sGrogjSic2yAgKjV850OFwQz8xU9q-Fhb8hNSDHVcyVVoT3Ne_qDbqJicev7TghSffLGzlpD0Expxoyamb1jBe03p00_yY1GY4NR1l0oy1bIUs7eaCzmIPLQnpWpANdgKcoCImMzYi84Ef1tP_lhU86hUHJrbb7zK8q_JIY7J_8nQytIy7ao8AZrZHtfaZL3Y0P3hQ3X1bE6fLu9Y-XPwoaSBaD_DArb6ujF2FpRk6Ff-GBloASnjMOhwE3rmHpVw7rKd7&zp=jnLH_epFtpOQwSyfJNtAo8L4nt03isC4jJz8_EEgUq6kYHNw87zQ1tZ3d1TIeafLdYlf1QhUnRcoFJiLcWhO9walbIYZpYM8xcXm2s-jLL1S8TGVgVJxBk509BSbwNwrx2lkgn8JA0X3Ia1qEmih_qh4XaPHXCZLaylAtskYUfI2gXZ7U97peCIioVobKc_d-ZoABhflq_kOexn4udJQ-4C8HRUgnfa6qqSr4WkswarH6ZRoN8bBya0L6RRPu37VDW6a98jV0hWRZB6guKtpAK5iEdv6SaoxF_LTMX0VbVKYkNi5MJMhtw3mMFCE7NCNMa8zTwA0gEVyJ9XTfiV4zV8STl6ZwXta7tbhia0ncw)
+
+[The feeling of not having enough time to finish all your tasks is real! Well, with monday.com’s work management platform, get more done in less time with automations, real-time communication, and notifications. Smash that done button! Try now.](https://alb.reddit.com/cr?za=XYsBGW8F8x7ypsPP1ggAQjjKPkkfpTG3wN-cOTgLtTVRFYZXuzaKKGMuqANP-BdxaV05EYtd1CYCdw5GbZ7k0XuAbAJVsNufsnTlni9IR1fxD5TqaL6KYsKu7LBGDnF_Sy9kjEkVpRWtikFZ4j8_PXx1Ov9PCqtbxIifOJcMAPP4cMpDBlvTWT0JPGS0eagJXU3NmkZ2tf-SGBObUQTrHBxwI_qMC8sGrogjSic2yAgKjV850OFwQz8xU9q-Fhb8hNSDHVcyVVoT3Ne_qDbqJicev7TghSffLGzlpD0Expxoyamb1jBe03p00_yY1GY4NR1l0oy1bIUs7eaCzmIPLQnpWpANdgKcoCImMzYi84Ef1tP_lhU86hUHJrbb7zK8q_JIY7J_8nQytIy7ao8AZrZHtfaZL3Y0P3hQ3X1bE6fLu9Y-XPwoaSBaD_DArb6ujF2FpRk6Ff-GBloASnjMOhwE3rmHpVw7rKd7&zp=jnLH_epFtpOQwSyfJNtAo8L4nt03isC4jJz8_EEgUq6kYHNw87zQ1tZ3d1TIeafLdYlf1QhUnRcoFJiLcWhO9walbIYZpYM8xcXm2s-jLL1S8TGVgVJxBk509BSbwNwrx2lkgn8JA0X3Ia1qEmih_qh4XaPHXCZLaylAtskYUfI2gXZ7U97peCIioVobKc_d-ZoABhflq_kOexn4udJQ-4C8HRUgnfa6qqSr4WkswarH6ZRoN8bBya0L6RRPu37VDW6a98jV0hWRZB6guKtpAK5iEdv6SaoxF_LTMX0VbVKYkNi5MJMhtw3mMFCE7NCNMa8zTwA0gEVyJ9XTfiV4zV8STl6ZwXta7tbhia0ncw)
+
+[](https://alb.reddit.com/cr?za=XYsBGW8F8x7ypsPP1ggAQjjKPkkfpTG3wN-cOTgLtTVRFYZXuzaKKGMuqANP-BdxaV05EYtd1CYCdw5GbZ7k0XuAbAJVsNufsnTlni9IR1fxD5TqaL6KYsKu7LBGDnF_Sy9kjEkVpRWtikFZ4j8_PXx1Ov9PCqtbxIifOJcMAPP4cMpDBlvTWT0JPGS0eagJXU3NmkZ2tf-SGBObUQTrHBxwI_qMC8sGrogjSic2yAgKjV850OFwQz8xU9q-Fhb8hNSDHVcyVVoT3Ne_qDbqJicev7TghSffLGzlpD0Expxoyamb1jBe03p00_yY1GY4NR1l0oy1bIUs7eaCzmIPLQnpWpANdgKcoCImMzYi84Ef1tP_lhU86hUHJrbb7zK8q_JIY7J_8nQytIy7ao8AZrZHtfaZL3Y0P3hQ3X1bE6fLu9Y-XPwoaSBaD_DArb6ujF2FpRk6Ff-GBloASnjMOhwE3rmHpVw7rKd7&zp=jnLH_epFtpOQwSyfJNtAo8L4nt03isC4jJz8_EEgUq6kYHNw87zQ1tZ3d1TIeafLdYlf1QhUnRcoFJiLcWhO9walbIYZpYM8xcXm2s-jLL1S8TGVgVJxBk509BSbwNwrx2lkgn8JA0X3Ia1qEmih_qh4XaPHXCZLaylAtskYUfI2gXZ7U97peCIioVobKc_d-ZoABhflq_kOexn4udJQ-4C8HRUgnfa6qqSr4WkswarH6ZRoN8bBya0L6RRPu37VDW6a98jV0hWRZB6guKtpAK5iEdv6SaoxF_LTMX0VbVKYkNi5MJMhtw3mMFCE7NCNMa8zTwA0gEVyJ9XTfiV4zV8STl6ZwXta7tbhia0ncw)
+
+[Sign Up](https://alb.reddit.com/cr?za=XYsBGW8F8x7ypsPP1ggAQjjKPkkfpTG3wN-cOTgLtTVRFYZXuzaKKGMuqANP-BdxaV05EYtd1CYCdw5GbZ7k0XuAbAJVsNufsnTlni9IR1fxD5TqaL6KYsKu7LBGDnF_Sy9kjEkVpRWtikFZ4j8_PXx1Ov9PCqtbxIifOJcMAPP4cMpDBlvTWT0JPGS0eagJXU3NmkZ2tf-SGBObUQTrHBxwI_qMC8sGrogjSic2yAgKjV850OFwQz8xU9q-Fhb8hNSDHVcyVVoT3Ne_qDbqJicev7TghSffLGzlpD0Expxoyamb1jBe03p00_yY1GY4NR1l0oy1bIUs7eaCzmIPLQnpWpANdgKcoCImMzYi84Ef1tP_lhU86hUHJrbb7zK8q_JIY7J_8nQytIy7ao8AZrZHtfaZL3Y0P3hQ3X1bE6fLu9Y-XPwoaSBaD_DArb6ujF2FpRk6Ff-GBloASnjMOhwE3rmHpVw7rKd7&zp=jnLH_epFtpOQwSyfJNtAo8L4nt03isC4jJz8_EEgUq6kYHNw87zQ1tZ3d1TIeafLdYlf1QhUnRcoFJiLcWhO9walbIYZpYM8xcXm2s-jLL1S8TGVgVJxBk509BSbwNwrx2lkgn8JA0X3Ia1qEmih_qh4XaPHXCZLaylAtskYUfI2gXZ7U97peCIioVobKc_d-ZoABhflq_kOexn4udJQ-4C8HRUgnfa6qqSr4WkswarH6ZRoN8bBya0L6RRPu37VDW6a98jV0hWRZB6guKtpAK5iEdv6SaoxF_LTMX0VbVKYkNi5MJMhtw3mMFCE7NCNMa8zTwA0gEVyJ9XTfiV4zV8STl6ZwXta7tbhia0ncw)
+
+[monday.com](https://alb.reddit.com/cr?za=XYsBGW8F8x7ypsPP1ggAQjjKPkkfpTG3wN-cOTgLtTVRFYZXuzaKKGMuqANP-BdxaV05EYtd1CYCdw5GbZ7k0XuAbAJVsNufsnTlni9IR1fxD5TqaL6KYsKu7LBGDnF_Sy9kjEkVpRWtikFZ4j8_PXx1Ov9PCqtbxIifOJcMAPP4cMpDBlvTWT0JPGS0eagJXU3NmkZ2tf-SGBObUQTrHBxwI_qMC8sGrogjSic2yAgKjV850OFwQz8xU9q-Fhb8hNSDHVcyVVoT3Ne_qDbqJicev7TghSffLGzlpD0Expxoyamb1jBe03p00_yY1GY4NR1l0oy1bIUs7eaCzmIPLQnpWpANdgKcoCImMzYi84Ef1tP_lhU86hUHJrbb7zK8q_JIY7J_8nQytIy7ao8AZrZHtfaZL3Y0P3hQ3X1bE6fLu9Y-XPwoaSBaD_DArb6ujF2FpRk6Ff-GBloASnjMOhwE3rmHpVw7rKd7&zp=jnLH_epFtpOQwSyfJNtAo8L4nt03isC4jJz8_EEgUq6kYHNw87zQ1tZ3d1TIeafLdYlf1QhUnRcoFJiLcWhO9walbIYZpYM8xcXm2s-jLL1S8TGVgVJxBk509BSbwNwrx2lkgn8JA0X3Ia1qEmih_qh4XaPHXCZLaylAtskYUfI2gXZ7U97peCIioVobKc_d-ZoABhflq_kOexn4udJQ-4C8HRUgnfa6qqSr4WkswarH6ZRoN8bBya0L6RRPu37VDW6a98jV0hWRZB6guKtpAK5iEdv6SaoxF_LTMX0VbVKYkNi5MJMhtw3mMFCE7NCNMa8zTwA0gEVyJ9XTfiV4zV8STl6ZwXta7tbhia0ncw)
+
+[
+
+![Thumbnail image: The feeling of not having enough time to finish all your tasks is real! Well, with monday.com’s work management platform, get more done in less time with automations, real-time communication, and notifications. Smash that done button! Try now.](https://external-preview.redd.it/vF8XXoyMXTwzQoZCij27iR2X9do6Cg0pGRawdZ4BKtk.jpg?auto=webp&s=ed0857b0f3ae3f9fdb91e13c3cbbeb0175bfe612)
+
+](https://alb.reddit.com/cr?za=XYsBGW8F8x7ypsPP1ggAQjjKPkkfpTG3wN-cOTgLtTVRFYZXuzaKKGMuqANP-BdxaV05EYtd1CYCdw5GbZ7k0XuAbAJVsNufsnTlni9IR1fxD5TqaL6KYsKu7LBGDnF_Sy9kjEkVpRWtikFZ4j8_PXx1Ov9PCqtbxIifOJcMAPP4cMpDBlvTWT0JPGS0eagJXU3NmkZ2tf-SGBObUQTrHBxwI_qMC8sGrogjSic2yAgKjV850OFwQz8xU9q-Fhb8hNSDHVcyVVoT3Ne_qDbqJicev7TghSffLGzlpD0Expxoyamb1jBe03p00_yY1GY4NR1l0oy1bIUs7eaCzmIPLQnpWpANdgKcoCImMzYi84Ef1tP_lhU86hUHJrbb7zK8q_JIY7J_8nQytIy7ao8AZrZHtfaZL3Y0P3hQ3X1bE6fLu9Y-XPwoaSBaD_DArb6ujF2FpRk6Ff-GBloASnjMOhwE3rmHpVw7rKd7&zp=jnLH_epFtpOQwSyfJNtAo8L4nt03isC4jJz8_EEgUq6kYHNw87zQ1tZ3d1TIeafLdYlf1QhUnRcoFJiLcWhO9walbIYZpYM8xcXm2s-jLL1S8TGVgVJxBk509BSbwNwrx2lkgn8JA0X3Ia1qEmih_qh4XaPHXCZLaylAtskYUfI2gXZ7U97peCIioVobKc_d-ZoABhflq_kOexn4udJQ-4C8HRUgnfa6qqSr4WkswarH6ZRoN8bBya0L6RRPu37VDW6a98jV0hWRZB6guKtpAK5iEdv6SaoxF_LTMX0VbVKYkNi5MJMhtw3mMFCE7NCNMa8zTwA0gEVyJ9XTfiV4zV8STl6ZwXta7tbhia0ncw)
+
+# Community Info Section
+
+[
+
+r/embedded
+
+](https://www.reddit.com/r/embedded)
+
+Join
+
+Embedded
+
+This sub is dedicated to discussion and questions about embedded systems: "a controller programmed and controlled by a real-time operating system (RTOS) with a dedicated function within a larger mechanical or electrical system, often with real-time computing constraints."
+
+Show more
+
+Created Jun 9, 2008
+
+Public
+
+**199K**Members
+
+**36** Online
+
+**Top 1%**[Rank by size](https://www.reddit.com/best/communities/12/#t5_2qins/) 
+
+---
+
+## 
+
+User flair
+
+konadioda-muda-muda
+
+---
+
+## 
+
+Community Bookmarks
+
+[Wiki](https://www.reddit.com/r/embedded/wiki/index/)
+
+---
+
+## 
+
+Rules
+
+- 1
+    
+    ## Be civil
+    - 2
+    
+    ## Submissions must be on-topic
+    - 3
+    
+    ## Ask question in title
+    - 4
+    
+    ## No self-promotion
+    - 5
+    
+    ## No low-effort / meme submissions
+    
+
+---
+
+## 
+
+Moderators
+
+[Message Mods](https://www.reddit.com/message/compose?to=r/embedded)
+
+- ![u/1Davide avatar](https://external-preview.redd.it/jBBU4RKGOdeGDdNg7ASVaroluSigCRBmxkgmZAKZfbE.png?width=128&height=128&crop=smart&auto=webp&s=19f90fd53f32945eb647c0641f9870161071e495)[u/1Davide](https://www.reddit.com/user/1Davide/) 
+    
+    PIC18F
+    
+    Davide Andrea
+    
+- ![u/duane11583 avatar](https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png)[u/duane11583](https://www.reddit.com/user/duane11583/)
+    
+- ![u/EmbeddedSwDev avatar](https://styles.redditmedia.com/t5_cnctgk/styles/profileIcon_5ihtawsr31ud1.jpg?width=128&height=128&frame=1&auto=webp&crop=128:128,smart&s=c8ef39cbadfb7d99b0cd5b175aa2e7bb4902b7e2)[u/EmbeddedSwDev](https://www.reddit.com/user/EmbeddedSwDev/)
+    
+- ![u/AutoModerator avatar](https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=128&height=128&frame=1&auto=webp&crop=128:128,smart&s=6848e39a299a5ba62f4ee3a39519fb9efcd669b8)[u/AutoModerator](https://www.reddit.com/user/AutoModerator/)
+    
+- ![u/RepostSleuthBot avatar](https://styles.redditmedia.com/t5_vjmiw/styles/profileIcon_2djxr4vmmgu91.png?width=128&height=128&frame=1&auto=webp&crop=128:128,smart&s=b20cfde2609d04a1f4aed00afa5c0c91ec1ad6fe)[u/RepostSleuthBot](https://www.reddit.com/user/RepostSleuthBot/)Repost Sleuth Bot
+    
+- ![u/auto-modmail avatar](https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png)[u/auto-modmail](https://www.reddit.com/user/auto-modmail/)
+    
+
+[View all moderators](https://www.reddit.com/mod/embedded/moderators/)
+
+---
+
+## 
+
+Installed Apps
+
+- [  
+    ](https://developers.reddit.com/apps/auto-modmail)
 ## dsp
 https://www.reddit.com/r/diypedals/s/P9ufBm8uF5
 I would recommend an electrosmith daisy. They have a built in analog/ digital converter. It also has a built in library with delay lines and other usable methods. It is coded in c or c++. Hope this helps, let me know if you need any more information.
