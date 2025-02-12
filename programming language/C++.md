@@ -1,3 +1,180 @@
+# Table of Contents
+- [Main Learning Sites](#main-learning-sites)
+- [Video Tutorials](#video-tutorials)
+- [Intermediate Resources](#intermediate-resources)
+- [Embedded Systems](#embedded-systems)
+- [Computer Vision](#computer-vision)
+- [Projects](#projects)
+- [Interview Questions](#interview-questions)
+- [FAANG Jobs](#faang-jobs)
+
+## Main Learning Sites
+
+- [Learn C++](https://www.learncpp.com/): Best free tutorial covering everything from basics to advanced topics, following modern and best practice guidelines.
+- [Study Plan](https://www.studyplan.dev/cpp): Close second, covering a wide range of topics with some unique content.
+- [C++ Reference](https://www.cppreference.com/): Best language reference.
+
+### Recommended Books
+
+- "Programming: Principles and Practice Using C++" by Bjarne Stroustrup
+## coding exercise 
+
+
+Exercise
+https://exercism.org/
+
+https://medium.com/@light-city/35k-star-stories-about-c-plus-plus-step-by-step-learning-c8cd51b5a75
+### Sites to Avoid
+
+- cplusplus.com
+- w3schools
+- geeks-for-geeks
+- Tutorialspoint
+- educba.com
+- thinkcpp
+- javaTpoint
+- studyfied
+- codevisionz
+- sololearn
+
+### Improved Sites
+
+- Programiz: Significantly improved, no longer to be avoided.
+
+### YouTube Tutorials
+
+- CppCon Back to Basics videos: Good, topic-oriented, and in-depth explanations.
+
+## Video Tutorials
+
+- [YouTube Playlist](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+
+## Intermediate Resources
+
+### Books
+
+- "A Tour of C++" by Bjarne Stroustrup
+- "C++ Best Practices" by Jason Turner
+
+### YouTube Channels
+
+- C++ Weekly
+- [ChiliTomatoNoodle](https://youtube.com/c/ChiliTomatoNoodle): Free advanced C++ content, including game and graphics programming.
+
+### Podcasts
+
+- CPPCast
+
+### Additional Resources
+
+- "C++ Crash Course"
+- "Ray Tracing in One Weekend Series"
+
+## Embedded Systems
+
+### Getting Started
+
+- Start with projects you enjoy and have a goal.
+- Recommended microcontroller: Atmega328P (Arduino).
+
+### Recommended Books
+
+- "MAKE: AVR Programming" by Elliot Williams
+- "Introduction to Embedded Systems: Using ANSI C and the Arduino Development Environment" by David Russell
+
+### Tips
+
+- Use the same IDE as Arduino with modifications.
+- Explore related videos online.
+
+## Computer Vision
+
+### Learning Path
+
+1. **Learn the Necessary Math**
+    - Linear Algebra: Matrices, homogeneous coordinates, linear mappings.
+    - Calculus: Derivatives and limits.
+    - Parallel Computing: OpenMP, CUDA.
+
+2. **Study Classical Computer Vision**
+    - Understand how cameras work and fundamental image processing concepts.
+
+3. **Learn Deep Learning for Computer Vision**
+    - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+    - [Deep Learning Specialization by Andrew Ng on Coursera](https://www.coursera.org/specializations/deep-learning)
+    - [Deep Learning with PyTorch Book](https://www.deeplearningwithpytorch.com/)
+
+4. **Follow Structured Learning Resources**
+    - [First Principles of Computer Vision (YouTube Channel)](https://www.youtube.com/c/FirstPrinciplesofComputerVision)
+    - [Computer Vision: Algorithms and Applications by Richard Szeliski](https://szeliski.org/Book/download.php)
+
+5. **Get Hands-On with OpenCV and Practical Projects**
+    - Start experimenting with OpenCV tutorials.
+    - Work on real projects (e.g., object detection using YOLO).
+    - Explore [Fast.ai's deep learning course](https://www.fast.ai/).
+
+6. **Importance of Proper Data Management**
+    - Learn how to structure a machine learning project, label data, and manage datasets effectively.
+
+### Key Takeaways
+
+- Start with math and theory for a deep understanding.
+- Begin with OpenCV and deep learning models for practical experience.
+- Having a project idea can accelerate learning.
+
+## Projects
+
+- [100 Projects of Code](https://github.com/arpit-omprakash/100ProjectsOfCode)
+- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
+
+## Interview Questions
+
+### Typical Interview Process in FAANG Companies
+
+1. **Initial Phone Screening**
+    - Discussion about experience and key projects.
+    - Programming questions (DSA / C) and fundamental questions related to the embedded domain.
+
+2. **Virtual On-site: 4-6 Interviews**
+    - 2-3 rounds of leetcode-style coding rounds (LC Medium-Hard).
+    - 2-3 rounds on domain knowledge from x-functional teams (Embedded OS/C++/Kernel related concepts, Embedded System Design, Microcontroller Units, etc.).
+
+3. **Behavioral Round (On-site)**
+    - Questions related to job experience, past projects, and open-ended questions to gauge fit.
+
+### Important Topics
+
+- **DSA**
+    - Arrays, Strings, Bit manipulation, LinkedList, and pointers.
+    - Basic questions on Trees, Graphs, and Dynamic programming.
+
+- **Embedded System Design**
+    - Design for Resilience and testability, Resource Constraints, Finite State Machines, Logging.
+
+- **Programming for Embedded Devices - Embedded C**
+    - Bit Manipulation, Byte Ordering, Pointers, Number Representation, Efficient Coding.
+
+- **Microcontroller Units**
+    - ARM-Cortex Architecture, Modern CPU Architecture, Registers and Modes, Interrupts, Memory Layout, Power Save.
+
+- **Embedded OS**
+    - Booting, Security Issues, U-Boot, Concurrency, Critical Section, InterProcess Synchronization, Reentrancy.
+
+### Additional Resources
+
+- [Interview Kickstart](https://www.interviewkickstart.com/courses/embedded-software-engineering-interview-masterclass/?utm_source=Reddit_PM&utm_medium=O9&utm_campaign=post&utm_term=want_to_work_at_faang_but_for_embedded_so_what_do&utm_content=)
+- [Quora Answer on FAANG Interview Questions](https://www.quora.com/What-are-some-good-job-interview-questions-for-an-embedded-system-engineer-at-FAANG-companies/answer/Abhinav-Rawat-11)
+
+## FAANG Jobs
+
+- u/AKAtheHat
+- u/Standard_Tackle_4041
+
+
+
+
+
+
 # main learning site 
 https://www.learncpp.com/
 Bjarne Stroustrup, the original creator of C++, has a book "Programming: Principles and Practice Using C++" you can use to learn C++ and programming. I believe that to learn, books are much more comprehensive than tutorials or YT videos.
@@ -48,10 +225,7 @@ https://www.reddit.com/user/IyeOnline/comments/10a34s2/the_c_learning_suggestion
 https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb 
 
 
-Exercise
-https://exercism.org/
 
-https://medium.com/@light-city/35k-star-stories-about-c-plus-plus-step-by-step-learning-c8cd51b5a75
 
 # intermidiate 
 I've picked it up mostly through books, podcasts, and reading through the code I'm working on.
@@ -93,54 +267,11 @@ I'm doing a post grad degree for embedded systems and right now I'm working with
 
 ## Computer vision 
 
-Here's a summary of the discussion along with relevant links:
 
-### **Summary: Where Should a Beginner Start with Computer Vision?**
-
-A beginner in computer vision should balance learning theoretical foundations and gaining practical experience. The discussion suggests the following approach:
-
-#### **1. Learn the Necessary Math**
-
-- **Linear Algebra**: Matrices, homogeneous coordinates, linear mappings.
-- **Calculus**: Derivatives and limits.
-- **Parallel Computing** (later): OpenMP, CUDA.
-
-#### **2. Study Classical Computer Vision**
-
-- Understanding how cameras work and fundamental image processing concepts.
-
-#### **3. Learn Deep Learning for Computer Vision**
-
-- **CS231n: Convolutional Neural Networks for Visual Recognition** by Stanford ([Link](http://cs231n.stanford.edu/))
-- **Deep Learning Specialization by Andrew Ng on Coursera** ([Link](https://www.coursera.org/specializations/deep-learning))
-- **Deep Learning with PyTorch Book** ([Link](https://www.deeplearningwithpytorch.com/))
-
-#### **4. Follow Structured Learning Resources**
-
-- **First Principles of Computer Vision (YouTube Channel)** ([Link](https://www.youtube.com/c/FirstPrinciplesofComputerVision))
-- **Computer Vision: Algorithms and Applications by Richard Szeliski** ([Free PDF](https://szeliski.org/Book/download.php))
-
-#### **5. Get Hands-On with OpenCV and Practical Projects**
-
-- Start experimenting with **OpenCV tutorials** to gain practical experience.
-- Work on a **real project** (e.g., object detection using **YOLOv11** with static images or security camera feeds).
-- Explore **Fast.ai's deep learning course** ([Link](https://www.fast.ai/)).
-
-#### **6. Importance of Proper Data Management**
-
-- Learn how to structure a machine learning project, label data, and manage datasets effectively.
-
-#### **Key Takeaways**
-
-- If you want a deep understanding, start with **math and theory** before diving into OpenCV.
-- If you're eager to build projects, start with **OpenCV and deep learning models** like YOLO while learning theory alongside.
-- Having a **project idea** can help accelerate learning.
-
-Would you like recommendations for specific projects to start with?
 https://www.coursera.org/learn/computer-vision-with-embedded-machine-learning 
 
 
-https://www.edx.org/learn/embedded-systems/purdue-university-computer-vision-for-embedded-systems
+
 ## Project
 
 
