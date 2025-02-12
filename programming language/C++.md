@@ -105,4 +105,12 @@ https://www.reddit.com/r/DSP/s/01MV87WQKz
 
 #  Project  
 https://github.com/arpit-omprakash/100ProjectsOfCode  
-https://github.com/Light-City/CPlusPlusThings
+https://github.com/Light-City/CPlusPlusThings 
+
+
+
+
+# have a fang jobs 
+u/AKAtheHat 
+u/Standard_Tackle_4041
+
