@@ -131,7 +131,8 @@ https://medium.com/@light-city/35k-star-stories-about-c-plus-plus-step-by-step-l
 
 - u/AKAtheHat
 - u/Standard_Tackle_4041
-
+## embedded defense 
+- u/hatsubai
 
 
 
