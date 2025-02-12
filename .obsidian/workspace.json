@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming language/C++.md",
-                "mode": "source",
+                "file": "Covariance and Contravariance/Covariance and Contravariance.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C++"
+              "title": "Covariance and Contravariance"
             }
           },
           {
@@ -69,7 +69,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -103,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,6 +196,13 @@
   },
   "active": "641112b1f6a1d732",
   "lastOpenFiles": [
+    "Anki.md",
+    "Advance state management.md",
+    "picture folder/https data tranfer 1.jpg",
+    "picture folder/https data tranfer.jpg",
+    "picture folder/C++ Primer, Fifth Edition (Stanley B. Lippman  Josée Lajoie  Barbara Moo) (Z-Library).pdf",
+    "Embeded engineering.md",
+    "programming language/C++.md",
     "Ish.md",
     "picture folder/IMG_0605.jpg",
     "picture folder/IMG_0604.jpg",
@@ -229,21 +235,15 @@
     "Learning/Asking question.md",
     "Learning/scoring for  principle.md",
     "Learning/thing you need to do.md",
-    "Learning/why you are always distracted.md",
-    "Learning/book learning/How to read technical books.md",
     "Learning/Canvas/Learning-System-Flow.canvas",
-    "Learning/what_do_I_like_to_do/how to choose a career that you want to regret.md",
     "book/Programming Principles and Practice Using C++, Third Edition (Bjarne Stroustrup) (Z-Library) (1).pdf",
     "book/Chemistry-Study-Guide 1.pdf",
     "SET COURSES.canvas",
     "Udemy free sources]",
-    "picture folder/C++ Primer, Fifth Edition (Stanley B. Lippman  Josée Lajoie  Barbara Moo) (Z-Library).pdf",
     "programming language",
     "Untitled.canvas",
     "picture folder/Pasted image 20250119185358.png",
     "picture folder/Pasted image 20250119185345.png",
-    "picture folder/Pasted image 20250119185329.png",
-    "picture folder/Pasted image 20250119184659.png",
     "Learning/practice learning skill",
     "Learning/Canvas/system_connections.canvas",
     "Canvas/Master-System-Flow.canvas",
