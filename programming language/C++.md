@@ -93,7 +93,50 @@ I'm doing a post grad degree for embedded systems and right now I'm working with
 
 ## Computer vision 
 
+Here's a summary of the discussion along with relevant links:
 
+### **Summary: Where Should a Beginner Start with Computer Vision?**
+
+A beginner in computer vision should balance learning theoretical foundations and gaining practical experience. The discussion suggests the following approach:
+
+#### **1. Learn the Necessary Math**
+
+- **Linear Algebra**: Matrices, homogeneous coordinates, linear mappings.
+- **Calculus**: Derivatives and limits.
+- **Parallel Computing** (later): OpenMP, CUDA.
+
+#### **2. Study Classical Computer Vision**
+
+- Understanding how cameras work and fundamental image processing concepts.
+
+#### **3. Learn Deep Learning for Computer Vision**
+
+- **CS231n: Convolutional Neural Networks for Visual Recognition** by Stanford ([Link](http://cs231n.stanford.edu/))
+- **Deep Learning Specialization by Andrew Ng on Coursera** ([Link](https://www.coursera.org/specializations/deep-learning))
+- **Deep Learning with PyTorch Book** ([Link](https://www.deeplearningwithpytorch.com/))
+
+#### **4. Follow Structured Learning Resources**
+
+- **First Principles of Computer Vision (YouTube Channel)** ([Link](https://www.youtube.com/c/FirstPrinciplesofComputerVision))
+- **Computer Vision: Algorithms and Applications by Richard Szeliski** ([Free PDF](https://szeliski.org/Book/download.php))
+
+#### **5. Get Hands-On with OpenCV and Practical Projects**
+
+- Start experimenting with **OpenCV tutorials** to gain practical experience.
+- Work on a **real project** (e.g., object detection using **YOLOv11** with static images or security camera feeds).
+- Explore **Fast.ai's deep learning course** ([Link](https://www.fast.ai/)).
+
+#### **6. Importance of Proper Data Management**
+
+- Learn how to structure a machine learning project, label data, and manage datasets effectively.
+
+#### **Key Takeaways**
+
+- If you want a deep understanding, start with **math and theory** before diving into OpenCV.
+- If you're eager to build projects, start with **OpenCV and deep learning models** like YOLO while learning theory alongside.
+- Having a **project idea** can help accelerate learning.
+
+Would you like recommendations for specific projects to start with?
 https://www.coursera.org/learn/computer-vision-with-embedded-machine-learning 
 
 
