@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Covariance and Contravariance code")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5147a3ab49ccad62f8f2643ec4f98075be3950c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b83fd91c9443a2d8c76195c34be29dd1007faaa")]
 [assembly: System.Reflection.AssemblyProductAttribute("Covariance and Contravariance code")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Covariance and Contravariance code")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

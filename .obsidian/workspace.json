@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks to do.md",
+                "file": "Learning/Learning With Chat gpt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tasks to do"
+              "title": "Learning With Chat gpt"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/review/ultra learning review.md",
-                "mode": "source",
+                "file": "programming language/C++.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ultra learning review"
+              "title": "C++"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,15 +195,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "641112b1f6a1d732",
+  "active": "3e640f7bb6a1ce36",
   "lastOpenFiles": [
+    "Covariance and Contravariance/Covariance and Contravariance.md",
+    "Learning/Learning With Chat gpt.md",
+    "Learning/book learning/How to read a book and Actually learn from it.md",
+    "programming language/C++.md",
+    "programming language/Python.md",
+    "Tasks to do.md",
     "Anki.md",
     "Advance state management.md",
     "picture folder/https data tranfer 1.jpg",
     "picture folder/https data tranfer.jpg",
     "picture folder/C++ Primer, Fifth Edition (Stanley B. Lippman  Josée Lajoie  Barbara Moo) (Z-Library).pdf",
     "Embeded engineering.md",
-    "programming language/C++.md",
     "Ish.md",
     "picture folder/IMG_0605.jpg",
     "picture folder/IMG_0604.jpg",
@@ -211,7 +217,6 @@
     "picture folder/IMG_0600.jpg",
     "picture folder/IMG_0599.jpg",
     "Note.md",
-    "Tasks to do.md",
     "conflict-files-obsidian-git.md",
     "udt.md",
     "picture folder/Driving 2025-02-09 16.39.35.excalidraw.md",
@@ -224,17 +229,13 @@
     "Driving.md",
     "Untitled 5.md",
     "Learning/Learning technique.md",
-    "Learning/Learning With Chat gpt.md",
     "Learning/Problem with learning.md",
     "Learning/Self Testing.md",
     "Learning/practice learning skill/studying courses that need to be study.md",
     "Learning/How to be Productive.md",
-    "Learning/book learning/How to read a book and Actually learn from it.md",
     "Learning/How I Ranked 1st at Cambridge University - 20 Study Tips.md",
     "Learning/4 layer of learning.md",
     "Learning/Asking question.md",
-    "Learning/scoring for  principle.md",
-    "Learning/thing you need to do.md",
     "Learning/Canvas/Learning-System-Flow.canvas",
     "book/Programming Principles and Practice Using C++, Third Edition (Bjarne Stroustrup) (Z-Library) (1).pdf",
     "book/Chemistry-Study-Guide 1.pdf",
