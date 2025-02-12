@@ -46,11 +46,11 @@ Feel free to copy this macro, but please copy it with this footer and the link t
 https://www.reddit.com/user/IyeOnline/comments/10a34s2/the_c_learning_suggestion_macro/
 # video tutorial 
 https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb 
-https://github.com/arpit-omprakash/100ProjectsOfCode.git
+
 
 Exercise
 https://exercism.org/
-https://github.com/Light-City/CPlusPlusThings
+
 https://medium.com/@light-city/35k-star-stories-about-c-plus-plus-step-by-step-learning-c8cd51b5a75
 
 # intermidiate 
@@ -101,4 +101,8 @@ https://www.reddit.com/r/embedded/s/EWTO1SuqSK
 Embeded adio 
 https://www.reddit.com/r/embedded/s/pn9S2E1cKF
 
-https://www.reddit.com/r/DSP/s/01MV87WQKz
+https://www.reddit.com/r/DSP/s/01MV87WQKz 
+
+#  Project  
+https://github.com/arpit-omprakash/100ProjectsOfCode  
+https://github.com/Light-City/CPlusPlusThings
