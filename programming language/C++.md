@@ -107,9 +107,35 @@ https://www.reddit.com/r/DSP/s/01MV87WQKz
 https://github.com/arpit-omprakash/100ProjectsOfCode  
 https://github.com/Light-City/CPlusPlusThings 
 
+## interview question 
+### **Summary of Embedded System Design Interviews in MAANG+ Companies**
 
+System design questions are among the most challenging aspects of embedded system engineering interviews, especially in MAANG (Meta, Apple, Amazon, Netflix, Google) and other tier-1 tech companies. These questions are designed to test candidates' ability to navigate ambiguity and apply their knowledge in real-world scenarios.
 
+### **Common Embedded System Design Questions:**
 
+- **State Machine Designs:** Vending machines, traffic light controllers
+- **Product Design:** Oculus game controller, VR glasses, Apple Pencil, Audio Mixer (Facebook Reality Lab)
+- **Software Architecture:** Microkernel-based system for file execution (Facebook Reality Lab)
+- **Data Communication:** Protocol to send data from host to device in chunks (Facebook)
+- **Telemetry & Sensors:** Telemetry Service (Facebook), Throwable Panoramic Ball Camera for 360° photos
+- **IoT & Smart Systems:** Smart garden watering system with multiple zones
+
+### **Insights from Candidates & Engineers:**
+
+- Interviews often include **LeetCode-style algorithm problems**, though many argue they aren't always relevant for embedded development.
+- **Amazon and Google interviews** can feel disconnected from embedded work, focusing more on leadership principles or generic coding challenges.
+- **Meta's AR/VR division** appears more aligned with embedded system-focused questions.
+- Some candidates express **ethical concerns** regarding certain companies and their business practices.
+ince you have made it to the end of this long answer, the following are some bonus resources for you.  
+[Design a smart garden watering system with multiple zones. - This Interview question was answered by one of our top instructors.](https://vimeo.com/716335512/0e7e023093)
+
+[This thread on Reddit lists](https://old.reddit.com/r/embedded/comments/bqoqpr/what_are_some_more_obscure_interview_questions/eo6t7gc/) down some more interview questions for Embedded.  
+[This post on leetcode](https://leetcode.com/discuss/interview-experience/974067/nda-microsoft-amazon-senior-software-engineer-embedded-software-india-offers) discusses the Embedded interview process at Amazon and Microsoft in great detail.
+
+I hope these resources will help you.
+
+Are you looking to [boost your Embedded technical interview preparation?](https://www.interviewkickstart.com/courses/embedded-software-engineering-interview-masterclass/?utm_source=Reddit_PM&utm_medium=O9&utm_campaign=post&utm_term=big_tech_embedded_system_design_interview&utm_content=)
 # have a fang jobs 
 u/AKAtheHat 
 u/Standard_Tackle_4041
