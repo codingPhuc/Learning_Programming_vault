@@ -1,4 +1,3 @@
 ---
-annotation-target: https://arxiv.org/pdf/2104.13478.pdf
-annotation-target-type: pdf  # (optional, but may help)
+annotation-target: book/Ultralearning.pdf
 ---

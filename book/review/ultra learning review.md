@@ -1,6 +1,3 @@
----
-annotation-target: book/Ultralearning.pdf
----
 
 
 Here’s a well-structured format that will allow you to **review each chapter effectively** while maintaining clarity and organization. 

@@ -11,26 +11,24 @@
             "id": "9f98492bac0a7a6e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "book/review/ultra learning review.md",
-                "mode": "preview",
-                "source": false
+                "file": "book/Untitled.md"
               },
               "icon": "lucide-file",
-              "title": "ultra learning review"
+              "title": "Untitled"
             }
           },
           {
-            "id": "0069df9fccfb7601",
+            "id": "ffdad7ea4968b163",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "pdf-annotator",
               "state": {
-                "file": "book/Ultralearning.pdf.pdf"
+                "file": "book/Untitled.md"
               },
-              "icon": "lucide-file-text",
-              "title": "Ultralearning.pdf"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -52,7 +50,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -260,14 +258,15 @@
       }
     ]
   },
-  "active": "0dfcdb64e696bd74",
+  "active": "9f98492bac0a7a6e",
   "lastOpenFiles": [
+    "book/Ultralearning.pdf.pdf",
+    "book/review/Untitled.md",
+    "book/Untitled.md",
+    "book/review/ultra learning review.md",
     "Untitled 6.md",
     "book/Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1) 2.pdf",
-    "book/review/ultra learning review.md",
     "book/Chemistry-Study-Guide 1.pdf",
-    "book/Ultralearning.pdf.pdf",
-    "book/Untitled.md",
     "book/Programming Principles and Practice Using C++, Third Edition (Bjarne Stroustrup) (Z-Library) (1).pdf",
     "book/Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1).pdf",
     "Untitled 7.md",
@@ -304,7 +303,6 @@
     "learning block.md",
     "Learning/book learning/How to read a book and Actually learn from it.md",
     "Learning/book learning/How to read technical books.md",
-    "React/Bug and problem.md",
     "picture folder/https data tranfer 1.jpg",
     "picture folder/https data tranfer.jpg",
     "Learning/Canvas/Learning-System-Flow.canvas",
