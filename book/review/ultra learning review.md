@@ -141,7 +141,9 @@ Intrinsic project those that you are learning for your own sack like you want to
 expert interview method :  
 The expert interview method  is to talk to people who skill set you want to archive , look  for people who have the career you want and send an email , with the goal of building your application for example  online forms dedicated to programming 
 useful to ask your self what you are trying to learn  
-
+Answering "What "  :  
+A good way to do this is too write down on a sheet of paper three columns "Concepts"  "Fact"  " Procedure" 
+You can always revisited it later  , you can adjust the list if you discover your category is not quite right 
 ## Why It’s Important:
 **Meta learning is learning how thing structure , like 灶 stove in Chinese  we know that it have properties  like  ⽕ on the left-hand side to indicate that it has some relationship to fire . As a result , this show the structure in  language , meta learning on the other hand show the structure of learning . Moreover , the structure here is what kind of skill and information much be mastered , and what method are available to do so more effectively  is a heart of success for ultra learning  
 
