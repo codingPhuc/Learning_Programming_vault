@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf",
-                "page": 61,
+                "page": 57,
                 "left": -15,
-                "top": 491,
+                "top": 268,
                 "zoom": 1.0327380952380953
               },
               "icon": "lucide-file-text",
@@ -297,10 +297,10 @@
       }
     ]
   },
-  "active": "822f0761446313cb",
+  "active": "34d440fc3784cd31",
   "lastOpenFiles": [
-    "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf",
     "book/review/Review Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).md",
+    "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf",
     "book/review/Untitled.md",
     "book/review/ultra learning review.md",
     "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).md",
