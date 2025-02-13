@@ -168,7 +168,9 @@ The Emphasize / Exclude  Method :
 Once you've found a default  curriculum , you can consider making modification to it . you can make a guess . As an example ,  for conceptual subjects or topics that you do not really understand than it is best to stick too your bench mark . The Emphasize and Exclude method involves first finding areas of study that align with the goals you identified  in the first part of your research , if you want to focus pronunciation I would go to France for speaking  , if you want to develop your own app focus on tutorial instead of theory of computation 
 
 The  10 percent rule  : 
-10 percent of your learning time into research prior to starting , if you spend  six month  learning that will be 100 hour  in research 
+10 percent of your learning time into research prior to starting , if you spend  six month  learning that will be 100 hour  in research , this process will also scale up as you learn meaning the percentage will be lower bases on the larger amount of time .The goal here is not to latch on to a single possible resource 
+Diminishing  Returns  and Marginal Benefit Calculation  : 
+
 
 
 
