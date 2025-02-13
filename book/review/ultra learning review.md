@@ -144,6 +144,12 @@ useful to ask your self what you are trying to learn
 Answering "What "  :  
 A good way to do this is too write down on a sheet of paper three columns "Concepts"  "Fact"  " Procedure" 
 You can always revisited it later  , you can adjust the list if you discover your category is not quite right 
+Concepts : 
+idea that you need to understand in flexible ways in order for it to be used full . Some subject like allow have a hybrid of both concept and fact , that need to be understand and memorize in order to be used full. In general if something need to be understood not memorize put it in the first columns 
+Facts  : 
+Write down anything that needs to be memorized . Facts are anything that suffices if you can remember them  at all. You don't need to understand them just recall them in the right situation
+Procedure : 
+in the third columns write down anything that need to be practice may not involve much conscious thinking at all . even thought some  procedure require fact  , like improving pronunciation
 ## Why It’s Important:
 **Meta learning is learning how thing structure , like 灶 stove in Chinese  we know that it have properties  like  ⽕ on the left-hand side to indicate that it has some relationship to fire . As a result , this show the structure in  language , meta learning on the other hand show the structure of learning . Moreover , the structure here is what kind of skill and information much be mastered , and what method are available to do so more effectively  is a heart of success for ultra learning  
 
