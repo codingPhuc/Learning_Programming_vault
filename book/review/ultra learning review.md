@@ -170,6 +170,11 @@ Once you've found a default  curriculum , you can consider making modification t
 The  10 percent rule  : 
 10 percent of your learning time into research prior to starting , if you spend  six month  learning that will be 100 hour  in research , this process will also scale up as you learn meaning the percentage will be lower bases on the larger amount of time .The goal here is not to latch on to a single possible resource 
 Diminishing  Returns  and Marginal Benefit Calculation  : 
+so Reassessing is a necessary step of the learning process . I discover about  halfway that I was getting diminishing return need a better technique for my drawing . So you not only research when starting a project but when you compare the marginal benefits of whether your learn is good enough , interview with more expert  searching online for more technique if the other technique was not too help full you are better off sticking with your original plan 
+Long Term Prospect for Metalearning : 
+the real benefit of meta learning is not short but long terms 
+Better time management and improve skills for managing  your motivation . Ultimately , this effect far outweighs the effect of doing a specific project. Long terms meta learning is something you acquire with experience 
+
 
 
 
@@ -184,7 +189,7 @@ Dan Everett  in his early sixties manage to learn and understand a language that
 
 - **Best Practices:**
 - **How to Apply This Principle:**
-
+The best way to apply these principle is to draw a map , first a table which 3 column fact , concepts and practice 
 ### **Review Template for Each Principle Chapter (IV–XII)**
 
 ## **Chapter [X]: Principle [#]—[Title]**
