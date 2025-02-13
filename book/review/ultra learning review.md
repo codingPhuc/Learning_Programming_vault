@@ -189,7 +189,8 @@ Dan Everett  in his early sixties manage to learn and understand a language that
 
 - **Best Practices:**
 - **How to Apply This Principle:**
-The best way to apply these principle is to draw a map , first a table which 3 column fact , concepts and practice 
+The best way to apply these principle is to draw a map , first a table which 3 column fact , concepts and practice   
+- I need to see if the subject I am trying 
 ### **Review Template for Each Principle Chapter (IV–XII)**
 
 ## **Chapter [X]: Principle [#]—[Title]**
