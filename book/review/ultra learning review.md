@@ -165,7 +165,13 @@ How are you going to learn it
 bench mark  
 common way in which people learn the skill or subject , for school learning look at the curricula  used in that school  to teach that subject for the MIT challenge the course list for an entire degree 
 The Emphasize / Exclude  Method :  
-Once you've found a default  curriculum , you can consider making modification to it . you can make a guess 
+Once you've found a default  curriculum , you can consider making modification to it . you can make a guess . As an example ,  for conceptual subjects or topics that you do not really understand than it is best to stick too your bench mark . The Emphasize and Exclude method involves first finding areas of study that align with the goals you identified  in the first part of your research , if you want to focus pronunciation I would go to France for speaking  , if you want to develop your own app focus on tutorial instead of theory of computation 
+
+The  10 percent rule  : 
+10 percent of your learning time into research prior to starting , if you spend  six month  learning that will be 100 hour  in research 
+
+
+
 ## Why It’s Important:
 **Meta learning is learning how thing structure , like 灶 stove in Chinese  we know that it have properties  like  ⽕ on the left-hand side to indicate that it has some relationship to fire . As a result , this show the structure in  language , meta learning on the other hand show the structure of learning . Moreover , the structure here is what kind of skill and information much be mastered , and what method are available to do so more effectively  is a heart of success for ultra learning  
 
