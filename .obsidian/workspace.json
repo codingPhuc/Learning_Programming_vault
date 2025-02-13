@@ -23,19 +23,18 @@
             "id": "34d440fc3784cd31",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "book/abc.pdf",
-                "page": 6,
-                "left": -11,
-                "top": 406,
-                "zoom": 1.2843137254901962
+                "file": "book/review/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "abc"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -275,18 +274,18 @@
       }
     ]
   },
-  "active": "0f77fe5cd359b8dd",
+  "active": "34d440fc3784cd31",
   "lastOpenFiles": [
+    "book/review/ultra learning review.md",
+    "book/abc.pdf",
+    "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).md",
     "book/review/Untitled.md",
     "book/Fluent Python Clear, Concise, and Effective Programming, 2nd Edition (Luciano Ramalho) (Z-Library).pdf",
-    "book/abc.pdf",
     "sadfsdf.md",
     "book/Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1) 2.pdf",
     "Covariance and Contravariance/Variance in Generic Interfaces.md",
     "book/Ultralearning.pdf.pdf",
     "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf",
-    "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).md",
-    "book/review/ultra learning review.md",
     "book/Untitled.md",
     "book/Fundamentals of Data Engineering Plan and Build Robust Data Systems (Joe Reis, Matt Housley) (Z-Library) (1).pdf",
     "Tasks to do.md",
