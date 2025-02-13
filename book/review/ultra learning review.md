@@ -138,8 +138,9 @@ Experimentation : Explore outside your comfort zone  no just from following path
 	- Answering the why : 
 		- there are different type of project Instrumental learning project , learning with purpose of archiving a different example Diana Fehsenfeld 
 		- Intrinsic project those that you are learning for your own sack like you want to learn French to speak French for example  `
-	 expert interview method
-	- The expert interview method  is to talk to people who skill sheet you want to archive ,
+	 expert interview method :  
+		- The expert interview method  is to talk to people who skill sheet you want to archive , look  for people who have the career you want and send an email , with the goal of building your application for example  online forms dedicated to programming 
+		- 
 - Why It’s Important:**Meta learning is learning how thing structure , like 灶 stove in Chinese  we know that it have properties  like  ⽕ on the left-hand side to indicate that it has some relationship to fire . As a result , this show the structure in  language , meta learning on the other hand show the structure of learning . Moreover , the structure here is what kind of skill and information much be mastered , and what method are available to do so more effectively  is a heart of success for ultra learning  
 - 
 
