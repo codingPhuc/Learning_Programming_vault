@@ -8,17 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "797b1aa7d160505f",
+            "id": "9f98492bac0a7a6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/Untitled.md",
-                "mode": "source",
+                "file": "book/review/ultra learning review.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "ultra learning review"
+            }
+          },
+          {
+            "id": "0069df9fccfb7601",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "book/Ultralearning.pdf.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Ultralearning.pdf"
             }
           }
         ]
@@ -201,18 +213,66 @@
         "height": 776,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "20368be9e2f51aab",
+        "type": "window",
+        "children": [
+          {
+            "id": "606aa93de62f83bf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "377a83b8c4c0d809",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              },
+              {
+                "id": "0dfcdb64e696bd74",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "book/review/ultra learning review.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "ultra learning review"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 1777,
+        "y": -119,
+        "width": 1100,
+        "height": 779,
+        "maximize": true,
+        "zoom": 0
       }
     ]
   },
-  "active": "797b1aa7d160505f",
+  "active": "0dfcdb64e696bd74",
   "lastOpenFiles": [
+    "Untitled 6.md",
+    "book/Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1) 2.pdf",
     "book/review/ultra learning review.md",
+    "book/Chemistry-Study-Guide 1.pdf",
+    "book/Ultralearning.pdf.pdf",
     "book/Untitled.md",
     "book/Programming Principles and Practice Using C++, Third Edition (Bjarne Stroustrup) (Z-Library) (1).pdf",
-    "Learning/Learning With Chat gpt.md",
     "book/Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1).pdf",
+    "Untitled 7.md",
+    "Learning/Learning With Chat gpt.md",
     "Learning thing that interest me/Embeded engineering.md",
-    "book/Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1) 2.pdf",
     "Edge computing.md",
     "book/review",
     "picture folder/Pasted image 20250211185141.png",
@@ -238,18 +298,13 @@
     "picture folder/Driving 2025-02-09 16.39.35.excalidraw.md",
     "picture folder/Driving 2025-02-09 16.36.28.excalidraw.md",
     "programming language/C++.md",
-    "programming language",
     "Embeded engineering.md",
     "Learning/what_do_I_like_to_do/what is computer engineering.md",
     "Learning/what_do_I_like_to_do/what is a proof.md",
-    "book/Fundamentals of Data Engineering Plan and Build Robust Data Systems (Joe Reis, Matt Housley) (Z-Library) (1).pdf",
     "learning block.md",
     "Learning/book learning/How to read a book and Actually learn from it.md",
     "Learning/book learning/How to read technical books.md",
     "React/Bug and problem.md",
-    "React/Todo app project.md",
-    "React/project for todo react app.md",
-    "Program Structure/Program Structure.md",
     "picture folder/https data tranfer 1.jpg",
     "picture folder/https data tranfer.jpg",
     "Learning/Canvas/Learning-System-Flow.canvas",

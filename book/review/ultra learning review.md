@@ -1,11 +1,17 @@
+---
+annotation-target: book/Ultralearning.pdf
+---
+
+
 Here’s a well-structured format that will allow you to **review each chapter effectively** while maintaining clarity and organization. 
-
----
-annotation-target: https://arxiv.org/pdf/2104.13478.pdf
-
----
-
+book 
 # **Ultralearning Review Guide**
+
+
+
+
+
+
 
 ## **Table of Contents**
 
