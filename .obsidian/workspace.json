@@ -11,12 +11,12 @@
             "id": "9f98492bac0a7a6e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "pdf-annotator",
               "state": {
-                "file": "book/Ultralearning.pdf.pdf"
+                "file": "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).md"
               },
-              "icon": "lucide-file-text",
-              "title": "Ultralearning.pdf"
+              "icon": "lucide-file",
+              "title": "Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)"
             }
           },
           {
@@ -35,14 +35,15 @@
             "id": "34d440fc3784cd31",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -279,18 +280,20 @@
       }
     ]
   },
-  "active": "ec2bbee667482424",
+  "active": "9f98492bac0a7a6e",
   "lastOpenFiles": [
-    "book/Fluent Python Clear, Concise, and Effective Programming, 2nd Edition (Luciano Ramalho) (Z-Library).pdf",
-    "book/review/ultra learning review.md",
     "book/Ultralearning.pdf.pdf",
+    "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).md",
+    "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf",
+    "book/review/ultra learning review.md",
+    "book/review/Untitled.md",
+    "book/abc.pdf",
+    "book/Fluent Python Clear, Concise, and Effective Programming, 2nd Edition (Luciano Ramalho) (Z-Library).pdf",
     "book/Untitled.md",
     "book/Fundamentals of Data Engineering Plan and Build Robust Data Systems (Joe Reis, Matt Housley) (Z-Library) (1).pdf",
     "book/Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1) 2.pdf",
     "Tasks to do.md",
     "React/Bug and problem.md",
-    "book/abc.pdf",
-    "book/review/Untitled.md",
     "book/ssasa.pdf",
     "book/Programming Principles and Practice Using C++, Third Edition (Bjarne Stroustrup) (Z-Library) (1).pdf",
     "Untitled 9.md",
@@ -304,7 +307,6 @@
     "Learning/Learning With Chat gpt.md",
     "Learning thing that interest me/Embeded engineering.md",
     "Edge computing.md",
-    "book/review",
     "picture folder/Pasted image 20250211185141.png",
     "picture folder/Pasted image 20250211184926.png",
     "picture folder/IMG_0605.jpg",
@@ -318,13 +320,11 @@
     "Learning thing that interest me/programming language/C++/learnCpp/0.2 — Introduction to programs and programming languages.md",
     "Learning thing that interest me/programming language/C++/Learning Road Maps.md",
     "Learning thing that interest me/programming language/C++/Untitled.md",
-    "Learning thing that interest me/programming language/C++/learnCpp",
     "Learning thing that interest me/programming language/C++/C++.md",
     "Learning thing that interest me/Computer Vision.md",
     "udt.md",
     "picture folder/Driving 2025-02-09 16.39.35.excalidraw.md",
     "picture folder/Driving 2025-02-09 16.36.28.excalidraw.md",
-    "programming language/C++.md",
     "picture folder/https data tranfer 1.jpg",
     "picture folder/https data tranfer.jpg",
     "Learning/Canvas/Learning-System-Flow.canvas",
