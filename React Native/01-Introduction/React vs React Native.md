@@ -11,7 +11,10 @@ A comparison of React and React Native, highlighting key differences and similar
 | Styling | CSS | StyleSheet API |
 | Navigation | React Router | React Navigation |
 | Rendering | Web view | Native UI |
-
+> [!PDF|] [[Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf#page=6&selection=61,4,63,9|Automate the Boring Stuff with Python, 2nd Edit... (Z-Library), p.iv]]
+> > been taken in the preparation of this work, neither the author nor No Starch Press, Inc. shall have any liability
+> 
+> 
 ## Key Differences
 
 1. **Components**

@@ -121,14 +121,16 @@
             "id": "6463eb68368786ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "programming language/C++.md",
-                "mode": "source",
-                "source": false
+                "file": "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf",
+                "page": 6,
+                "left": 0,
+                "top": 480,
+                "zoom": 0.6547619047619048
               },
-              "icon": "lucide-file",
-              "title": "C++"
+              "icon": "lucide-file-text",
+              "title": "Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)"
             }
           }
         ],
@@ -160,7 +162,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "C++",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": true,
@@ -197,7 +199,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "889387ff38d23072",
@@ -253,6 +255,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -265,6 +270,11 @@
   },
   "active": "6463eb68368786ea",
   "lastOpenFiles": [
+    "React Native/01-Introduction/React vs React Native.md",
+    "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf",
+    "/book/review/Untitled.md",
+    "/book/review",
+    "/book",
     "Note.md",
     "Advance state management.md",
     "picture folder/IMG_0601.jpg",
@@ -301,11 +311,6 @@
     "/git learning valut/GIT.md",
     "/git learning valut",
     "/Ish.md",
-    "book/Fundamentals of Data Engineering Plan and Build Robust Data Systems (Joe Reis, Matt Housley) (Z-Library) (1).pdf",
-    "Excalidraw/Drawing 2025-02-03 19.17.48.excalidraw.md",
-    "Taxes.md",
-    "/Excalidraw",
-    "Udemy free sources]",
-    "/Udemy free sources]"
+    "book/Fundamentals of Data Engineering Plan and Build Robust Data Systems (Joe Reis, Matt Housley) (Z-Library) (1).pdf"
   ]
 }
