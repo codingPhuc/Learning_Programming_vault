@@ -11,12 +11,12 @@
             "id": "9f98492bac0a7a6e",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "pdf",
               "state": {
-                "file": "book/Untitled.md"
+                "file": "book/Ultralearning.pdf.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-file-text",
+              "title": "Ultralearning.pdf"
             }
           },
           {
@@ -49,10 +49,14 @@
             "id": "ffdad7ea4968b163",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Tasks to do.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tasks to do"
             }
           },
           {
@@ -67,8 +71,7 @@
               "title": "Ultralearning.pdf"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,13 +124,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 392.5,
-    "collapsed": true
+    "width": 392.5
   },
   "right": {
     "id": "b3cff0b5294a90f3",
@@ -276,7 +277,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "book/review/ultra learning review.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
@@ -297,17 +298,17 @@
       }
     ]
   },
-  "active": "ffdad7ea4968b163",
+  "active": "9f98492bac0a7a6e",
   "lastOpenFiles": [
-    "Tasks to do.md",
-    "React/Bug and problem.md",
-    "book/abc.pdf",
-    "book/Fundamentals of Data Engineering Plan and Build Robust Data Systems (Joe Reis, Matt Housley) (Z-Library) (1).pdf",
-    "book/Untitled.md",
-    "book/review/Untitled.md",
     "book/review/ultra learning review.md",
     "book/Ultralearning.pdf.pdf",
     "book/Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1) 2.pdf",
+    "book/Fundamentals of Data Engineering Plan and Build Robust Data Systems (Joe Reis, Matt Housley) (Z-Library) (1).pdf",
+    "book/Untitled.md",
+    "Tasks to do.md",
+    "React/Bug and problem.md",
+    "book/abc.pdf",
+    "book/review/Untitled.md",
     "book/ssasa.pdf",
     "book/Programming Principles and Practice Using C++, Third Edition (Bjarne Stroustrup) (Z-Library) (1).pdf",
     "Untitled 9.md",
@@ -342,7 +343,6 @@
     "picture folder/Driving 2025-02-09 16.39.35.excalidraw.md",
     "picture folder/Driving 2025-02-09 16.36.28.excalidraw.md",
     "programming language/C++.md",
-    "Embeded engineering.md",
     "picture folder/https data tranfer 1.jpg",
     "picture folder/https data tranfer.jpg",
     "Learning/Canvas/Learning-System-Flow.canvas",

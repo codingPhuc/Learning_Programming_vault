@@ -156,6 +156,15 @@ Facts  :
 Write down anything that needs to be memorized . Facts are anything that suffices if you can remember them  at all. You don't need to understand them just recall them in the right situation
 Procedure : 
 in the third columns write down anything that need to be practice may not involve much conscious thinking at all . even thought some  procedure require fact  , like improving pronunciation
+Analysis to draw your Map  : 
+this  will give you a good understanding of what your major bottle neck are going to be, and what resource  and methods that you need to search to overcome those difficulties 
+like for example you need to learn fact quickly so you used space repetition software or the thing you need to learn require a deep understanding of concept so you practice by teaching other 
+look at some of the particular feature of the concept , fact , and procedures you're trying to learn to find method to master them 
+Answering "How" :  
+How are you going to learn it 
+bench mark  
+common way in which people learn the skill or subject , for school learning look at the curricula  used in that school  to teach that subject for the MIT challenge the course list for an entire degree 
+
 ## Why It’s Important:
 **Meta learning is learning how thing structure , like 灶 stove in Chinese  we know that it have properties  like  ⽕ on the left-hand side to indicate that it has some relationship to fire . As a result , this show the structure in  language , meta learning on the other hand show the structure of learning . Moreover , the structure here is what kind of skill and information much be mastered , and what method are available to do so more effectively  is a heart of success for ultra learning  
 
