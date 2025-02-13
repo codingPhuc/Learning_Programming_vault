@@ -14,7 +14,8 @@ this is a todo  repo where I connect all my Todo into one
 - [ ] create a program for filtering job [hiring cafe](https://hiring.cafe/?searchState=%7B%22searchQuery%22%3A%22firmware%22%2C%22seniorityLevel%22%3A%5B%22No+Prior+Experience+Required%22%2C%22Entry+Level%22%5D%7D) used the api or something  
 
 
-
+# Todo For bug 
+- [ ] solve all the [[Bug and problem]]
 
 # Todo for technical writting 
 - [ ] Learn how to technical write  bases on courses [[Technical writting]]

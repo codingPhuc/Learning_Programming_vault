@@ -34,15 +34,25 @@
             }
           },
           {
+            "id": "fce66a2700d7191c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "book/Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1) 2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1) 2"
+            }
+          },
+          {
             "id": "ffdad7ea4968b163",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "book/Untitled.md"
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -58,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -90,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "b",
+                "query": "bug",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -111,11 +121,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 392.5,
+    "collapsed": true
   },
   "right": {
     "id": "b3cff0b5294a90f3",
@@ -285,19 +297,27 @@
       }
     ]
   },
-  "active": "b2c345398ce47145",
+  "active": "ffdad7ea4968b163",
   "lastOpenFiles": [
-    "book/Ultralearning.pdf.pdf",
+    "Tasks to do.md",
+    "React/Bug and problem.md",
+    "book/abc.pdf",
+    "book/Fundamentals of Data Engineering Plan and Build Robust Data Systems (Joe Reis, Matt Housley) (Z-Library) (1).pdf",
     "book/Untitled.md",
-    "Untitled 8.md",
     "book/review/Untitled.md",
     "book/review/ultra learning review.md",
-    "Untitled 6.md",
+    "book/Ultralearning.pdf.pdf",
     "book/Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1) 2.pdf",
-    "book/Chemistry-Study-Guide 1.pdf",
+    "book/ssasa.pdf",
     "book/Programming Principles and Practice Using C++, Third Edition (Bjarne Stroustrup) (Z-Library) (1).pdf",
-    "book/Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1).pdf",
+    "Untitled 9.md",
     "Untitled 7.md",
+    "Untitled 6.md",
+    "Untitled 4.md",
+    "Untitled 5.md",
+    "Untitled 8.md",
+    "book/Chemistry-Study-Guide 1.pdf",
+    "book/Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1).pdf",
     "Learning/Learning With Chat gpt.md",
     "Learning thing that interest me/Embeded engineering.md",
     "Edge computing.md",
@@ -317,19 +337,12 @@
     "Learning thing that interest me/programming language/C++/Untitled.md",
     "Learning thing that interest me/programming language/C++/learnCpp",
     "Learning thing that interest me/programming language/C++/C++.md",
-    "Learning thing that interest me/programming language/C++",
-    "Learning thing that interest me/programming language",
     "Learning thing that interest me/Computer Vision.md",
-    "Learning thing that interest me",
     "udt.md",
     "picture folder/Driving 2025-02-09 16.39.35.excalidraw.md",
     "picture folder/Driving 2025-02-09 16.36.28.excalidraw.md",
     "programming language/C++.md",
     "Embeded engineering.md",
-    "Learning/what_do_I_like_to_do/what is computer engineering.md",
-    "Learning/what_do_I_like_to_do/what is a proof.md",
-    "learning block.md",
-    "Learning/book learning/How to read a book and Actually learn from it.md",
     "picture folder/https data tranfer 1.jpg",
     "picture folder/https data tranfer.jpg",
     "Learning/Canvas/Learning-System-Flow.canvas",

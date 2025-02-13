@@ -1,3 +1,3 @@
 ---
-annotation-target: book/Ultralearning.pdf
+annotation-target: Ultralearning.pdf
 ---
