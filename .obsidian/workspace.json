@@ -31,7 +31,7 @@
                 "file": "book/abc.pdf",
                 "page": 6,
                 "left": -4,
-                "top": 581,
+                "top": 464,
                 "zoom": 1.2843137254901962
               },
               "icon": "lucide-file-text",
@@ -301,10 +301,10 @@
       }
     ]
   },
-  "active": "c0c9dcc4f5de5d7a",
+  "active": "34d440fc3784cd31",
   "lastOpenFiles": [
-    "book/abc.pdf",
     "sadfsdf.md",
+    "book/abc.pdf",
     "Covariance and Contravariance/Variance in Generic Interfaces.md",
     "book/Ultralearning.pdf.pdf",
     "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf",
