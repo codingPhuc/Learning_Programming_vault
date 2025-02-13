@@ -1,6 +1,33 @@
 
 
+# Entering Expression into the Interactive Shell  
+> [!PDF|red] [[Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf#page=46&selection=4,0,4,47&color=red|Automate the Boring Stuff with Python, 2nd Edit... (Z-Library), p.4]]
+> > Entering Expressions into the Interactive Shell
 
+ The order of operation in Python is similar to mathematics 
+you as the programmer must enter the expression , but python will do the hard part and evaluate it down into a single expression 
+
+
+
+## what is and expression   
+> [!PDF|red] [[Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf#page=49&selection=4,1,4,50&color=red|Automate the Boring Stuff with Python, 2nd Edit... (Z-Library), p.7]]
+> > he Integer, Floating-Point, and String Data Types
+> 
+> 
+
+Expression  are values combined with operators , and they  always evaluate down to a single value. A data types is a category for values  , and every value belongs to exactly one type .  
+`EOL while scanning string` error happened when you forget a  closing ' at the end of your string 
+## what is a statement  
+
+> [!PDF|red] [[Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf#page=51&selection=18,0,18,21&color=red|Automate the Boring Stuff with Python, 2nd Edit... (Z-Library), p.9]]
+> > Assignment Statements
+
+you will store values   in variables with an assignment statement . An assignment statement  
+an assignment statement consisted of  a variable name ,   and an equal sign (assignment operator ) and the value to be stored . 
+thing of a variable as a labeled box that a value is place in  
+
+
+# First  test
 > [!PDF|] [[Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf#page=61&selection=21,1,22,59|Automate the Boring Stuff with Python, 2nd Edit... (Z-Library), p.19]]
 > > Which of the following are operators, and which are values?
 > 

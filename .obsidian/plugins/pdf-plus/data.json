@@ -186,7 +186,7 @@
     "display"
   ],
   "updateColorPaletteStateFromContextMenu": true,
-  "mobileCopyAction": "text",
+  "mobileCopyAction": "pdf-plus",
   "showContextMenuOnTablet": false,
   "executeBuiltinCommandForOutline": true,
   "executeBuiltinCommandForZoom": true,
@@ -211,7 +211,7 @@
   "useCallout": true,
   "calloutType": "PDF",
   "calloutIcon": "highlighter",
-  "highlightBacklinksInEmbed": true,
+  "highlightBacklinksInEmbed": false,
   "highlightBacklinksInHoverPopover": false,
   "highlightBacklinksInCanvas": true,
   "clickPDFInternalLinkWithModifierKey": true,

@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf",
-                "page": 57,
-                "left": -15,
-                "top": 268,
-                "zoom": 1.0327380952380953
+                "page": 45,
+                "left": -20,
+                "top": 81,
+                "zoom": 0.7410714285714287
               },
               "icon": "lucide-file-text",
               "title": "Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)"
@@ -47,12 +47,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/review/Review Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).md",
+                "file": "book/review/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)/Review Chapter 1 Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Review Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)"
+              "title": "Review Chapter 1 Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)"
             }
           }
         ],
@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5,
-    "collapsed": true
+    "width": 392.5
   },
   "right": {
     "id": "b3cff0b5294a90f3",
@@ -297,13 +296,14 @@
       }
     ]
   },
-  "active": "34d440fc3784cd31",
+  "active": "822f0761446313cb",
   "lastOpenFiles": [
-    "book/review/Review Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).md",
     "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf",
+    "book/review/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)/Review Chapter 1 Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).md",
+    "book/review/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)",
+    "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).md",
     "book/review/Untitled.md",
     "book/review/ultra learning review.md",
-    "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).md",
     "book/abc.pdf",
     "book/Fluent Python Clear, Concise, and Effective Programming, 2nd Edition (Luciano Ramalho) (Z-Library).pdf",
     "sadfsdf.md",
@@ -323,7 +323,6 @@
     "Untitled 5.md",
     "Untitled 8.md",
     "book/Chemistry-Study-Guide 1.pdf",
-    "book/Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1).pdf",
     "Learning/Learning With Chat gpt.md",
     "Learning thing that interest me/Embeded engineering.md",
     "Edge computing.md",
