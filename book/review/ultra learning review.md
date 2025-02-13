@@ -190,7 +190,20 @@ Dan Everett  in his early sixties manage to learn and understand a language that
 - **Best Practices:**
 - **How to Apply This Principle:**
 The best way to apply these principle is to draw a map , first a table which 3 column fact , concepts and practice   
-- I need to see if the subject I am trying 
+- I need to see if the subject I am trying  
+
+
+## **Chapter [V]: Principle [2]—[Chapter V Principle 2 Focus Sharpen Your Knife]**
+
+- **Definition of the Principle:**  
+- **Why It’s Important:**
+- **Key Examples:** 
+Mary Somerville  a women  in the eighteenth century  who have to  confine to a women duty in that time. She have a passion in acquiring knowledge , which lead her to learned several  language  to fluency , and knew how to paint and  play the piano . 
+- **Best Practices:**
+- **How to Apply This Principle:**
+
+
+
 ### **Review Template for Each Principle Chapter (IV–XII)**
 
 ## **Chapter [X]: Principle [#]—[Title]**
