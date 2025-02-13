@@ -6,20 +6,17 @@
       {
         "id": "abf2093dbba79612",
         "type": "tabs",
-        "dimension": 71.7828418230563,
         "children": [
           {
             "id": "0f77fe5cd359b8dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "Covariance and Contravariance/Variance in Generic Interfaces.md",
-                "mode": "preview",
-                "source": false
+                "file": "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).md"
               },
               "icon": "lucide-file",
-              "title": "Variance in Generic Interfaces"
+              "title": "Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)"
             }
           },
           {
@@ -30,34 +27,12 @@
               "state": {
                 "file": "book/abc.pdf",
                 "page": 6,
-                "left": -4,
-                "top": 464,
+                "left": -11,
+                "top": 406,
                 "zoom": 1.2843137254901962
               },
               "icon": "lucide-file-text",
               "title": "abc"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "c4a8ce8b43e48618",
-        "type": "tabs",
-        "dimension": 28.217158176943702,
-        "children": [
-          {
-            "id": "c0c9dcc4f5de5d7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sadfsdf.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "sadfsdf"
             }
           }
         ]
@@ -92,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bug",
+                "query": "sadfsdf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -117,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5,
-    "collapsed": true
+    "width": 392.5
   },
   "right": {
     "id": "b3cff0b5294a90f3",
@@ -296,25 +270,25 @@
         "y": -119,
         "width": 1100,
         "height": 779,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "34d440fc3784cd31",
+  "active": "0f77fe5cd359b8dd",
   "lastOpenFiles": [
-    "sadfsdf.md",
+    "book/review/Untitled.md",
+    "book/Fluent Python Clear, Concise, and Effective Programming, 2nd Edition (Luciano Ramalho) (Z-Library).pdf",
     "book/abc.pdf",
+    "sadfsdf.md",
+    "book/Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1) 2.pdf",
     "Covariance and Contravariance/Variance in Generic Interfaces.md",
     "book/Ultralearning.pdf.pdf",
     "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf",
     "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).md",
     "book/review/ultra learning review.md",
-    "book/review/Untitled.md",
-    "book/Fluent Python Clear, Concise, and Effective Programming, 2nd Edition (Luciano Ramalho) (Z-Library).pdf",
     "book/Untitled.md",
     "book/Fundamentals of Data Engineering Plan and Build Robust Data Systems (Joe Reis, Matt Housley) (Z-Library) (1).pdf",
-    "book/Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1) 2.pdf",
     "Tasks to do.md",
     "React/Bug and problem.md",
     "book/ssasa.pdf",
