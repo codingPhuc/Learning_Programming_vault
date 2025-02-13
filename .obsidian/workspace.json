@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/review/ultra learning review.md",
+                "file": "book/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ultra learning review"
+              "title": "Untitled"
             }
           }
         ]
@@ -206,8 +206,9 @@
   },
   "active": "797b1aa7d160505f",
   "lastOpenFiles": [
-    "book/Programming Principles and Practice Using C++, Third Edition (Bjarne Stroustrup) (Z-Library) (1).pdf",
     "book/review/ultra learning review.md",
+    "book/Untitled.md",
+    "book/Programming Principles and Practice Using C++, Third Edition (Bjarne Stroustrup) (Z-Library) (1).pdf",
     "Learning/Learning With Chat gpt.md",
     "book/Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1).pdf",
     "Learning thing that interest me/Embeded engineering.md",
