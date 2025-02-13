@@ -133,19 +133,21 @@ Experimentation : Explore outside your comfort zone  no just from following path
 **---**
 ## **Chapter [IV]: Principle  Principle 1 Metalearning First Draw a Map
 
-- **Definition of the Principle:** 
-	- determining the why what and how of meta learning , "Why" refers to understanding your motivation to learn , "What" is the knowledge and ability you need to acquire to be successful  "How" refer to resources and method you need to used to become successful 
-	- Answering the why : 
-		- there are different type of project Instrumental learning project , learning with purpose of archiving a different example Diana Fehsenfeld 
-		- Intrinsic project those that you are learning for your own sack like you want to learn French to speak French for example  `
-	 expert interview method :  
-		- The expert interview method  is to talk to people who skill sheet you want to archive , look  for people who have the career you want and send an email , with the goal of building your application for example  online forms dedicated to programming 
-		- 
-- Why It’s Important:**Meta learning is learning how thing structure , like 灶 stove in Chinese  we know that it have properties  like  ⽕ on the left-hand side to indicate that it has some relationship to fire . As a result , this show the structure in  language , meta learning on the other hand show the structure of learning . Moreover , the structure here is what kind of skill and information much be mastered , and what method are available to do so more effectively  is a heart of success for ultra learning  
-- 
+## **Definition of the Principle:** 
+determining the why what and how of meta learning , "Why" refers to understanding your motivation to learn , "What" is the knowledge and ability you need to acquire to be successful  "How" refer to resources and method you need to used to become successful 
+Answering the why : 
+there are different type of project Instrumental learning project , learning with purpose of archiving a different example Diana Fehsenfeld 
+Intrinsic project those that you are learning for your own sack like you want to learn French to speak French for example  `
+expert interview method :  
+The expert interview method  is to talk to people who skill set you want to archive , look  for people who have the career you want and send an email , with the goal of building your application for example  online forms dedicated to programming 
+useful to ask your self what you are trying to learn  
+
+## Why It’s Important:
+**Meta learning is learning how thing structure , like 灶 stove in Chinese  we know that it have properties  like  ⽕ on the left-hand side to indicate that it has some relationship to fire . As a result , this show the structure in  language , meta learning on the other hand show the structure of learning . Moreover , the structure here is what kind of skill and information much be mastered , and what method are available to do so more effectively  is a heart of success for ultra learning  
 
 
-- **Key Examples:** Dan Everett  in his early sixties manage to learn and understand a language that does not have key information like the name or how to pronounce and speak  .  He manage to  accomplish  this feet by  listening too another person speaking the language and writing the verb noun and  pronouns on a chart broad  . Dan Everett have two thing in his linguistic arsenal how a language operate and method for fluency have enable  him to become fluent in Piraha  
+## **Key Examples:** 
+Dan Everett  in his early sixties manage to learn and understand a language that does not have key information like the name or how to pronounce and speak  .  He manage to  accomplish  this feet by  listening too another person speaking the language and writing the verb noun and  pronouns on a chart broad  . Dan Everett have two thing in his linguistic arsenal how a language operate and method for fluency have enable  him to become fluent in Piraha  
 "Diana Fehsenfeld" who  after a few decade of being a librarian found that her job have become obsolete and need to transit to a new flied  so she choose  statistics and data visualization 
 
 - **Best Practices:**
