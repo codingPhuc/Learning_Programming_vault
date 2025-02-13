@@ -164,7 +164,8 @@ Answering "How" :
 How are you going to learn it 
 bench mark  
 common way in which people learn the skill or subject , for school learning look at the curricula  used in that school  to teach that subject for the MIT challenge the course list for an entire degree 
-
+The Emphasize / Exclude  Method :  
+Once you've found a default  curriculum , you can consider making modification to it . you can make a guess 
 ## Why It’s Important:
 **Meta learning is learning how thing structure , like 灶 stove in Chinese  we know that it have properties  like  ⽕ on the left-hand side to indicate that it has some relationship to fire . As a result , this show the structure in  language , meta learning on the other hand show the structure of learning . Moreover , the structure here is what kind of skill and information much be mastered , and what method are available to do so more effectively  is a heart of success for ultra learning  
 
