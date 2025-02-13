@@ -11,12 +11,14 @@
             "id": "797b1aa7d160505f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "book/Programming Principles and Practice Using C++, Third Edition (Bjarne Stroustrup) (Z-Library) (1).pdf"
+                "file": "book/review/ultra learning review.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Programming Principles and Practice Using C++, Third Edition (Bjarne Stroustrup) (Z-Library) (1)"
+              "icon": "lucide-file",
+              "title": "ultra learning review"
             }
           }
         ]
@@ -197,16 +199,17 @@
         "y": -186,
         "width": 1102,
         "height": 776,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "3e640f7bb6a1ce36",
+  "active": "797b1aa7d160505f",
   "lastOpenFiles": [
+    "book/Programming Principles and Practice Using C++, Third Edition (Bjarne Stroustrup) (Z-Library) (1).pdf",
+    "book/review/ultra learning review.md",
     "Learning/Learning With Chat gpt.md",
     "book/Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1).pdf",
-    "book/review/ultra learning review.md",
     "Learning thing that interest me/Embeded engineering.md",
     "book/Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1) 2.pdf",
     "Edge computing.md",
@@ -233,7 +236,6 @@
     "udt.md",
     "picture folder/Driving 2025-02-09 16.39.35.excalidraw.md",
     "picture folder/Driving 2025-02-09 16.36.28.excalidraw.md",
-    "book/Programming Principles and Practice Using C++, Third Edition (Bjarne Stroustrup) (Z-Library) (1).pdf",
     "programming language/C++.md",
     "programming language",
     "Embeded engineering.md",
