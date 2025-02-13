@@ -8,27 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f98492bac0a7a6e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).md"
-              },
-              "icon": "lucide-file",
-              "title": "Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)"
-            }
-          },
-          {
             "id": "0f77fe5cd359b8dd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "book/Ultralearning.pdf.pdf"
+                "file": "Covariance and Contravariance/Variance in Generic Interfaces.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Ultralearning.pdf"
+              "icon": "lucide-file",
+              "title": "Variance in Generic Interfaces"
             }
           },
           {
@@ -37,13 +27,18 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf"
+                "file": "book/abc.pdf",
+                "page": 4,
+                "left": -11,
+                "top": 757,
+                "zoom": 1.2843137254901962
               },
               "icon": "lucide-file-text",
-              "title": "Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)"
+              "title": "abc"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +179,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "floating": {
@@ -280,14 +278,15 @@
       }
     ]
   },
-  "active": "9f98492bac0a7a6e",
+  "active": "34d440fc3784cd31",
   "lastOpenFiles": [
+    "Covariance and Contravariance/Variance in Generic Interfaces.md",
     "book/Ultralearning.pdf.pdf",
-    "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).md",
+    "book/abc.pdf",
     "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf",
+    "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).md",
     "book/review/ultra learning review.md",
     "book/review/Untitled.md",
-    "book/abc.pdf",
     "book/Fluent Python Clear, Concise, and Effective Programming, 2nd Edition (Luciano Ramalho) (Z-Library).pdf",
     "book/Untitled.md",
     "book/Fundamentals of Data Engineering Plan and Build Robust Data Systems (Joe Reis, Matt Housley) (Z-Library) (1).pdf",
