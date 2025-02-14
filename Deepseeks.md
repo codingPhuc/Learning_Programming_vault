@@ -56,4 +56,12 @@ Can wait to ee how they take advantage of FP6 and FP4 in blackwell
 
 
 
+Nvidia have a library for block wide rescaling the current support  in pytouch thought have not rescalling the number cannot be bigger and smaller than what I support 
 
+https://arxiv.org/abs/2412.19437  
+Is FP8 a model created by the deep seek creator correct ?  Or is it a model that the deep seek creator piggy back off of NIvada library ? 
+FP8 is a standard datatype supported by most languages and GPU libraries. The problem the DeepSeek engineers solved is that many numbers in training an LLM need to be either bigger that 447 or smaller than 0.002. So, instead of just storing as FP8, they quantized to FP8, which means there's a scaling factor.
+
+
+The envidia  Cude  will decide what you will do to the gpu , most of the magic is a high level  decription of what you want 2 large matrix it cannot multiply in the gpu  
+there is multiple layer in pytouch and Nvidia GPU 
