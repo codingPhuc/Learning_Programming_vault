@@ -123,14 +123,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf",
-                "page": 15,
+                "file": "book/Ultralearning.pdf.pdf",
+                "page": 88,
                 "left": 0,
-                "top": 47,
-                "zoom": 0.6547619047619048
+                "top": 667,
+                "zoom": 0.5392156862745098
               },
               "icon": "lucide-file-text",
-              "title": "Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)"
+              "title": "Ultralearning.pdf"
             }
           }
         ],
@@ -270,6 +270,10 @@
   },
   "active": "6463eb68368786ea",
   "lastOpenFiles": [
+    "book/review/ultra learning review.md",
+    "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf",
+    "Untitled 3.md",
+    "book/Ultralearning.pdf.pdf",
     "Deepseeks.md",
     "book/review/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)/Review Chapter 1 P Y T H O N B A S I C S.md",
     "picture folder/Pasted image 20250213191857.png",
@@ -292,7 +296,6 @@
     "/book/review",
     "/book",
     "React Native/01-Introduction/React vs React Native.md",
-    "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf",
     "/book/review/Untitled.md",
     "Note.md",
     "Advance state management.md",
@@ -312,9 +315,6 @@
     "/todo/research.md",
     "/todo",
     "/gift for American.md",
-    "/Technical writting.md",
-    "/Tasks to do.md",
-    "/Learning/Learning With Chat gpt.md",
-    "/Learning"
+    "/Technical writting.md"
   ]
 }
