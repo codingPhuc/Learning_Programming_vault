@@ -1,10 +1,23 @@
 
 # Boolean Operators 
 
-> [!PDF|] [[Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf#page=67&selection=35,0,55,9|Automate the Boring Stuff with Python, 2nd Edit... (Z-Library), p.25]]
-> > The three Boolean operators (and, or, and not) are used to compare Boolean values. Like comparison operators, they evaluate these expressions down to a Boolean value. Let’s explore these operators in detail, starting with the and operator.
-> 
-> I see so the three Boolean operators are (an, or , and not) they are used to compare Boolean values . Like comparison operators, they evaluate these expression down to a Boolean value 
+
+> [!PDF|red] [[Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf#page=67&selection=35,0,55,8&color=red|Automate the Boring Stuff with Python, 2nd Edit... (Z-Library), p.25]]
+> > The three Boolean operators (and, or, and not) are used to compare Boolean values. Like comparison operators, they evaluate these expressions down to a Boolean value. Let’s explore these operators in detail, starting with the and operator
+
+
+
+> [!PDF|red] [[Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf#page=67&selection=57,0,57,24&color=red|Automate the Boring Stuff with Python, 2nd Edit... (Z-Library), p.25]]
+> > Binary Boolean Operators
+
+> [!PDF|red] [[Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf#page=67&selection=131,1,137,22&color=red|Automate the Boring Stuff with Python, 2nd Edit... (Z-Library), p.25]]
+> > Table 2-2: The and Operator’s Truth Table
+
+> [!PDF|red] [[Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf#page=68&selection=4,1,10,22&color=red|Automate the Boring Stuff with Python, 2nd Edit... (Z-Library), p.26]]
+> > able 2-3: The or Operator’s Truth Table
+
+> [!PDF|red] [[Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf#page=68&selection=89,0,95,22&color=red|Automate the Boring Stuff with Python, 2nd Edit... (Z-Library), p.26]]
+> > Table 2-4: The not Operator’s Truth Table
 
 
 
@@ -21,9 +34,7 @@
 
 > [!PDF|] [[Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf#page=97&selection=82,0,88,12|Automate the Boring Stuff with Python, 2nd Edit... (Z-Library), p.55]]
 > > Write out the truth tables of each Boolean operator (that is, every possible combination of Boolean values for the operator and what they evaluate to)
-> 
-> 
-dsfdsf
+
 
 > [!PDF|] [[Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf#page=97&selection=92,0,92,46|Automate the Boring Stuff with Python, 2nd Edit... (Z-Library), p.55]]
 > > What do the following expressions evaluate to?
@@ -33,6 +44,8 @@ dsfdsf
 > The third expression evaluate  to  True 
 > The fourth expression evaluate to False 
 > The firth  expression evaluate to True 
+
+
 
 > [!PDF|] [[Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf#page=97&selection=108,0,108,38|Automate the Boring Stuff with Python, 2nd Edit... (Z-Library), p.55]]
 > > What are the six comparison operators?

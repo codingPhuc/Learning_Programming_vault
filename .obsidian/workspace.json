@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf",
-                "page": 67,
-                "left": -4,
-                "top": 532,
+                "page": 69,
+                "left": -26,
+                "top": 389,
                 "zoom": 0.8
               },
               "icon": "lucide-file-text",
@@ -124,7 +124,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 392.5,
+    "collapsed": true
   },
   "right": {
     "id": "b3cff0b5294a90f3",
