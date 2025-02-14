@@ -15,9 +15,9 @@
               "state": {
                 "file": "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf",
                 "page": 72,
-                "left": -24,
-                "top": 244,
-                "zoom": 0.8
+                "left": 578,
+                "top": 160,
+                "zoom": 0.7410420221419783
               },
               "icon": "lucide-file-text",
               "title": "Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)"
@@ -261,9 +261,9 @@
         "direction": "vertical",
         "x": 2001,
         "y": -186,
-        "width": 1102,
-        "height": 776,
-        "maximize": false,
+        "width": 883,
+        "height": 621,
+        "maximize": true,
         "zoom": 0
       },
       {
@@ -315,15 +315,16 @@
         "direction": "vertical",
         "x": 1777,
         "y": -119,
-        "width": 1100,
-        "height": 779,
+        "width": 881,
+        "height": 624,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "522ce132219dcc88",
+  "active": "3e640f7bb6a1ce36",
   "lastOpenFiles": [
+    "Deepseeks.md",
     "picture folder/Pasted image 20250213192145.png",
     "picture folder/Pasted image 20250213191857.png",
     "picture folder/Pasted image 20250213191828.png",
@@ -332,7 +333,6 @@
     "picture folder/Pasted image 20250213191406.png",
     "picture folder/Pasted image 20250213191348.png",
     "book/review/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)/Review Chapter 2 F L O W C O N T R O L.md",
-    "Deepseeks.md",
     "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf",
     "book/review/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)/Review Chapter 1 P Y T H O N B A S I C S.md",
     "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).md",
@@ -364,7 +364,6 @@
     "picture folder/Pasted image 20250211185141.png",
     "picture folder/Pasted image 20250211184926.png",
     "picture folder/IMG_0605.jpg",
-    "picture folder/IMG_0604.jpg",
     "Note.md",
     "Learning thing that interest me/programming language/Python.md",
     "Learning thing that interest me/programming language/C++/learnCpp/0.2 — Introduction to programs and programming languages.md",
