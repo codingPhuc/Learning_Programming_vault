@@ -141,13 +141,13 @@ Experimentation : Explore outside your comfort zone  no just from following path
 
 ## **Definition of the Principle:** 
 determining the why what and how of meta learning , "Why" refers to understanding your motivation to learn , "What" is the knowledge and ability you need to acquire to be successful  "How" refer to resources and method you need to used to become successful 
-Answering the why : 
+Answering the "Why" helps define  intrinsic  vs instrumental learning : 
 there are different type of project Instrumental learning project , learning with purpose of archiving a different example Diana Fehsenfeld 
 Intrinsic project those that you are learning for your own sack like you want to learn French to speak French for example  `
 expert interview method :  
 The expert interview method  is to talk to people who skill set you want to archive , look  for people who have the career you want and send an email , with the goal of building your application for example  online forms dedicated to programming 
 useful to ask your self what you are trying to learn  
-Answering "What "  :  
+Answering "What " Vategorizes knowledge into Concepts , Facts , and Procedures :  
 A good way to do this is too write down on a sheet of paper three columns "Concepts"  "Fact"  " Procedure" 
 You can always revisited it later  , you can adjust the list if you discover your category is not quite right 
 Concepts : 
@@ -196,14 +196,14 @@ The best way to apply these principle is to draw a map , first a table which 3 c
 ## **Chapter [V]: Principle [2]—[Chapter V Principle 2 Focus Sharpen Your Knife]**
 
 ### **Definition of the Principle:**  
-Falling to start focusing  ,  obvious way this manifest it self is when you  procrastinate   ,   procrastinate is the constant of their life running aways from their task to another until deadline  . I had no problem sitting and watchin MIT class but I do have a problem with tackled the problem set with serious trepidation 
+Falling to start focusing  ,  obvious way this manifest it self is when you  procrastinate   ,   procrastinate is the constant of their life running aways from their task to another until deadline  . I had no problem sitting and watchin MIT class but I do have a problem with tackling  the problem set with serious trepidation 
 There is a lot of reason why we procrastinate , like for the author he procrastinate because he had a lot of idea on the writing of the books  . Most  procrastination is silly when you say them out loud  , but that doesn't stop it from ruling over your life  
-you don't want to do thing you are suppose to do because  discomfort in doing it  or    you are more interested in doing other thing  that are more fun or you 
-you avoid thing because it is uncomfortable , painful this awareness  is necessary for progress to be made  . As a result , in order to easily reconize your  tendency to  procrastinate  you much create mental crutches , these "crutches " help you thought some of the most challenging part of your work  These crutches can be change or gotten rig of altogether when procrastination is not a problem 
+you don't want to do thing you are suppose to do because  discomfort in doing it  or    you are more interested in doing other fun thing 
+you avoid thing because it is uncomfortable , painful this awareness  is necessary for progress to be made  . As a result , in order to easily reconize your  tendency to  procrastinate  you much create mental crutches , these "crutches " help you thought some of the most challenging part of your work  , when you remove your tendency to procrastination these  "crutches " can be remove completely 
 the first crutches come from recognizing the most uncomfortable part of your  task (if you are averse to it) , or what is present about an alternative task  (if you are attractive to it) 
 get over just the few minute of maximal unpleasantness  before you take a break  , tell your self that you will  spend 5-10 minute on tasks will help you get started 
-if you find that you take break too often then it best to employed a technique like the pomadoro technique  so that you have a hard limited on when you take break and when you don't  
-you may want to used calendar to  crave out a specific chunks of time to for you  to learn . 
+if you find that you take break too often then it best to employed a technique like the Pomorado  technique  so that you have a gradual approach to over comming procrastination .
+You may want to used calendar to  crave out a specific chunks of time to for you  to learn . 
 I you find your self setting up  a chunk of time and frequently ignoring it then it is best to rethink your schedule or adapt the pomodoro technique 
 
 
@@ -224,11 +224,15 @@ if you feel like continuing on this work is point less because you are so distra
 Failing to create the right kind of focus  
 you have mangaed to wrangle the problem  of procrastination and distraction but how can you maintain an optimal amount of focus and arousal ? Here is some research for arousal  . When you sleep you have low  arousal when you exercise you have high arousal this occurs due to   sympathetic nervous system activation . Too much arousal however than focus can be loss like any one who  drunk a lot of coffee know how distracting and overstimulate it get . When doing a particularly creative task , if you get struck you may benefit from no focus at all  taking a break from problem can widen your focus .  
 endless hours and large swaths of free time on their schedule  
-mkae such large commitment of time  impossible  . Just because you are dis
+make such large commitment of time  impossible  . Just because you are disciplined in studying for  one area does not mean you are at another  . The best action is too start small  with focusing for 15 minute  then 30  . Over time the dissatisfaction you feel for one subject become smaller and smaller .  
+
 The 
  
-- **Why It’s Important:**
-- **Key Examples:** 
+## **Why It’s Important:**
+It  is importance because it help you  focus on finishing your task enabling you to be more effective in studying  and archiving your goal  
+This help you identify when you are losing your focus and enable  you too focus more clearly in your task . 
+help with optimizing your study time allowing you regain focus more quickly  
+## **Key Examples:** 
 Mary Somerville  a women  in the eighteenth century  who have to  confine to a women duty in that time. She have a passion in acquiring knowledge , which lead her to learned several  language  to fluency , and knew how to paint and  play the piano . She was the first women elected to the Royal  Astronomical Society  
 
 Simon   Laplace's  Traite de mecanique celeste , a massive five volumn work on the theory  of gravitation  and advanced mathematics  Even though it seem like what  Mary archive was consider genius  , it was her own  insecurities  like bad memory  recounted thinking that she was to old to learn new thing as a child . Too old for her to learn a foreign language . Her most determine quality was not that she have an incredible intellect but that she have an ability to focus  
@@ -238,8 +242,19 @@ The mathematician Paul Erdos was a heavy usre of  amthetamines to increase his c
 The author of the books felt procrastinated when ever he learn Chinese so he added that he will only quick after learning all the rules correctly , even thought it only took him about 20 s more to do fast card his focus when up  
 
 
-- **Best Practices:**
-- **How to Apply This Principle:**
+##  **Best Practices:** 
+when beginning your study or session of learning . You much first thing say to your self that you will do 5 minute of this work before switching to something else (if the alternative are more pleasing ) or  take a break (if the thing you are learning is too adversarial)  .  
+For when you are studying you much find the right environment to study this environment can strengthen your study capacity  helping reduce your distraction level 
+but your tasks should not be a distracting factor as well. If you finding creative task  much more challenging you should take a small break  . this is due to the arousal effect  , making it harder to be focus . For an example think of when you drink coffee your brain become hyper sensitive to the environment keeping you from  focusing on your task 
+
+## **How to Apply This Principle:**
+i will apply this principle by : 
+1. start the initial focus 
+	I Can do this by lying to my self that I can study for 5 minute than have break  ,   which will allow my mind enough time to adjust  
+2. maintain the initial focus : 
+	I will maintain my focus by disabling any distracting devices like iphone and computer , or application notification that I found unecssary  .  then switch up my environment like using music to focus better or not using music at all to figure out which  environment is best suited for my focus 
+3. focus on the right task : 
+	if a tasks is taking too much time than expected then I should keep a break time for the task , 
 
 
 

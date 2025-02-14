@@ -24,9 +24,9 @@
               "type": "pdf",
               "state": {
                 "file": "book/Ultralearning.pdf.pdf",
-                "page": 77,
+                "page": 82,
                 "left": -22,
-                "top": 730,
+                "top": 558,
                 "zoom": 0.6838235294117648
               },
               "icon": "lucide-file-text",
@@ -245,11 +245,11 @@
           }
         ],
         "direction": "vertical",
-        "x": 2001,
-        "y": -186,
-        "width": 883,
-        "height": 621,
-        "maximize": true,
+        "x": 2496,
+        "y": -216,
+        "width": 960,
+        "height": 1032,
+        "maximize": false,
         "zoom": 0
       },
       {
@@ -336,16 +336,16 @@
         "y": -57,
         "width": 614,
         "height": 776,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "522ce132219dcc88",
+  "active": "3e640f7bb6a1ce36",
   "lastOpenFiles": [
     "book/review/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)/Review Chapter 2 F L O W C O N T R O L.md",
-    "C++  meeting.md",
     "book/review/ultra learning review.md",
+    "C++  meeting.md",
     "book/Ultralearning.pdf.pdf",
     "book/Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1) 2.pdf",
     "book/review/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)/Review Chapter 1 P Y T H O N B A S I C S.md",
