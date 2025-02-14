@@ -215,8 +215,16 @@ After considering how you should focus , let now consider how long your focus sh
 you need to consider not only what is optimal but also what is realistic for your hours , like 20 minutes study session  is enough for those with a busy schedule 
 There is three thing that can cause focus to break down into chunk of time  : 
 Your environment : 
-
-
+the first source of distraction is your environment do you have your phone turn off . Are you prepared to work but you need to find your pen or note  and so on ?  You need to test for the environment that you work best in  . Better to rig your self of this vice to strengthen bad habits of ineffective learning 
+Your task  :  
+Sometime you need to modify what you are doing to increase greater focus like for example  reading  , when I read  I am easily distracted by my subconscious  though so I write in order to stay focus on the task 
+Your mind 
+Negative emotions restlessness , and day dreaming can be some of the biggest obstacle  to focusing with problem in your life you will  have a hard time learning well   , you may want to look at dealing  with those first   .Acknowledge the feeling  , be aware of it  , and gently adjust your focus back  to your task  and allow the feeling to pass 
+if you feel like continuing on this work is point less because you are so distracted by negative emotion remember that long term persistent on this task will strengthen your focus  , which mean that your time dedicated is not  wasted 
+Failing to create the right kind of focus  
+you have mangaed to wrangle the problem  of procrastination and distraction but how can you maintain an optimal amount of focus and arousal ? Here is some research for arousal  . When you sleep you have low  arousal when you exercise you have high arousal this occurs due to   sympathetic nervous system activation . Too much arousal however than focus can be loss like any one who  drunk a lot of coffee know how distracting and overstimulate it get . When doing a particularly creative task , if you get struck you may benefit from no focus at all  taking a break from problem can widen your focus .  
+The 
+ 
 - **Why It’s Important:**
 - **Key Examples:** 
 Mary Somerville  a women  in the eighteenth century  who have to  confine to a women duty in that time. She have a passion in acquiring knowledge , which lead her to learned several  language  to fluency , and knew how to paint and  play the piano . She was the first women elected to the Royal  Astronomical Society  
