@@ -24,9 +24,9 @@
               "type": "pdf",
               "state": {
                 "file": "book/Ultralearning.pdf.pdf",
-                "page": 60,
+                "page": 62,
                 "left": -16,
-                "top": 23,
+                "top": 640,
                 "zoom": 0.9191176470588235
               },
               "icon": "lucide-file-text",
@@ -46,12 +46,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning thing that interest me/programming language/C++/learnCpp/0.4 — Introduction to C++ development.md",
+                "file": "Learning thing that interest me/programming language/C++/learnCpp/0.5 — Introduction to the compiler, linker, and libraries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0.4 — Introduction to C++ development"
+              "title": "0.5 — Introduction to the compiler, linker, and libraries"
             }
           },
           {
@@ -343,9 +343,12 @@
   },
   "active": "0f77fe5cd359b8dd",
   "lastOpenFiles": [
+    "picture folder/Pasted image 20250214144747.png",
+    "picture folder/Pasted image 20250214144325.png",
+    "Learning thing that interest me/programming language/C++/learnCpp/0.4 — Introduction to C++ development.md",
+    "Learning thing that interest me/programming language/C++/learnCpp/0.5 — Introduction to the compiler, linker, and libraries.md",
     "picture folder/Pasted image 20250214140939.png",
     "Learning thing that interest me/programming language/C++/learnCpp/0.3  Introduction to C C++.md",
-    "Learning thing that interest me/programming language/C++/learnCpp/0.4 — Introduction to C++ development.md",
     "Learning thing that interest me/programming language/C++/learnCpp/0.2 — Introduction to programs and programming languages.md",
     "Learning thing that interest me/programming language/C++/C++.md",
     "book/review/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)/Review Chapter 2 F L O W C O N T R O L.md",
@@ -385,10 +388,7 @@
     "book/Chemistry-Study-Guide 1.pdf",
     "Learning/Learning With Chat gpt.md",
     "Learning thing that interest me/Embeded engineering.md",
-    "Edge computing.md",
     "picture folder/Pasted image 20250211185141.png",
-    "picture folder/Pasted image 20250211184926.png",
-    "picture folder/IMG_0605.jpg",
     "Learning/Canvas/Learning-System-Flow.canvas",
     "SET COURSES.canvas",
     "Untitled.canvas",
