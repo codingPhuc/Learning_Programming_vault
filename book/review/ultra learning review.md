@@ -195,10 +195,25 @@ The best way to apply these principle is to draw a map , first a table which 3 c
 
 ## **Chapter [V]: Principle [2]—[Chapter V Principle 2 Focus Sharpen Your Knife]**
 
-- **Definition of the Principle:**  
+### **Definition of the Principle:**  
+Falling to start focusing  ,  obvious way this manifest it self is when you  procrastinate   ,   procrastinate is the constant of their life running aways from their task to another until deadline  . I had no problem sitting and watchin MIT class but I do have a problem with tackled the problem set with serious trepidation 
+There is a lot of reason why we procrastinate , like for the author he procrastinate because he had a lot of idea on the writing of the books  . Most  procrastination is silly when you say them out loud  , but that doesn't stop it from ruling over your life  
+you don't want to do thing you are suppose to do because  discomfort in doing it  or    you are more interested in doing other thing  that are more fun or you 
+you avoid thing because it is uncomfortable , painful this awareness  is necessary for progress to be made  . As a result , in order to easily reconize your  tendency to  procrastinate  you much create mental crutches , these "crutches " help you thought some of the most challenging part of your work  These crutches can be change or gotten rig of altogether when procrastination is not a problem 
+the first crutches come from recognizing the most uncomfortable part of your  task (if you are averse to it) , or what is present about an alternative task  (if you are attractive to it) 
+get over just the few minute of maximal unpleasantness  before you take a break  , tell your self that you will  spend 5-10 minute on tasks will help you get started 
+if you find that you take break too often then it best to employed a technique like the pomadoro technique  so that you have a hard limited on when you take break and when you don't  
+
 - **Why It’s Important:**
 - **Key Examples:** 
-Mary Somerville  a women  in the eighteenth century  who have to  confine to a women duty in that time. She have a passion in acquiring knowledge , which lead her to learned several  language  to fluency , and knew how to paint and  play the piano . 
+Mary Somerville  a women  in the eighteenth century  who have to  confine to a women duty in that time. She have a passion in acquiring knowledge , which lead her to learned several  language  to fluency , and knew how to paint and  play the piano . She was the first women elected to the Royal  Astronomical Society  
+
+Simon   Laplace's  Traite de mecanique celeste , a massive five volumn work on the theory  of gravitation  and advanced mathematics  Even though it seem like what  Mary archive was consider genius  , it was her own  insecurities  like bad memory  recounted thinking that she was to old to learn new thing as a child . Too old for her to learn a foreign language . Her most determine quality was not that she have an incredible intellect but that she have an ability to focus  
+The mathematician Paul Erdos was a heavy usre of  amthetamines to increase his capacity to  focus 
+,later however the effect only set him  back  a month . So how can some one like  Mary became able to focus under suck pressure  at the time ?  How did Somerville become so good at focusing ?  
+
+The author of the books felt procrasternated 
+
 - **Best Practices:**
 - **How to Apply This Principle:**
 
