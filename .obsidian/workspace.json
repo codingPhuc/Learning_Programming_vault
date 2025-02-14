@@ -14,13 +14,23 @@
               "type": "pdf",
               "state": {
                 "file": "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf",
-                "page": 45,
+                "page": 63,
                 "left": -20,
-                "top": 81,
+                "top": 264,
                 "zoom": 0.7410714285714287
               },
               "icon": "lucide-file-text",
               "title": "Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)"
+            }
+          },
+          {
+            "id": "5f9f29bc794435df",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -33,12 +43,14 @@
             "id": "0f77fe5cd359b8dd",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "markdown",
               "state": {
-                "file": "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).md"
+                "file": "book/review/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)/Review Chapter 2 F L O W C O N T R O L.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)"
+              "title": "Review Chapter 2 F L O W C O N T R O L"
             }
           },
           {
@@ -47,16 +59,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/review/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)/Review Chapter 1 Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).md",
+                "file": "book/review/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)/Review Chapter 1 P Y T H O N B A S I C S.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Review Chapter 1 Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)"
+              "title": "Review Chapter 1 P Y T H O N B A S I C S"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -296,12 +307,13 @@
       }
     ]
   },
-  "active": "822f0761446313cb",
+  "active": "34d440fc3784cd31",
   "lastOpenFiles": [
+    "book/review/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)/Review Chapter 2 F L O W C O N T R O L.md",
+    "book/review/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)/Review Chapter 1 P Y T H O N B A S I C S.md",
     "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf",
-    "book/review/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)/Review Chapter 1 Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).md",
-    "book/review/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)",
     "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).md",
+    "book/review/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)",
     "book/review/Untitled.md",
     "book/review/ultra learning review.md",
     "book/abc.pdf",
@@ -340,7 +352,6 @@
     "Learning thing that interest me/programming language/C++/Learning Road Maps.md",
     "Learning thing that interest me/programming language/C++/Untitled.md",
     "Learning thing that interest me/programming language/C++/C++.md",
-    "Learning thing that interest me/Computer Vision.md",
     "picture folder/https data tranfer 1.jpg",
     "picture folder/https data tranfer.jpg",
     "Learning/Canvas/Learning-System-Flow.canvas",
