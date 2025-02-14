@@ -203,6 +203,19 @@ you avoid thing because it is uncomfortable , painful this awareness  is necessa
 the first crutches come from recognizing the most uncomfortable part of your  task (if you are averse to it) , or what is present about an alternative task  (if you are attractive to it) 
 get over just the few minute of maximal unpleasantness  before you take a break  , tell your self that you will  spend 5-10 minute on tasks will help you get started 
 if you find that you take break too often then it best to employed a technique like the pomadoro technique  so that you have a hard limited on when you take break and when you don't  
+you may want to used calendar to  crave out a specific chunks of time to for you  to learn . 
+I you find your self setting up  a chunk of time and frequently ignoring it then it is best to rethink your schedule or adapt the pomodoro technique 
+
+
+Problem 2 : Failing to sustain  focus  (aka getting distracted) 
+you fail to maintain focus thought out  your study session due to external and internal factor 
+Flow  , a  concept by  Mihály Csíkszentmihályi is often used as a model for describing what focus really is like  . This state is similar to being in the zone . You stop  being distracted and your mind become absorb by the task at hand . Flow by other scientist have discover a down side as well , it does not have feedback or errors detection . As a result , skill performer may enjoy seeking out flow  activity  , but this approach may not do well in ultra learning 
+The author advice is that do not worry about the flow state there may be automatic problem or  study session where you will employed flow like solving math problem , these is some that don't like trying out new learning method  
+After considering how you should focus , let now consider how long your focus should be . You should not cram hour of focus on to one session there should be interleaving break in between . There should also be different subject to study for each session as not to become overburden . The recommended range of study time is 50 min to 1 hour of study and there should be servers minute of break in each hour  
+you need to consider not only what is optimal but also what is realistic for your hours , like 20 minutes study session  is enough for those with a busy schedule 
+There is three thing that can cause focus to break down into chunk of time  : 
+Your environment : 
+
 
 - **Why It’s Important:**
 - **Key Examples:** 
@@ -212,7 +225,8 @@ Simon   Laplace's  Traite de mecanique celeste , a massive five volumn work on t
 The mathematician Paul Erdos was a heavy usre of  amthetamines to increase his capacity to  focus 
 ,later however the effect only set him  back  a month . So how can some one like  Mary became able to focus under suck pressure  at the time ?  How did Somerville become so good at focusing ?  
 
-The author of the books felt procrasternated 
+The author of the books felt procrastinated when ever he learn Chinese so he added that he will only quick after learning all the rules correctly , even thought it only took him about 20 s more to do fast card his focus when up  
+
 
 - **Best Practices:**
 - **How to Apply This Principle:**
