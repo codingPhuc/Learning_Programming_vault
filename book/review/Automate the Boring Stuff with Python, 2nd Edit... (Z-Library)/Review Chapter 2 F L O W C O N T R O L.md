@@ -23,7 +23,7 @@
 > > Write out the truth tables of each Boolean operator (that is, every possible combination of Boolean values for the operator and what they evaluate to)
 > 
 > 
-
+dsfdsf
 
 > [!PDF|] [[Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf#page=97&selection=92,0,92,46|Automate the Boring Stuff with Python, 2nd Edit... (Z-Library), p.55]]
 > > What do the following expressions evaluate to?
