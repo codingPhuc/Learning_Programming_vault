@@ -1,5 +1,5 @@
 
-
+https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
 ### **Week 1-2: C++ Fundamentals**
 
 - **Topics:** Variables, data types, operators, control flow, functions, arrays, strings, OOP basics (classes, objects, constructors)
