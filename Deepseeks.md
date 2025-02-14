@@ -67,4 +67,13 @@ The envidia  Cude  will decide what you will do to the gpu , most of the magic i
 there is multiple layer in pytouch and Nvidia GPU   
 
 Does it mean that pytouch have a similar library , but does not have the correct parameter that Nvida library have ?
-basically there is an abstraction in the python library that allow you to do 99% of the funcitonality  and when you go deeper near the meta that let you drive into the 1% where C++ the CUDE library is implemented 
+basically there is an abstraction in the python library that allow you to do 99% of the funcitonality  and when you go deeper near the meta that let you drive into the 1% where C++ the CUDE library is implemented   
+
+
+DeepSeek -> Foundational models… + thinking foundational models (math, coding, reasoning, etc.) 
+
+
+
+there is a  tiny ml    community  
+sandiago  ml  
+
