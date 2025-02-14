@@ -223,6 +223,8 @@ Negative emotions restlessness , and day dreaming can be some of the biggest obs
 if you feel like continuing on this work is point less because you are so distracted by negative emotion remember that long term persistent on this task will strengthen your focus  , which mean that your time dedicated is not  wasted 
 Failing to create the right kind of focus  
 you have mangaed to wrangle the problem  of procrastination and distraction but how can you maintain an optimal amount of focus and arousal ? Here is some research for arousal  . When you sleep you have low  arousal when you exercise you have high arousal this occurs due to   sympathetic nervous system activation . Too much arousal however than focus can be loss like any one who  drunk a lot of coffee know how distracting and overstimulate it get . When doing a particularly creative task , if you get struck you may benefit from no focus at all  taking a break from problem can widen your focus .  
+endless hours and large swaths of free time on their schedule  
+mkae such large commitment of time  impossible  . Just because you are dis
 The 
  
 - **Why It’s Important:**

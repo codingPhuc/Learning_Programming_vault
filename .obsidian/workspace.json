@@ -24,10 +24,10 @@
               "type": "pdf",
               "state": {
                 "file": "book/Ultralearning.pdf.pdf",
-                "page": 79,
+                "page": 77,
                 "left": -22,
-                "top": 345,
-                "zoom": 0.6838235294117647
+                "top": 730,
+                "zoom": 0.6838235294117648
               },
               "icon": "lucide-file-text",
               "title": "Ultralearning.pdf"
@@ -68,8 +68,7 @@
               "title": "C++  meeting"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -342,7 +341,7 @@
       }
     ]
   },
-  "active": "02d9b8ea5f6dae4a",
+  "active": "522ce132219dcc88",
   "lastOpenFiles": [
     "book/review/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)/Review Chapter 2 F L O W C O N T R O L.md",
     "C++  meeting.md",
