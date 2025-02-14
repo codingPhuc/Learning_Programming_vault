@@ -64,4 +64,7 @@ FP8 is a standard datatype supported by most languages and GPU libraries. The pr
 
 
 The envidia  Cude  will decide what you will do to the gpu , most of the magic is a high level  decription of what you want 2 large matrix it cannot multiply in the gpu  
-there is multiple layer in pytouch and Nvidia GPU 
+there is multiple layer in pytouch and Nvidia GPU   
+
+Does it mean that pytouch have a similar library , but does not have the correct parameter that Nvida library have ?
+basically there is an abstraction in the python library that allow you to do 99% of the funcitonality  and when you go deeper near the meta that let you drive into the 1% where C++ the CUDE library is implemented 
