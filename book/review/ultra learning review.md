@@ -263,7 +263,9 @@ i will apply this principle by :
 - **Definition of the Principle:**
 - **Why It’s Important:**
 - **Key Examples:**
-Vatsal Jaiswal enter India with the dream of becoming architect . four year later armed with a newly  minted  degree and entering into the worse job market since the g
+Vatsal Jaiswal enter India with the dream of becoming architect . four year later armed with a newly  minted  degree and entering into the worse job market since the great depression that dream begin to be very far away . Frims were layoff every experience architects Most have given up , taking jobs out side their flied  . Vatsal Jaiswal  feel like he ahd been traned in creative design  project that was isolated from building code  , the firm  thing that hiring him will result in a lengthy  hiring training period , something a few firms could currently afford . He found a jobs at a large firms printing shop to scape by  and the shop provided him with experience on what the blue print film were using 
+Assorted project from  university   , he focused on a single building of his own design   : a three-tower residential structure with raised courtyards and a modern aesthetic. the project push his skill with software future forcing him to learn new methods and ideas beyond the basic of his online tutorials this project also give him a jobs at two large firms 
+
 - **Best Practices:**
 - **How to Apply This Principle:**
 
