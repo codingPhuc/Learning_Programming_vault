@@ -258,6 +258,16 @@ i will apply this principle by :
 
 
 
+## **Chapter [VI]: Principle [Chapter VI Principle 3 Directness Go Straight Ahead]—[Title]**
+
+- **Definition of the Principle:**
+- **Why It’s Important:**
+- **Key Examples:**
+Vatsal Jaiswal enter India with the dream of becoming architect . four year later armed with a newly  minted  degree and entering into the worse job market since the g
+- **Best Practices:**
+- **How to Apply This Principle:**
+
+**---**
 ### **Review Template for Each Principle Chapter (IV–XII)**
 
 ## **Chapter [X]: Principle [#]—[Title]**
