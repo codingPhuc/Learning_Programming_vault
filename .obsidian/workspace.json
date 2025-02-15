@@ -24,9 +24,9 @@
               "type": "pdf",
               "state": {
                 "file": "book/Ultralearning.pdf.pdf",
-                "page": 60,
+                "page": 59,
                 "left": -16,
-                "top": 484,
+                "top": 175,
                 "zoom": 0.9191176470588235
               },
               "icon": "lucide-file-text",
@@ -46,12 +46,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning thing that interest me/programming language/C++/learnCpp/0.5 — Introduction to the compiler, linker, and libraries.md",
+                "file": "Learning thing that interest me/programming language/C++/learnCpp/0.9 — Configuring your compiler Build configurations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0.5 — Introduction to the compiler, linker, and libraries"
+              "title": "0.9 — Configuring your compiler Build configurations"
             }
           },
           {
@@ -82,8 +82,7 @@
               "title": "Learning Road Maps"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -356,8 +355,11 @@
       }
     ]
   },
-  "active": "822f0761446313cb",
+  "active": "0f77fe5cd359b8dd",
   "lastOpenFiles": [
+    "Learning thing that interest me/programming language/C++/learnCpp/0.7 — Compiling your first program.md",
+    "Learning thing that interest me/programming language/C++/learnCpp/0.9 — Configuring your compiler Build configurations.md",
+    "Learning thing that interest me/programming language/C++/learnCpp/0.5 — Introduction to the compiler, linker, and libraries.md",
     "Learning thing that interest me/programming language/C++/Learning Road Maps.md",
     "book/Ultralearning.pdf.pdf",
     "Learning thing that interest me/programming language/C++/learnCpp/0.4 — Introduction to C++ development.md",
@@ -365,7 +367,6 @@
     "Learning/book learning/How to read a book and Actually learn from it.md",
     "Learning/book learning/How To Get The Most Out of A Book - Analytical Reading.md",
     "C++  meeting.md",
-    "Learning thing that interest me/programming language/C++/learnCpp/0.5 — Introduction to the compiler, linker, and libraries.md",
     "picture folder/Pasted image 20250214150944.png",
     "picture folder/Pasted image 20250214144747.png",
     "picture folder/Pasted image 20250214144325.png",
@@ -401,7 +402,6 @@
     "Untitled 9.md",
     "Untitled 7.md",
     "Untitled 6.md",
-    "Untitled 4.md",
     "book/Chemistry-Study-Guide 1.pdf",
     "Learning/Canvas/Learning-System-Flow.canvas",
     "SET COURSES.canvas",
