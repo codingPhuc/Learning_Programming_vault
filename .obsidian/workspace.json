@@ -24,9 +24,9 @@
               "type": "pdf",
               "state": {
                 "file": "book/Ultralearning.pdf.pdf",
-                "page": 62,
+                "page": 60,
                 "left": -16,
-                "top": 477,
+                "top": 484,
                 "zoom": 0.9191176470588235
               },
               "icon": "lucide-file-text",
@@ -61,7 +61,7 @@
               "type": "markdown",
               "state": {
                 "file": "Learning thing that interest me/programming language/C++/Learning Road Maps.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -356,15 +356,16 @@
       }
     ]
   },
-  "active": "02d9b8ea5f6dae4a",
+  "active": "822f0761446313cb",
   "lastOpenFiles": [
+    "Learning thing that interest me/programming language/C++/Learning Road Maps.md",
+    "book/Ultralearning.pdf.pdf",
     "Learning thing that interest me/programming language/C++/learnCpp/0.4 — Introduction to C++ development.md",
     "Learning/book learning/How to read technical books.md",
     "Learning/book learning/How to read a book and Actually learn from it.md",
     "Learning/book learning/How To Get The Most Out of A Book - Analytical Reading.md",
     "C++  meeting.md",
     "Learning thing that interest me/programming language/C++/learnCpp/0.5 — Introduction to the compiler, linker, and libraries.md",
-    "Learning thing that interest me/programming language/C++/Learning Road Maps.md",
     "picture folder/Pasted image 20250214150944.png",
     "picture folder/Pasted image 20250214144747.png",
     "picture folder/Pasted image 20250214144325.png",
@@ -374,7 +375,6 @@
     "Learning thing that interest me/programming language/C++/C++.md",
     "book/review/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)/Review Chapter 2 F L O W C O N T R O L.md",
     "book/review/ultra learning review.md",
-    "book/Ultralearning.pdf.pdf",
     "book/Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library) (1) 2.pdf",
     "book/review/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)/Review Chapter 1 P Y T H O N B A S I C S.md",
     "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf",
@@ -402,7 +402,6 @@
     "Untitled 7.md",
     "Untitled 6.md",
     "Untitled 4.md",
-    "Untitled 5.md",
     "book/Chemistry-Study-Guide 1.pdf",
     "Learning/Canvas/Learning-System-Flow.canvas",
     "SET COURSES.canvas",
