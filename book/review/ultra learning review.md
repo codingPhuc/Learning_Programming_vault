@@ -261,6 +261,9 @@ i will apply this principle by :
 ## **Chapter [VI]: Principle [Chapter VI Principle 3 Directness Go Straight Ahead]—[Title]**
 
 - **Definition of the Principle:**
+The importance of Being direct :  
+though the swath of recent graduates with unimpressive portfolios  there is a real need to connect with people when it is 
+
 - **Why It’s Important:**
 - **Key Examples:**
 Vatsal Jaiswal enter India with the dream of becoming architect . four year later armed with a newly  minted  degree and entering into the worse job market since the great depression that dream begin to be very far away . Frims were layoff every experience architects Most have given up , taking jobs out side their flied  . Vatsal Jaiswal  feel like he ahd been traned in creative design  project that was isolated from building code  , the firm  thing that hiring him will result in a lengthy  hiring training period , something a few firms could currently afford . He found a jobs at a large firms printing shop to scape by  and the shop provided him with experience on what the blue print film were using 
