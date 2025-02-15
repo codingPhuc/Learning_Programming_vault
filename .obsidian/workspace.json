@@ -24,10 +24,8 @@
               "type": "pdf",
               "state": {
                 "file": "book/Ultralearning.pdf.pdf",
-                "page": 52,
-                "left": -16,
-                "top": 541,
-                "zoom": 0.9191176470588235
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "Ultralearning.pdf"
@@ -261,9 +259,9 @@
         "direction": "vertical",
         "x": 2496,
         "y": -216,
-        "width": 960,
-        "height": 1032,
-        "maximize": false,
+        "width": 768,
+        "height": 653,
+        "maximize": true,
         "zoom": 0
       },
       {
@@ -315,8 +313,8 @@
         "direction": "vertical",
         "x": 1777,
         "y": -119,
-        "width": 881,
-        "height": 624,
+        "width": 706,
+        "height": 499,
         "maximize": false,
         "zoom": 0
       },
@@ -348,18 +346,19 @@
         "direction": "vertical",
         "x": 1962,
         "y": -57,
-        "width": 614,
-        "height": 776,
+        "width": 493,
+        "height": 621,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "0f77fe5cd359b8dd",
+  "active": "3e640f7bb6a1ce36",
   "lastOpenFiles": [
+    "book/Ultralearning.pdf.pdf",
+    "book/review/ultra learning review.md",
     "book/review/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)/Review Chapter 2 F L O W C O N T R O L.md",
     "book/review/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)/Review Chapter 1 P Y T H O N B A S I C S.md",
-    "book/review/ultra learning review.md",
     "Learning/book learning/How to read technical books.md",
     "Learning/book learning/How to read a book and Actually learn from it.md",
     "Learning/book learning/How To Get The Most Out of A Book - Analytical Reading.md",
@@ -372,7 +371,6 @@
     "Learning thing that interest me/programming language/C++/learnCpp/0.7 — Compiling your first program.md",
     "Learning thing that interest me/programming language/C++/learnCpp/0.5 — Introduction to the compiler, linker, and libraries.md",
     "Learning thing that interest me/programming language/C++/Learning Road Maps.md",
-    "book/Ultralearning.pdf.pdf",
     "Learning thing that interest me/programming language/C++/learnCpp/0.4 — Introduction to C++ development.md",
     "C++  meeting.md",
     "picture folder/Pasted image 20250214150944.png",
@@ -400,7 +398,6 @@
     "Covariance and Contravariance/Variance in Generic Interfaces.md",
     "book/Untitled.md",
     "book/Fundamentals of Data Engineering Plan and Build Robust Data Systems (Joe Reis, Matt Housley) (Z-Library) (1).pdf",
-    "Tasks to do.md",
     "book/ssasa.pdf",
     "book/Programming Principles and Practice Using C++, Third Edition (Bjarne Stroustrup) (Z-Library) (1).pdf",
     "book/Chemistry-Study-Guide 1.pdf",

@@ -262,13 +262,20 @@ i will apply this principle by :
 
 - **Definition of the Principle:**
 The importance of Being direct :  
-though the swath of recent graduates with unimpressive portfolios  there is a real need to connect with people when it is 
-
+building the wrong  portfolio  of skills for the kind of career and personal achievements we want to create  example : 
+	- we want to wrok on collaborative , professional program but mostly code scripts in isolation 
+	- Directly learning the thing we want is too boring , so we settle for an applicaiton to make us feel good than  archive the real thing  
+The opposite  of  directness is  often favor  in more traditional class room setting  
+Directness is the hallmark of most ultralearning project  Roger 
 - **Why It’s Important:**
 - **Key Examples:**
 Vatsal Jaiswal enter India with the dream of becoming architect . four year later armed with a newly  minted  degree and entering into the worse job market since the great depression that dream begin to be very far away . Frims were layoff every experience architects Most have given up , taking jobs out side their flied  . Vatsal Jaiswal  feel like he ahd been traned in creative design  project that was isolated from building code  , the firm  thing that hiring him will result in a lengthy  hiring training period , something a few firms could currently afford . He found a jobs at a large firms printing shop to scape by  and the shop provided him with experience on what the blue print film were using 
 Assorted project from  university   , he focused on a single building of his own design   : a three-tower residential structure with raised courtyards and a modern aesthetic. the project push his skill with software future forcing him to learn new methods and ideas beyond the basic of his online tutorials this project also give him a jobs at two large firms 
+though the swath of recent graduates with unimpressive portfolios  there is a real need to connect with people when it is 
+enough architectural skill that firms would hire him he opted to build a portfolio using the software those firms used and design 
+his knowledge of design theories  interesting and fun . It was disconnected from the actual skill used in  companies 
 
+Roger Craig did his Jeopardy! testing on the actual questions from past shows. Eric Barone learned video game art by making art for his video game. Benny Lewis learns to speak languages quickly by following a policy of attempting some back-and-forth dialog from the very first day. What these approaches share is that the learning activities are always done with a connection to the context in which the skills learned will eventually be used.
 - **Best Practices:**
 - **How to Apply This Principle:**
 
