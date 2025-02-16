@@ -33,13 +33,15 @@ this is a todo  repo where I connect all my Todo into one
 - [ ] figure out how to used the sidebar filter in Anki 
 
 # Todo for 4 of February    P
-- [ ] give 50$ to miss Nga 
+- [x] give 50$ to miss Nga 
 - [x] warp the tickets with your passport , so that your father won't forget it 
 - [x] get some bread for your father to eat at the passport 
 - [x] give your father 10 bucks for the trips 
-- [ ] say goodbye and how fortunate you are to have a great father 
-- [ ] Tell hẻ about the 100$ she owe 
+- [x] say goodbye and how fortunate you are to have a great father 
+- [x] Tell hẻ about the 100$ she owe 
 
+# Todo for 15 of feburary 
+- [ ] Get rig of your trash bag and make sure you clean your room 
 
 
 dsafsdafdsfdsfds

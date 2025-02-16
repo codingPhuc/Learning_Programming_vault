@@ -121,16 +121,14 @@
             "id": "6463eb68368786ea",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "book/Ultralearning.pdf.pdf",
-                "page": 87,
-                "left": 0,
-                "top": 140,
-                "zoom": 0.5392156862745098
+                "file": "Tasks to do.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Ultralearning.pdf"
+              "icon": "lucide-file",
+              "title": "Tasks to do"
             }
           }
         ],
@@ -199,7 +197,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "right": {
     "id": "889387ff38d23072",
@@ -270,6 +268,28 @@
   },
   "active": "6463eb68368786ea",
   "lastOpenFiles": [
+    "Learning thing that interest me/programming language/C++/learnCpp/1.3 Introduction to objects and variables.md",
+    "Learning thing that interest me/programming language/C++/learnCpp/1.5 — Introduction to iostream cout, cin, and endl.md",
+    "Learning thing that interest me/programming language/C++/learnCpp/0.9 — Configuring your compiler Build configurations.md",
+    "Learning thing that interest me/programming language/C++/learnCpp/1.1  Statements and the structure of a program.md",
+    "Learning thing that interest me/programming language/C++/learnCpp/1.4 — Variable assignment and initialization.md",
+    "/book/review/ultra learning review.md",
+    "/book/review",
+    "/book/Ultralearning.pdf.pdf",
+    "/book",
+    "/Learning thing that interest me/programming language/C++/learnCpp/1.5 — Introduction to iostream cout, cin, and endl.md",
+    "/Learning thing that interest me/programming language/C++/learnCpp/1.4 — Variable assignment and initialization.md",
+    "/Learning thing that interest me/programming language/C++/learnCpp/1.3 Introduction to objects and variables.md",
+    "/Learning thing that interest me/programming language/C++/learnCpp/1.1  Statements and the structure of a program.md",
+    "/Learning thing that interest me/programming language/C++/learnCpp/0.9 — Configuring your compiler Build configurations.md",
+    "/Learning thing that interest me/programming language/C++/learnCpp/0.7 — Compiling your first program.md",
+    "Learning thing that interest me/programming language/C++/learnCpp/0.7 — Compiling your first program.md",
+    "/Learning thing that interest me/programming language/C++/learnCpp",
+    "/Learning thing that interest me/programming language/C++/Learning Road Maps.md",
+    "/Learning thing that interest me/programming language/C++",
+    "/Learning thing that interest me/programming language",
+    "/Learning thing that interest me",
+    "book/Ultralearning.pdf.pdf",
     "picture folder/Pasted image 20250214150944.png",
     "C++  meeting.md",
     "picture folder/Pasted image 20250214144747.png",
@@ -282,39 +302,17 @@
     "/picture folder/Pasted image 20250214140939.png",
     "picture folder/Pasted image 20250214140939.png",
     "/picture folder",
-    "/book/review/ultra learning review.md",
-    "/book/review",
-    "/book",
     "/Learning thing that interest me/programming language/C++/learnCpp/0.5 — Introduction to the compiler, linker, and libraries.md",
     "/Learning thing that interest me/programming language/C++/learnCpp/0.4 — Introduction to C++ development.md",
     "/Learning thing that interest me/programming language/C++/learnCpp/0.3  Introduction to C C++.md",
     "Learning thing that interest me/programming language/C++/learnCpp/0.3  Introduction to C C++.md",
-    "/Learning thing that interest me/programming language/C++/learnCpp",
-    "/Learning thing that interest me/programming language/C++/Learning Road Maps.md",
-    "/Learning thing that interest me/programming language/C++",
-    "/Learning thing that interest me/programming language",
-    "/Learning thing that interest me",
     "/C++  meeting.md",
     "book/review/ultra learning review.md",
     "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf",
     "Untitled 3.md",
-    "book/Ultralearning.pdf.pdf",
     "Deepseeks.md",
     "book/review/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)/Review Chapter 1 P Y T H O N B A S I C S.md",
     "picture folder/Pasted image 20250213191857.png",
-    "picture folder/Pasted image 20250213191406.png",
-    "picture folder/Pasted image 20250213192145.png",
-    "book/review/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)/Review Chapter 2 F L O W C O N T R O L.md",
-    "/book/review/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)/Review Chapter 2 F L O W C O N T R O L.md",
-    "/book/review/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)/Review Chapter 1 P Y T H O N B A S I C S.md",
-    "/Deepseeks.md",
-    "/book/review/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)",
-    "React Native/01-Introduction/React vs React Native.md",
-    "/book/review/Untitled.md",
-    "Note.md",
-    "Advance state management.md",
-    "conflict-files-obsidian-git.md",
-    "Ish.md",
-    "git learning valut/git command.md"
+    "picture folder/Pasted image 20250213191406.png"
   ]
 }
