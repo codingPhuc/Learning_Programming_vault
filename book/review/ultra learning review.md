@@ -265,8 +265,34 @@ The importance of Being direct :
 building the wrong  portfolio  of skills for the kind of career and personal achievements we want to create  example : 
 	- we want to wrok on collaborative , professional program but mostly code scripts in isolation 
 	- Directly learning the thing we want is too boring , so we settle for an applicaiton to make us feel good than  archive the real thing  
-The opposite  of  directness is  often favor  in more traditional class room setting  
-Directness is the hallmark of most ultralearning project  Roger 
+The opposite  of  directness is  often favor  in more traditional class room setting  . However ,  indirect approach to ultra learning is   aren't  limited to traditional education  .  Many self directed learner fall into the trap of indirect learning . For example , look at the application Duolingo it application even thought have a lot of color an effect  does not give you the right sense of direction when learning to speak a language .  Instead real  speaking does not translate to multiple choice you have to either get the word from your memory or used alternative 
+Directed mean that practicing the thing you want to get good at will improve it
+	- if you want  to be good at at speaking  in a language speak it  
+	- if you want to pass test practice solving the kind of problem that will be on those test 
+sometime you cannot translate the right environment for directness  
+Transfer education dirty secret : 
+Transfer  is when you learn something in one setting say the classroom and transfer it to somewhere else say real life . Even thought transfer occur in normal  life  , transfer have fail to occur  in formal education 
+Overcoming the problem of transfer using directness : 
+Directness solve the problem of transfer in two way  . The first and most obvious is that if you learn  with a direct connection to the area in which you  eventually  want to apply the skill , the need for far transfer is significantly reduced 
+Second directness help with transferring new skills . Directness share common situation to real life than the old classroom setting could .By learning the real context , one would be able to learn skill that is transferable to real life situation   . There are many situation where we find it hard to used the knowledge in a use full context , like the programmer how learn about algorithms  struggler to places to put them in  . So in conclusion , when we learn a skill we should strive to tie them directly to the context we used them in 
+How ultra learning avoid the problem of transfer : 
+The simplest way to be direct is learn by doing  , you may need to create an artificial project or environment to test your skill . 
+gaining a deeper knowledge of a subject will make it more flexible for future transfer . For example  ultra learner have specialize in subject which make transfer for them more easily 
+Tactic 1  : Project based learning 
+Many ultra learners opt for project rather than class to learn the skill they want , learning too produce something  you are at least guarantee on producing that thing  
+Tactic 2 :  Immersive  Learning  
+Immersion is the process of surrounding your self in an environment where the skill is used . Learning a language  is where immersion work  , by immersion yourself  in an environment where language is spoken 
+Tactic 3 : The Flight Simulator Method 
+in flight simulator ,for skill  like piloting  a plan  it is not practical to even consider doing it in real life situation. Rather than implementing a  real life  situation that the flight is in, you should instead practice your cognitive features , situation where you need to make decision about what to do and cue knowledge you've store in your head , a simulation of the environment will work  
+practicing on flight simulator that does not  need extensive graphic
+if you wonder what is the best way to learn france before your flight to France you should do skype tutoring instead of flash card
+Tactic 4 : the over kill approach
+The over kill method is too put yourself  in an environment where the demand is going to be very high so that you can push your self and not miss any importance lesson 
+you might   choose to not program your application and listen to Youtube video instead , but if you drive into it completely  
+One way to overkill a project is too aim for a particular test , performance , or challenge that will be above the skill level you strictly require
+Learn straight from the source  
+It's a good habit to ask yourself where knowledge will manifest itself . If you do not , then you much rear carefully because the problem of transfer may show it head to you 
+Doing a lot of practice in an  environment where you want to eventually learn the skill is a good start 
 - **Why It’s Important:**
 - **Key Examples:**
 Vatsal Jaiswal enter India with the dream of becoming architect . four year later armed with a newly  minted  degree and entering into the worse job market since the great depression that dream begin to be very far away . Frims were layoff every experience architects Most have given up , taking jobs out side their flied  . Vatsal Jaiswal  feel like he ahd been traned in creative design  project that was isolated from building code  , the firm  thing that hiring him will result in a lengthy  hiring training period , something a few firms could currently afford . He found a jobs at a large firms printing shop to scape by  and the shop provided him with experience on what the blue print film were using 
@@ -275,9 +301,22 @@ though the swath of recent graduates with unimpressive portfolios  there is a re
 enough architectural skill that firms would hire him he opted to build a portfolio using the software those firms used and design 
 his knowledge of design theories  interesting and fun . It was disconnected from the actual skill used in  companies 
 
-Roger Craig did his Jeopardy! testing on the actual questions from past shows. Eric Barone learned video game art by making art for his video game. Benny Lewis learns to speak languages quickly by following a policy of attempting some back-and-forth dialog from the very first day. What these approaches share is that the learning activities are always done with a connection to the context in which the skills learned will eventually be used.
-- **Best Practices:**
-- **How to Apply This Principle:**
+Roger Craig did his Jeopardy! testing on the actual questions from past shows. Eric Barone learned video game art by making art for his video game. Benny Lewis learns to speak languages quickly by following a policy of attempting some back-and-forth dialog from the very first day. What these approaches share is that the learning activities are always done with a connection to the context in which the skills learned will eventually be used.  
+
+Roger Craig knew that he had to create an environment to translate what he learn to Jeopardy  . by being on the show 100 times. Start by learning from the past Jeopardy 
+
+
+During the Author MIT  challenge he realize that to pass the class it wasn't the lecture set it was the problem set that was importance . Most student thing that the lecture sitting and listening to them will improve their learning  , similar to those that thing the final exam is a check on their knowledge  . 
+
+During the Author no English method , he figure out that he  can learn a language by using dictionary app and seeing word that he forgot 
+
+understand a subject particularly well  , such as Vishal Maini with machine learning  and artificial intelligence , he want to be able to thing and talk intelligently about machine learning  . Enough to be able to land non technical role in a company that utilized that method  
+
+one of the ultra learning  project bases learning was to create a paper about military history . Instead of having too passively read all the information from a text book  
+Tristan de Montebello ,  when preparing to completed in the world championship  of public speaking , pushed to speak at a middle school , the middle school children  were easy to bore so he could she wheter or not his speech have inspired them immediately than if he were to speak  to adult 
+
+###  **Best Practices:**
+### **How to Apply This Principle:**
 
 **---**
 ### **Review Template for Each Principle Chapter (IV–XII)**
