@@ -24,7 +24,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "book/Ultralearning.pdf.pdf"
+                "file": "book/Ultralearning.pdf.pdf",
+                "page": 153,
+                "left": -22,
+                "top": 518,
+                "zoom": 0.6838235294117647
               },
               "icon": "lucide-file-text",
               "title": "Ultralearning.pdf"
@@ -44,12 +48,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Learning With Chat gpt.md",
+                "file": "Learning thing that interest me/Embeded engineering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning With Chat gpt"
+              "title": "Embeded engineering"
             }
           },
           {
@@ -112,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "learning chat",
+                "query": "embed",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -230,6 +234,7 @@
   },
   "active": "0f77fe5cd359b8dd",
   "lastOpenFiles": [
+    "Learning/Learning With Chat gpt.md",
     "Learning with AI Tools.md",
     "Learning thing that interest me/programming language/C++/learnCpp/1.5 — Introduction to iostream cout, cin, and endl.md",
     "book/review/ultra learning review.md",
@@ -269,7 +274,6 @@
     "picture folder/Pasted image 20250213191758.png",
     "picture folder/Pasted image 20250213191530.png",
     "picture folder/Pasted image 20250213191406.png",
-    "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).md",
     "book/review/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)",
     "book/abc.pdf",
     "book/Fluent Python Clear, Concise, and Effective Programming, 2nd Edition (Luciano Ramalho) (Z-Library).pdf",
