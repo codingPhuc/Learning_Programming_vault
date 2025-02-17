@@ -24,11 +24,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "book/Ultralearning.pdf.pdf",
-                "page": 153,
-                "left": -16,
-                "top": 723,
-                "zoom": 0.9191176470588236
+                "file": "book/Ultralearning.pdf.pdf"
               },
               "icon": "lucide-file-text",
               "title": "Ultralearning.pdf"
