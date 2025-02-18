@@ -334,14 +334,22 @@ apply Constraints to Accelerate Learning :   you should constraint your self mor
 ## **Chapter [VII]: Principle [Drill  Attack Your Weakest Point]
 
 ## **Definition of the Principle:**
+### the Chemistry of learning 
+In Chemistry there is something call the rate-determining step , the rate determining step show the slowest part of this creating a bottle neck  . certain aspect of the learning problem forming a bottleneck that determining  the speed at which you become proficient overall  
+understand the fundamental concepts , you need to be able to remember the algorithm for solving a certain type of problem   . If your arithmetic is weak or your algebra is  sloppy , you'll get a wrong answer even if you master the other concepts . This is the logic behind doing your drills  , identify the rate determining steps in your learning reaction , isolate it and work on it specifically  
 
+### Drills and Cognitive Load 
+Rate Determining step in learning where one component   of a complex skill determines your overall learning . Your cognitive resources, When Franklin was writing , he had to consider not only the logical  content of the argument but also the word choice and style . In order to   to improve your performance in one aspect  you may need to devote so much time  in that one aspect 
+
+Drills can solve to problem of overall learning process where improvement go down as you learn , by simplifying a skill enough that you are  focus your cognitive resources on a single aspect 
+If direct practice involves working on a whole skill nearest to the situation in which it will eventually be used , drill are pull in the opposite direction . A drill take the direct part and cut it so that practicing only an isolated components 
+## Direct Then Drill Approach  
 ## **Why It’s Important:**
 
 ## **Key Examples:**
 Benjamin   Franklin  the founding father of the USA  was first and foremost a writer . It was first in writing that he found his success . His book became an international big seller and allow him to retire at  42. It was Franklin writing talent that acquire him allies and persuade potential  antagonists , making his writing into the declaration of independent . Franklin when about a series of exercise to practice his writing  .  One suck exercise was taking a favorite magazine of his , The Spectator , and trying to reconstruct  the original argument from  memory  
-### the Chemistry of learning 
-In Chemistry there is something call the rate-determining step , the rate determining step show the slowest part of this creating a bottle neck  . certain aspect of the learning problem forming a bottleneck that determining  the speed at which you become proficient overall  
-understand the fundamental concepts , you need to be able to remember the algorithm for solving a certain type of problem   . If 
+he asking what idea lead to a good arguments rather than also needing tobwory about word usage , grammar 
+
 ###  **Best Practices:** 
 
 ### **How to Apply This Principle:**
