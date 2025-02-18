@@ -344,12 +344,27 @@ Rate Determining step in learning where one component   of a complex skill deter
 Drills can solve to problem of overall learning process where improvement go down as you learn , by simplifying a skill enough that you are  focus your cognitive resources on a single aspect 
 If direct practice involves working on a whole skill nearest to the situation in which it will eventually be used , drill are pull in the opposite direction . A drill take the direct part and cut it so that practicing only an isolated components 
 ## Direct Then Drill Approach  
+
+The tension between learning directly and doing drills can be resolved when we see them  as being alternating stages , out when and how the skill will be used and then trying to match that situation as close as is feasible when practicing . Learning programming by writing software  , improve your  writing skill by writing easy . The next step is to analyze the direct skill and try to isolate components that are either rate determining step  in your performance or subskill you find difficult to improve . The final step is to go back to direct practice and integrate what you have learn  , the second function of this step is whether you skill was well design , attempts to isolate a drill may end in failure because drills does not cut in the heart of what make practice difficult . This is okay this feedback is important to help you minimize wasting time learning thing  that don't matter in your endgoal
+Cycling between direct practice and drills  .Later , as you get better at what you are trying to do and lot more effort improve your overall performance and take longer detours into drills into individual components become more refined and accurate and improving any individual component 
+
+## Tactics for Designing Drills 
+Figuring out when and what to drill , rate determining step in your performance. Which aspect of a skill will greatly improve your performance overall for the least effort . Your language abilities  may be held back by having inaccurate pronunciation or when writing an article ,you may have to  juggle research , storytelling and vocabulary , making hard to get a lot better at one . Make a hypothesis about what is holding you back , attack it with some drill , using the Direct-Then-Drill approach  , and you can get feedback on whether you are right  . Principle is designing the drill to produce  improvement , even if you recognize an  aspect of your performance you're weak on without artificially removing what make it difficult in actual application  
+
+### Drill  1 :  Time Slicing 
+The easiest way to create drill is to  isolate a slice in time of a longer sequence of actions. Hardest part of a piece of music and practice each one until it's perfect integrating it back into the context of the entire song or symphony .I often obsessively repeat a few key phrases , so they quicky embedded into my long term memory  
+
+### Drill 2 : Cognitive Components 
+cognitive component is like when you are speaking a language , grammar  , pronunciation , and vocabulary occur at the same time but they form different cognitive aspects that much be managed simultaneously . The tactics here is too drill only one component where the other would applies at the same time . When learning Mandarin Chinese , I would do tone drills that involved  pronouncing pair of word with different tone and recording myself speaking. That allow me practice producing different tone , without remembering what the words mean or how to form grammatically correct sentences 
+
+### Drill 3 : The Copycat 
+A difficulty of drill is that it impossible to practice one aspect without it involving the work of other. 
 ## **Why It’s Important:**
 
 ## **Key Examples:**
 Benjamin   Franklin  the founding father of the USA  was first and foremost a writer . It was first in writing that he found his success . His book became an international big seller and allow him to retire at  42. It was Franklin writing talent that acquire him allies and persuade potential  antagonists , making his writing into the declaration of independent . Franklin when about a series of exercise to practice his writing  .  One suck exercise was taking a favorite magazine of his , The Spectator , and trying to reconstruct  the original argument from  memory  
 he asking what idea lead to a good arguments rather than also needing tobwory about word usage , grammar 
-
+when Franklin  want to improve on his ability to order arguments logically it was not possible to do so without writing an entire  essay 
 ###  **Best Practices:** 
 
 ### **How to Apply This Principle:**
