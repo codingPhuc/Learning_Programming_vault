@@ -121,14 +121,16 @@
             "id": "6463eb68368786ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Tasks to do.md",
-                "mode": "source",
-                "source": false
+                "file": "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf",
+                "page": 156,
+                "left": 0,
+                "top": 376,
+                "zoom": 0.6547619047619048
               },
-              "icon": "lucide-file",
-              "title": "Tasks to do"
+              "icon": "lucide-file-text",
+              "title": "Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)"
             }
           }
         ],
@@ -268,6 +270,9 @@
   },
   "active": "6463eb68368786ea",
   "lastOpenFiles": [
+    "/Learning thing that interest me/Embeded engineering.md",
+    "/Learning thing that interest me",
+    "Tasks to do.md",
     "Learning thing that interest me/programming language/C++/learnCpp/1.3 Introduction to objects and variables.md",
     "Learning thing that interest me/programming language/C++/learnCpp/1.5 — Introduction to iostream cout, cin, and endl.md",
     "Learning thing that interest me/programming language/C++/learnCpp/0.9 — Configuring your compiler Build configurations.md",
@@ -288,7 +293,6 @@
     "/Learning thing that interest me/programming language/C++/Learning Road Maps.md",
     "/Learning thing that interest me/programming language/C++",
     "/Learning thing that interest me/programming language",
-    "/Learning thing that interest me",
     "book/Ultralearning.pdf.pdf",
     "picture folder/Pasted image 20250214150944.png",
     "C++  meeting.md",
@@ -310,8 +314,6 @@
     "book/review/ultra learning review.md",
     "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf",
     "Untitled 3.md",
-    "Deepseeks.md",
-    "book/review/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library)/Review Chapter 1 P Y T H O N B A S I C S.md",
     "picture folder/Pasted image 20250213191857.png",
     "picture folder/Pasted image 20250213191406.png"
   ]
