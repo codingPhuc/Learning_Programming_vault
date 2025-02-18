@@ -263,8 +263,8 @@ i will apply this principle by :
 - **Definition of the Principle:**
 The importance of Being direct :  
 building the wrong  portfolio  of skills for the kind of career and personal achievements we want to create  example : 
-	- we want to wrok on collaborative , professional program but mostly code scripts in isolation 
-	- Directly learning the thing we want is too boring , so we settle for an applicaiton to make us feel good than  archive the real thing  
+	- we want to work on collaborative , professional program but mostly code scripts in isolation 
+	- Directly learning the thing we want is too boring , so we settle for an applications to make us feel good than  archive the real thing  
 The opposite  of  directness is  often favor  in more traditional class room setting  . However ,  indirect approach to ultra learning is   aren't  limited to traditional education  .  Many self directed learner fall into the trap of indirect learning . For example , look at the application Duolingo it application even thought have a lot of color an effect  does not give you the right sense of direction when learning to speak a language .  Instead real  speaking does not translate to multiple choice you have to either get the word from your memory or used alternative 
 Directed mean that practicing the thing you want to get good at will improve it
 	- if you want  to be good at at speaking  in a language speak it  
@@ -293,8 +293,9 @@ One way to overkill a project is too aim for a particular test , performance , o
 Learn straight from the source  
 It's a good habit to ask yourself where knowledge will manifest itself . If you do not , then you much rear carefully because the problem of transfer may show it head to you 
 Doing a lot of practice in an  environment where you want to eventually learn the skill is a good start 
-- **Why It’s Important:**
-- **Key Examples:**
+## **Why It’s Important:**
+school teach you how to learn subject like theory  and all that but doesn't provide you with the necessary skill to  do in the work force .  So instead of learning thing  that you cannot practice choose to learn direct, meaning to learn skill that are applicable in the workforce , these skills help you better equid for your jobs than theory and abstract concept that you learn in school . There are many way for directness to be apply some create their own project other drive into overkill for  a degree 
+## **Key Examples:**
 Vatsal Jaiswal enter India with the dream of becoming architect . four year later armed with a newly  minted  degree and entering into the worse job market since the great depression that dream begin to be very far away . Frims were layoff every experience architects Most have given up , taking jobs out side their flied  . Vatsal Jaiswal  feel like he ahd been traned in creative design  project that was isolated from building code  , the firm  thing that hiring him will result in a lengthy  hiring training period , something a few firms could currently afford . He found a jobs at a large firms printing shop to scape by  and the shop provided him with experience on what the blue print film were using 
 Assorted project from  university   , he focused on a single building of his own design   : a three-tower residential structure with raised courtyards and a modern aesthetic. the project push his skill with software future forcing him to learn new methods and ideas beyond the basic of his online tutorials this project also give him a jobs at two large firms 
 though the swath of recent graduates with unimpressive portfolios  there is a real need to connect with people when it is 
@@ -315,11 +316,48 @@ understand a subject particularly well  , such as Vishal Maini with machine lear
 one of the ultra learning  project bases learning was to create a paper about military history . Instead of having too passively read all the information from a text book  
 Tristan de Montebello ,  when preparing to completed in the world championship  of public speaking , pushed to speak at a middle school , the middle school children  were easy to bore so he could she wheter or not his speech have inspired them immediately than if he were to speak  to adult 
 
-###  **Best Practices:**
+###  **Best Practices:** 
+The best Practices for directness is by first choosing the skill that you want to learn  instead of going around the brush . Learn the skill by practice and doing  it constantly by practice project , overkill , immersive learning and flight simulator  , or learn a skill that can be transfer like the example of Roger Crag 
+### **How to Apply This Principle:**
+first I need to  understand the skill that are require for the jobs this can be archive by  going on jobs broad and seeing which skill is needed for real life work . When I have gather all my data I will be direct and learn those skill , skill that require project like programming skill I will used the overkill method like doing exercise and project bases learning  like doing programming project . On the other hand , softskil that require an environment like public speaking I will used flight simulator or  environment learning to further enhance my skill 
+
+
+Break down the skill into actionable step   : search on jobs broad for desire skill that algin with the hiring environment , then break down those skill into subgroup that require different learning method  then break down each skill concept into fundamental method of a skill like  C++ programming what are the concept , fact and  practice . if the thing you learn lean more toward concept then you should used the overkill or immersive learning to explain the concept  or passing a theory test this is also true for fact . On the other hand , if the skill you learn require a lot of practice  then you need to   used the flight simulator method or practice project 
+Set Clear, Measurable Goals  :  used clear bench mark such as testing result the completion of a project and so on to create clear goal within the skill set that you are trying to learn 
+**Seek Feedback Early and Often** :  ask professional and people for clear bench mark , which skill should you improve and how should you improve it , this help you reach your desire understanding and so on . Asking professional will also help eliminate project or category that are not desirable to your actual jobs 
+Simulate Real-World Scenarios :  simulate real world scenario ,  these scenario can be like when you give public speaking to improve on you public speaking capability beast used to improve soft skill or skill that require a lot of practice learning 
+apply Constraints to Accelerate Learning :   you should constraint your self more when learning a skill , constraint can help you see different method for solving a problem like in OPP there is a lot of different method for creating class used constraint and apply the result so that you know which method  is really good for which scenario 
+**Document and Reflect on Progress**:  Document on your goal and progress , this help you reflex on the aspect you are lacking  helping you see clear insight on where you can improve 
+**---**
+
+
+## **Chapter [VII]: Principle [Drill  Attack Your Weakest Point]
+
+## **Definition of the Principle:**
+
+## **Why It’s Important:**
+
+## **Key Examples:**
+Benjamin   Franklin  the founding father of the USA  was first and foremost a writer . It was first in writing that he found his success . His book became an international big seller and allow him to retire at  42. It was Franklin writing talent that acquire him allies and persuade potential  antagonists , making his writing into the declaration of independent . Franklin when about a series of exercise to practice his writing  .  One suck exercise was taking a favorite magazine of his
+###  **Best Practices:** 
+
 ### **How to Apply This Principle:**
 
-**---**
-### **Review Template for Each Principle Chapter (IV–XII)**
+
+
+
+
+## **Chapter [VIII]: Principle [Drill  Attack Your Weakest Point]
+
+## **Definition of the Principle:**
+
+## **Why It’s Important:**
+
+## **Key Examples:**
+
+###  **Best Practices:** 
+
+### **How to Apply This Principle:**
 
 ## **Chapter [X]: Principle [#]—[Title]**
 
