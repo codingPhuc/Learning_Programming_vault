@@ -338,7 +338,10 @@ apply Constraints to Accelerate Learning :   you should constraint your self mor
 ## **Why It’s Important:**
 
 ## **Key Examples:**
-Benjamin   Franklin  the founding father of the USA  was first and foremost a writer . It was first in writing that he found his success . His book became an international big seller and allow him to retire at  42. It was Franklin writing talent that acquire him allies and persuade potential  antagonists , making his writing into the declaration of independent . Franklin when about a series of exercise to practice his writing  .  One suck exercise was taking a favorite magazine of his
+Benjamin   Franklin  the founding father of the USA  was first and foremost a writer . It was first in writing that he found his success . His book became an international big seller and allow him to retire at  42. It was Franklin writing talent that acquire him allies and persuade potential  antagonists , making his writing into the declaration of independent . Franklin when about a series of exercise to practice his writing  .  One suck exercise was taking a favorite magazine of his , The Spectator , and trying to reconstruct  the original argument from  memory  
+### the Chemistry of learning 
+In Chemistry there is something call the rate-determining step , the rate determining step show the slowest part of this creating a bottle neck  . certain aspect of the learning problem forming a bottleneck that determining  the speed at which you become proficient overall  
+understand the fundamental concepts , you need to be able to remember the algorithm for solving a certain type of problem   . If 
 ###  **Best Practices:** 
 
 ### **How to Apply This Principle:**
