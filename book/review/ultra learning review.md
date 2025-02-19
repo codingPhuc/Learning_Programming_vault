@@ -391,6 +391,25 @@ when Franklin  want to improve on his ability to order arguments logically it wa
 
 ## **Key Examples:**
 
+G.H Hardy  received a letter that would forever define his life. He receive a letter from an accounting clerk in India , a mathematical problem that the best mathematician at the time have not solve  . What happen that day was that he was introduce to the best mathematician at the time  Srinivasa Ramanujan 
+
+
+## Ramanujan  Genius 
+His unwillingness to study other subject flunked him out of university  .Equation were all that he care about ,slate in hand paying with formulas . 
+Ramanujan  mind excessively was a volume  by George  Synopsis of Elementary  .The book  , intended   as  a guide for student  , include  large  list of theorems from different flied of mathematics  
+## The Testing Effect 
+you have three different choice on how you can allocate your study  time . First you can review your material by passively looking at book and similar resources . Second ,you can test yourself  by keeping the books shut and remembering the material in the books . Finally , you can create a concept map . You can write out the main concept in a diagram , showing how they organize and related to others items you need to study 
+In the study , student were divided into  four group each with their own method of study . Each group  were asked too predict their result . Those who did repeated  reviewing predicted that they score high , follow by single study and concept mapping . Finally , those who tested them  self seem to did the worse 
+Testing yourself trying to retrieve information without  looking at the test  clearly outperformed all other condition . On question bases remembering of fact and concept those who practiced free recall remember about 50  percent more than the other group 
+Since self testing and actual testing are most similar  , perhaps it is similarity that allow this method to work  
+
+## The Paradox of Studying 
+trying to recall fact and concept for studying help student recall fact and concept from memory is so much better for learning why don't student realize it . Simply closing the book and  recall the memory would help them so much more ? This is due to the student testing after  reading the book they perform better when test after immediate  review  ,  but test again day latter and retrieval practice beats passive review by a miles 
+Another reason why is because student think they don't know the material enough to test it , and want to be more "ready" . Whether you are ready or not the retrieval practice works better 
+
+## Is Difficulty Desirable  
+What make practicing  retrieval so much better than review concept if desirable  difficulty .More difficult  retrieval leads to better learning ,provided the act of  retrieval itself is a success . Cue recall test , in which student are given hint about what they need to remember , where correct answer need to be recognized but not generated . 
+
 ###  **Best Practices:** 
 
 ### **How to Apply This Principle:**
