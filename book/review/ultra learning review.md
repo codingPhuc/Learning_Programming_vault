@@ -358,7 +358,17 @@ The easiest way to create drill is to  isolate a slice in time of a longer seque
 cognitive component is like when you are speaking a language , grammar  , pronunciation , and vocabulary occur at the same time but they form different cognitive aspects that much be managed simultaneously . The tactics here is too drill only one component where the other would applies at the same time . When learning Mandarin Chinese , I would do tone drills that involved  pronouncing pair of word with different tone and recording myself speaking. That allow me practice producing different tone , without remembering what the words mean or how to form grammatically correct sentences 
 
 ### Drill 3 : The Copycat 
-A difficulty of drill is that it impossible to practice one aspect without it involving the work of other. 
+A difficulty of drill is that it impossible to practice one aspect without it involving the work of other. You can  composite by  copying the part of the skill  you do  not want to drills (either from someone else or your past work) you need to only repeat the part you drilling , reducing your cognitive burden . The author start his  drawing not just from photo but from drawing other people have done 
+## Drill 4  The Magnifying glass method 
+The Magnifying glass method is to spend more time on one component of the skill than you would otherwise  , spend all much  higher proportion of your  time and cognitive resources on the subskill you want to master . The author apply this when writing  article by spending more time researching then writing  , help him develop his skill when doing research 
+
+## Drill  5  : Prerequisite Chaining 
+
+Learn a skill that you do not have a learn a prerequisite on  then go back a step when they see that hey have don't it poorly ,  They go back a step learn one of the foundational topics , and repeat  the exercise.   But is help with  avoiding skill that do not increase performance much  
+
+###  Mindful drilling 
+homework designed to drill into us fact and procedures turn out to be a total waste of time , the reason is because we did not know how it fit into the broader concepts . In ultra learning  drills take on a new light  . Instead of being forced to do them for unknown purposes , it is now up to you to find a way to enhance the learning process by accelerating learning on the  specific thing that you find most difficult 
+Drills require the learner not only to think deeply about  what is being learned but also figure out what is most difficult and attack that weakness directly 
 ## **Why It’s Important:**
 
 ## **Key Examples:**
