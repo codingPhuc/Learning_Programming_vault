@@ -133,8 +133,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -246,15 +245,26 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Learning thing that interest me/programming language/C++/learnCpp/0.2 — Introduction to programs and programming languages.md",
+                    "file": "Learning thing that interest me/programming language/C++/learnCpp/1.8 — Whitespace and basic formatting.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "0.2 — Introduction to programs and programming languages"
+                  "title": "1.8 — Whitespace and basic formatting"
+                }
+              },
+              {
+                "id": "67cc038537ac44b6",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -267,12 +277,12 @@
       }
     ]
   },
-  "active": "0f77fe5cd359b8dd",
+  "active": "67cc038537ac44b6",
   "lastOpenFiles": [
     "Learning/Learning With Chat gpt.md",
-    "Anki.md",
-    "Learning thing that interest me/programming language/C++/learnCpp/0.2 — Introduction to programs and programming languages.md",
     "Learning thing that interest me/programming language/C++/learnCpp/1.8 — Whitespace and basic formatting.md",
+    "Learning thing that interest me/programming language/C++/learnCpp/0.2 — Introduction to programs and programming languages.md",
+    "Anki.md",
     "Learning thing that interest me/programming language/C++/learnCpp/0.4 — Introduction to C++ development.md",
     "Learning thing that interest me/programming language/C++/learnCpp/0.3  Introduction to C C++.md",
     "Learning thing that interest me/programming language/C++/learnCpp/Developing your first program.md",
