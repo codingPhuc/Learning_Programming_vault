@@ -410,9 +410,110 @@ Another reason why is because student think they don't know the material enough 
 ## Is Difficulty Desirable  
 What make practicing  retrieval so much better than review concept if desirable  difficulty .More difficult  retrieval leads to better learning ,provided the act of  retrieval itself is a success . Cue recall test , in which student are given hint about what they need to remember , where correct answer need to be recognized but not generated . 
 
+Low intensity learning  strategies typically involve either less or easier retrieval . However pushing your self before you are ready is more efficient   . Thought this approach is  high  in difficulty , research suggest why it is more useful than easier form of classroom study . Putting  yourself in a more difficult environment will force you too retrieve the information more  and help with your retention  
+
+Difficulty  can become undesirable if it get too hard that  retrieval becomes impossible . However ,  if you delay the test for too long the information will be come forgotten in a entirely , find the right middle point : far enough aways to make any thing remember deeply , not so far that you forgotten everything . 
+
+## should you take the final exam before the class even begin 
+standard behind evaluating test is that they work by compounding your knowledge from  else where . Taking test will result  in learning   more than normal review  , knowledge being first acquire then  strengthened  or tested later 
+research show that retrieve  doesn't  only strengthen what you learn  beginning but lay the road work for knowledge that you haven't . The reason for this is still being discuss some say when we learn  new information we will try to spot the part where our knowledge is short  
+
+## What Should  be Retrieved ?  
+The research is clear if you plan on recalling some  thing later you are better of retrieving it . However, what kind of thing should you invest time into remembering  ?  
+The author said that he uses to learn model logic but now he does not know how the proof a model , but he had the benefit of knowing when to used and explain the skill set 
+One way to do this is by directness this mean that the skill you need to retrieve will show up when you need it for the skill , helping you know what fact an concept you need to retrieve  .  This help with learning high frequency  thing  and the thing that are not bought up  can be search instead of remember 
+a programmer may realize  a need to used a certain  function to solve a problem  but forget how to write it out.  However , if you do not know what type of knowledge can be look up to solve the problem that  won't help you 
+Directness can fail with some cases  . For example , there is two way for a programmer  to solve a problem  ,option A is the most efficient but option B can also do so as well   . She can choose option B because she is used to it the most and may read about  options A a lot don't remember it . So directness will help  with solving a problem but may omit knowledge for optimizing or  having alternative to solving the problem  
+## How to practice retrieval 
+
+## tactic 1 : flash cards 
+Flash card are effective way to learn pairs association  between question and answer .  These  software  can handle ten of thousand of card and manage  a review schedule so that you can manage them  
+That they work really well for a specific type of retrieval Similarly, maps, anatomical diagrams, definitions, and equations can often be memorized via flash cards  . Programmer can memoriz3e the syntax vie flash card but concept that need to be apply to real word don't  fit into the cue response frame work  
+## Tactic 2 : free  recall 
+Try to write down everything you can on a piece of paper , even if you just finish reading the text in the question  . By forcing your self to recall the main point and argument you will be able to recall it better 
+## Tactic 3  : The Question book method 
+Instead of writing and taking note of the answer you should create question then combine it with  the answer .  But you should avoid mistake  when converting fact to question , this include detail answer instead of main idea of the chapter 
+
+## Tactic 4   :  Self generated challenge  
+
+For a programmer ,  it not enough to know what a program mean but how to write it in code  . For example, when ever you encounter a new technique you need to write it down and give your self idea on how to used or implement that technique  , expanding your library of tools that you can actually apply . 
+
+## Tactic 5 : closed book learning 
+Nearly any activity can be  retrieval if you cut of the ability to search for hints .  Student creating a concept map should instead of looking into the books close off the book then create the concepts map  .The information  become knowledge store in your head instead of something on reference manual 
+
+
+
 ###  **Best Practices:** 
 
 ### **How to Apply This Principle:**
+
+
+
+
+## **Chapter [VIII]: Principle [Drill  Attack Your Weakest Point]
+
+## **Definition of the Principle:**
+
+## **Why It’s Important:**
+
+## **Key Examples:**
+
+G.H Hardy  received a letter that would forever define his life. He receive a letter from an accounting clerk in India , a mathematical problem that the best mathematician at the time have not solve  . What happen that day was that he was introduce to the best mathematician at the time  Srinivasa Ramanujan 
+
+
+## Ramanujan  Genius 
+His unwillingness to study other subject flunked him out of university  .Equation were all that he care about ,slate in hand paying with formulas . 
+Ramanujan  mind excessively was a volume  by George  Synopsis of Elementary  .The book  , intended   as  a guide for student  , include  large  list of theorems from different flied of mathematics  
+## The Testing Effect 
+you have three different choice on how you can allocate your study  time . First you can review your material by passively looking at book and similar resources . Second ,you can test yourself  by keeping the books shut and remembering the material in the books . Finally , you can create a concept map . You can write out the main concept in a diagram , showing how they organize and related to others items you need to study 
+In the study , student were divided into  four group each with their own method of study . Each group  were asked too predict their result . Those who did repeated  reviewing predicted that they score high , follow by single study and concept mapping . Finally , those who tested them  self seem to did the worse 
+Testing yourself trying to retrieve information without  looking at the test  clearly outperformed all other condition . On question bases remembering of fact and concept those who practiced free recall remember about 50  percent more than the other group 
+Since self testing and actual testing are most similar  , perhaps it is similarity that allow this method to work  
+
+## The Paradox of Studying 
+trying to recall fact and concept for studying help student recall fact and concept from memory is so much better for learning why don't student realize it . Simply closing the book and  recall the memory would help them so much more ? This is due to the student testing after  reading the book they perform better when test after immediate  review  ,  but test again day latter and retrieval practice beats passive review by a miles 
+Another reason why is because student think they don't know the material enough to test it , and want to be more "ready" . Whether you are ready or not the retrieval practice works better 
+
+## Is Difficulty Desirable  
+What make practicing  retrieval so much better than review concept if desirable  difficulty .More difficult  retrieval leads to better learning ,provided the act of  retrieval itself is a success . Cue recall test , in which student are given hint about what they need to remember , where correct answer need to be recognized but not generated . 
+
+Low intensity learning  strategies typically involve either less or easier retrieval . However pushing your self before you are ready is more efficient   . Thought this approach is  high  in difficulty , research suggest why it is more useful than easier form of classroom study . Putting  yourself in a more difficult environment will force you too retrieve the information more  and help with your retention  
+
+Difficulty  can become undesirable if it get too hard that  retrieval becomes impossible . However ,  if you delay the test for too long the information will be come forgotten in a entirely , find the right middle point : far enough aways to make any thing remember deeply , not so far that you forgotten everything . 
+
+## should you take the final exam before the class even begin 
+standard behind evaluating test is that they work by compounding your knowledge from  else where . Taking test will result  in learning   more than normal review  , knowledge being first acquire then  strengthened  or tested later 
+research show that retrieve  doesn't  only strengthen what you learn  beginning but lay the road work for knowledge that you haven't . The reason for this is still being discuss some say when we learn  new information we will try to spot the part where our knowledge is short  
+
+## What Should  be Retrieved ?  
+The research is clear if you plan on recalling some  thing later you are better of retrieving it . However, what kind of thing should you invest time into remembering  ?  
+The author said that he uses to learn model logic but now he does not know how the proof a model , but he had the benefit of knowing when to used and explain the skill set 
+One way to do this is by directness this mean that the skill you need to retrieve will show up when you need it for the skill , helping you know what fact an concept you need to retrieve  .  This help with learning high frequency  thing  and the thing that are not bought up  can be search instead of remember 
+a programmer may realize  a need to used a certain  function to solve a problem  but forget how to write it out.  However , if you do not know what type of knowledge can be look up to solve the problem that  won't help you 
+Directness can fail with some cases  . For example , there is two way for a programmer  to solve a problem  ,option A is the most efficient but option B can also do so as well   . She can choose option B because she is used to it the most and may read about  options A a lot don't remember it . So directness will help  with solving a problem but may omit knowledge for optimizing or  having alternative to solving the problem  
+## How to practice retrieval 
+
+## tactic 1 : flash cards 
+Flash card are effective way to learn pairs association  between question and answer .  These  software  can handle ten of thousand of card and manage  a review schedule so that you can manage them  
+That they work really well for a specific type of retrieval Similarly, maps, anatomical diagrams, definitions, and equations can often be memorized via flash cards  . Programmer can memoriz3e the syntax vie flash card but concept that need to be apply to real word don't  fit into the cue response frame work  
+## Tactic 2 : free  recall 
+Try to write down everything you can on a piece of paper , even if you just finish reading the text in the question  . By forcing your self to recall the main point and argument you will be able to recall it better 
+## Tactic 3  : The Question book method 
+Instead of writing and taking note of the answer you should create question then combine it with  the answer .  But you should avoid mistake  when converting fact to question , this include detail answer instead of main idea of the chapter 
+
+## Tactic 4   :  Self generated challenge  
+
+For a programmer ,  it not enough to know what a program mean but how to write it in code  . For example, when ever you encounter a new technique you need to write it down and give your self idea on how to used or implement that technique  , expanding your library of tools that you can actually apply . 
+
+## Tactic 5 : closed book learning 
+Nearly any activity can be  retrieval if you cut of the ability to search for hints .  Student creating a concept map should instead of looking into the books close off the book then create the concepts map  .The information  become knowledge store in your head instead of something on reference manual 
+
+
+
+###  **Best Practices:** 
+
+### **How to Apply This Principle:**
+
 
 ## **Chapter [X]: Principle [#]—[Title]**
 
