@@ -73,12 +73,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to ship.md",
+                "file": "Learning thing that interest me/programming language/C++/learnCpp/Developing your first program.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to ship"
+              "title": "Developing your first program"
             }
           },
           {
@@ -282,9 +282,11 @@
   },
   "active": "373ec9299b29e2e8",
   "lastOpenFiles": [
+    "Learning thing that interest me/programming language/C++/learnCpp/1.10 — Introduction to expressions.md",
+    "Learning thing that interest me/programming language/C++/learnCpp/Developing your first program.md",
+    "How to ship.md",
     "book/Ultralearning.pdf.pdf",
     "Learning thing that interest me/Computer Vision.md",
-    "How to ship.md",
     "picture folder/Pasted image 20250219133513.png",
     "picture folder/Pasted image 20250219134515.png",
     "picture folder/Pasted image 20250219134433.png",
@@ -297,7 +299,6 @@
     "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).pdf",
     "book/Automate the Boring Stuff with Python, 2nd Edit... (Z-Library).md",
     "Learning thing that interest me/programming language/C++/Learning Road Maps.md",
-    "Learning thing that interest me/programming language/C++/learnCpp/1.10 — Introduction to expressions.md",
     "Learning thing that interest me/programming language/C++/learnCpp/1.9 — Introduction to literals and operators.md",
     "Learning thing that interest me/programming language/C++/C++.md",
     "Learning thing that interest me/programming language/C++/learnCpp/1.7 — Keywords and naming identifiers.md",
